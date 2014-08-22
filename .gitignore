@@ -1,1 +1,4 @@
 paper/
+.SyncArchive/
+.SyncID
+.SyncIgnore
