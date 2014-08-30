@@ -1,0 +1,2 @@
+#将字符串按照长度排序
+awk ' { print length, $0}' a | sort -n | sed 's/.* //'

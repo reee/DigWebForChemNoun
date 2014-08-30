@@ -13,7 +13,7 @@ SPIDER_MODULES = ['people_scitech.spiders']
 NEWSPIDER_MODULE = 'people_scitech.spiders'
 
 AUTOTHROTTLE_ENABLED = True 
-DOWNLOAD_DELAY = 0.5
+DOWNLOAD_DELAY = 0.1
 RANDOMIZE_DOWNLOAD_DELAY = True
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

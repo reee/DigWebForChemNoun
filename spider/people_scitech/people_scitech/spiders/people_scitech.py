@@ -38,14 +38,9 @@ class PeopleSpider(CrawlSpider):
         #If the dir does not exists, make it
         if not os.path.exists(path):
             os.makedirs(path)
-        else:
-            pass
         #If the time_list or the content_list is empty,Means we get the wrong page
         #Do not create the file
         if time_list and content_list:
             filename = path + '/' + title + '.txt'
-            #filename = title + '.txt'
             with open(filename, "wb") as f:
                 f.write(content)
-        else:
-            pass

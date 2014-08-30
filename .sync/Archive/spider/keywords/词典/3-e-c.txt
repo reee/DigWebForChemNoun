@@ -1,0 +1,1764 @@
+﻿1,1-亚乙烯基单体  	<br><font color=blue size=4>1,1-亚乙烯基单体  </font>\n<br>vinylidene monomer\n
+1,2-polybutadiene  	<br><font color=blue size=4>1,2-polybutadiene  </font>\n<br>1,2-聚丁二烯\n
+1,2-polyisoprene  	<br><font color=blue size=4>1,2-polyisoprene  </font>\n<br>1,2-聚异戊二烯\n
+1,2-二取代乙烯单体  	<br><font color=blue size=4>1,2-二取代乙烯单体  </font>\n<br>vinylene monomer\n
+1,2-亚乙烯基单体  	<br><font color=blue size=4>1,2-亚乙烯基单体  </font>\n<br>vinylene monomer\n
+1,2-聚丁二烯  	<br><font color=blue size=4>1,2-聚丁二烯  </font>\n<br>1,2-polybutadiene\n
+1,2-聚异戊二烯  	<br><font color=blue size=4>1,2-聚异戊二烯  </font>\n<br>1,2-polyisoprene\n
+1,4-polybutadiene  	<br><font color=blue size=4>1,4-polybutadiene  </font>\n<br>1,4-聚丁二烯\n
+1,4-聚丁二烯  	<br><font color=blue size=4>1,4-聚丁二烯  </font>\n<br>1,4-polybutadiene\n
+2,2'- azobisisobutyronitrile  	<br><font color=blue size=4>2,2'- azobisisobutyronitrile  </font>\n<br>2,2′偶氮二异丁腈, AIBN\n
+2,2′偶氮二异丁腈  	<br><font color=blue size=4>2,2′偶氮二异丁腈  </font>\n<br>2,2'- azobisisobutyronitrile, AIBN\n
+3,4-polyisoprene  	<br><font color=blue size=4>3,4-polyisoprene  </font>\n<br>3,4-聚异戊二烯\n
+3,4-聚异戊二烯  	<br><font color=blue size=4>3,4-聚异戊二烯  </font>\n<br>3,4-polyisoprene\n
+AAS  	<br><font color=blue size=4>AAS  </font>\n<br>Acrylnitril-Acrylicester-Styrene Copolymer 丙烯腈、丙烯酸酯、苯乙烯共聚物\n
+abhesive  	<br><font color=blue size=4>abhesive  </font>\n<br>阻黏剂\n
+ablative polymer  	<br><font color=blue size=4>ablative polymer  </font>\n<br>烧蚀橡胶\n
+ablator  	<br><font color=blue size=4>ablator  </font>\n<br>烧蚀剂\n
+ABR  	<br><font color=blue size=4>ABR  </font>\n<br>（参见AR）Acrylester-Butadiene Rubber(ASTM) 丙烯酸酯-丁二烯橡胶\n
+ABS  	<br><font color=blue size=4>ABS  </font>\n<br>Acrylonitrile-Butadiene-Styrene Copolymer(GB,DIN,ASTM,ISO) 丙烯腈-丁二烯-苯乙烯共聚物\n
+accelerated ageing  	<br><font color=blue size=4>accelerated ageing  </font>\n<br>加速老化\n
+accelerated sulfur vulcanization  	<br><font color=blue size=4>accelerated sulfur vulcanization  </font>\n<br>促进硫化\n
+acetal resin  	<br><font color=blue size=4>acetal resin  </font>\n<br>缩醛树脂\n
+acetylenic polymer  	<br><font color=blue size=4>acetylenic polymer  </font>\n<br>乙炔类橡胶\n
+ACM  	<br><font color=blue size=4>ACM  </font>\n<br>(参见AR)Acrylester-2-Chlorovinylether rubber(ASTM) 丙烯酸酯-2-氯乙烯醚橡胶\n
+acrolein polymer  	<br><font color=blue size=4>acrolein polymer  </font>\n<br>丙烯醛类橡胶\n
+acrylate rubber  	<br><font color=blue size=4>acrylate rubber  </font>\n<br>丙烯酸酯橡胶\n
+acrylic fiber  	<br><font color=blue size=4>acrylic fiber  </font>\n<br>聚丙烯腈纤维,腈纶\n
+acrylic polymer  	<br><font color=blue size=4>acrylic polymer  </font>\n<br>丙烯酸[酯]类橡胶\n
+acrylic resin  	<br><font color=blue size=4>acrylic resin  </font>\n<br>丙烯酸[酯]类树脂\n
+acrylonitrile-butadiene-styrene resin  	<br><font color=blue size=4>acrylonitrile-butadiene-styrene resin  </font>\n<br>丙烯腈-丁二烯-苯乙烯树脂, 简称“ABS树脂”\n
+acrylonitrile styrene resin  	<br><font color=blue size=4>acrylonitrile styrene resin  </font>\n<br>丙烯腈-苯乙烯树脂, AS\n
+ACS  	<br><font color=blue size=4>ACS  </font>\n<br>SAN blend with chlorinated polyethylene 苯乙烯、丙烯腈与氯化聚乙烯混合物\n
+activated monomer  	<br><font color=blue size=4>activated monomer  </font>\n<br>活化单体\n
+activated polycondensation  	<br><font color=blue size=4>activated polycondensation  </font>\n<br>活化缩聚\n
+activating accelerator  	<br><font color=blue size=4>activating accelerator  </font>\n<br>活化促进剂\n
+activation grafting  	<br><font color=blue size=4>activation grafting  </font>\n<br>活化接枝\n
+activator  	<br><font color=blue size=4>activator  </font>\n<br>活化剂\n
+active carbon fiber  	<br><font color=blue size=4>active carbon fiber  </font>\n<br>活性碳纤维\n
+active center  	<br><font color=blue size=4>active center  </font>\n<br>活性中心\n
+activity of initiator  	<br><font color=blue size=4>activity of initiator  </font>\n<br>引发剂活性\n
+addition fragmentation chain transfer  	<br><font color=blue size=4>addition fragmentation chain transfer  </font>\n<br>加成断裂链转移\n
+addition polymer  	<br><font color=blue size=4>addition polymer  </font>\n<br>加[成]聚[合]物\n
+addition polymerization  	<br><font color=blue size=4>addition polymerization  </font>\n<br>加聚\n
+additive  	<br><font color=blue size=4>additive  </font>\n<br>添加剂\n
+adhesion  	<br><font color=blue size=4>adhesion  </font>\n<br>粘合\n
+adhesive  	<br><font color=blue size=4>adhesive  </font>\n<br>粘合剂,又称“胶粘剂”\n
+adjacent re-entry model  	<br><font color=blue size=4>adjacent re-entry model  </font>\n<br>相邻再入模型\n
+adsorption polymerization  	<br><font color=blue size=4>adsorption polymerization  </font>\n<br>吸附聚合\n
+AFMU  	<br><font color=blue size=4>AFMU  </font>\n<br>Nitroso rubber; Terpolymers of TFE,Trifluoronitrosomethane and Nitrosoperfluorobutyric acid(ASTM) 亚硝基橡胶;三氟亚硝基甲烷、亚硝基全氟丁酸\n
+after-treating agent  	<br><font color=blue size=4>after-treating agent  </font>\n<br>后处理剂\n
+agar-agar  	<br><font color=blue size=4>agar-agar  </font>\n<br>琼脂\n
+agglomerating agent  	<br><font color=blue size=4>agglomerating agent  </font>\n<br>附聚剂\n
+aggregate  	<br><font color=blue size=4>aggregate  </font>\n<br>聚集体\n
+aggregation  	<br><font color=blue size=4>aggregation  </font>\n<br>聚集\n
+AL  	<br><font color=blue size=4>AL  </font>\n<br>Alginate Fibers 藻朊酸纤维\n
+albumin  	<br><font color=blue size=4>albumin  </font>\n<br>白蛋白\n
+aldehyde polymer  	<br><font color=blue size=4>aldehyde polymer  </font>\n<br>醛类橡胶\n
+alfin initiator  	<br><font color=blue size=4>alfin initiator  </font>\n<br>烯醇钠引发剂\n
+aliphatic epoxy resin  	<br><font color=blue size=4>aliphatic epoxy resin  </font>\n<br>脂肪族环氧树脂\n
+aliphatic polyester  	<br><font color=blue size=4>aliphatic polyester  </font>\n<br>脂肪族聚酯\n
+ALK  	<br><font color=blue size=4>ALK  </font>\n<br>Alkyd Resin 醇酸树脂\n
+alkyd resin  	<br><font color=blue size=4>alkyd resin  </font>\n<br>醇酸树脂\n
+alkyllithium initiator  	<br><font color=blue size=4>alkyllithium initiator  </font>\n<br>烷基锂引发剂\n
+allene polymer  	<br><font color=blue size=4>allene polymer  </font>\n<br>丙二烯橡胶\n
+allylic polymerization  	<br><font color=blue size=4>allylic polymerization  </font>\n<br>烯丙基聚合\n
+allyl resin  	<br><font color=blue size=4>allyl resin  </font>\n<br>烯丙基树脂\n
+alternating copolymer  	<br><font color=blue size=4>alternating copolymer  </font>\n<br>交替共聚物\n
+alternating copolymerization  	<br><font color=blue size=4>alternating copolymerization  </font>\n<br>交替共聚合\n
+aluminate coupling agent  	<br><font color=blue size=4>aluminate coupling agent  </font>\n<br>铝酸酯偶联剂\n
+amine cellulose  	<br><font color=blue size=4>amine cellulose  </font>\n<br>胺纤维素\n
+amino resin  	<br><font color=blue size=4>amino resin  </font>\n<br>氨基树脂\n
+Aminotriazine resin  	<br><font color=blue size=4>Aminotriazine resin  </font>\n<br>三聚氰胺树脂\n
+AMMA  	<br><font color=blue size=4>AMMA  </font>\n<br>Acrylnitril-Methylmethacrylate Copolymer(GB,DIN,ISO) 丙烯腈、甲基丙烯酸甲酯共聚物\n
+amorphous orientation  	<br><font color=blue size=4>amorphous orientation  </font>\n<br>非晶取向\n
+amorphous phase  	<br><font color=blue size=4>amorphous phase  </font>\n<br>非晶相,无定形相\n
+amorphous region  	<br><font color=blue size=4>amorphous region  </font>\n<br>非晶区\n
+amorphous state  	<br><font color=blue size=4>amorphous state  </font>\n<br>非晶态\n
+amphiphilic block copolymer  	<br><font color=blue size=4>amphiphilic block copolymer  </font>\n<br>两亲嵌段共聚物\n
+amphiphilic polymer  	<br><font color=blue size=4>amphiphilic polymer  </font>\n<br>两亲橡胶\n
+amylopectin  	<br><font color=blue size=4>amylopectin  </font>\n<br>支链淀粉\n
+amylose  	<br><font color=blue size=4>amylose  </font>\n<br>直链淀粉\n
+amylum  	<br><font color=blue size=4>amylum  </font>\n<br>淀粉\n
+anaerobic adhesive  	<br><font color=blue size=4>anaerobic adhesive  </font>\n<br>厌氧黏合剂\n
+analysis of end group  	<br><font color=blue size=4>analysis of end group  </font>\n<br>端基分析\n
+anion exchange resin  	<br><font color=blue size=4>anion exchange resin  </font>\n<br>负离子交换树脂\n
+anionic electrochemical polymerization  	<br><font color=blue size=4>anionic electrochemical polymerization  </font>\n<br>负离子电化学聚合\n
+anionic exchange membrane  	<br><font color=blue size=4>anionic exchange membrane  </font>\n<br>负离子交换膜\n
+anionic isomerization polymerization  	<br><font color=blue size=4>anionic isomerization polymerization  </font>\n<br>负离子异构化聚合\n
+anionic polymerization  	<br><font color=blue size=4>anionic polymerization  </font>\n<br>负离子聚合,阴离子聚合\n
+anion radical initiator  	<br><font color=blue size=4>anion radical initiator  </font>\n<br>负离子自由基引发剂\n
+anisotropic membrane  	<br><font color=blue size=4>anisotropic membrane  </font>\n<br>各向异性膜\n
+ANM  	<br><font color=blue size=4>ANM  </font>\n<br>(参见AR)Acrylester-Acrylnitril Rubber(ASTM) 丙烯酸酯丙烯腈橡胶\n
+anti-aging agent  	<br><font color=blue size=4>anti-aging agent  </font>\n<br>防老剂\n
+anti-corrosion agent  	<br><font color=blue size=4>anti-corrosion agent  </font>\n<br>防蚀剂\n
+anticracking agent  	<br><font color=blue size=4>anticracking agent  </font>\n<br>抗龟裂剂\n
+antidegradant  	<br><font color=blue size=4>antidegradant  </font>\n<br>抗降解剂\n
+anti-fatigue agent  	<br><font color=blue size=4>anti-fatigue agent  </font>\n<br>抗疲劳剂\n
+antifoaming agent  	<br><font color=blue size=4>antifoaming agent  </font>\n<br>消泡剂\n
+antioxidant  	<br><font color=blue size=4>antioxidant  </font>\n<br>抗氧剂\n
+antiozonant  	<br><font color=blue size=4>antiozonant  </font>\n<br>防臭氧剂\n
+anti-reversion agent  	<br><font color=blue size=4>anti-reversion agent  </font>\n<br>抗硫化返原剂\n
+antiseptic  	<br><font color=blue size=4>antiseptic  </font>\n<br>防霉剂\n
+anti-skinning agent  	<br><font color=blue size=4>anti-skinning agent  </font>\n<br>防结皮剂\n
+antistatic additive  	<br><font color=blue size=4>antistatic additive  </font>\n<br>抗静电添加剂\n
+antistatic agent  	<br><font color=blue size=4>antistatic agent  </font>\n<br>抗静电剂\n
+AP  	<br><font color=blue size=4>AP  </font>\n<br>(参见APK,EPM,EPR)Ethylene-Propylene Rubber 乙丙橡胶\n
+APK  	<br><font color=blue size=4>APK  </font>\n<br>(参见AP,APT,EPM,EPR)Ethylene-Propylene Rubber 乙丙橡胶\n
+apparent molar mass  	<br><font color=blue size=4>apparent molar mass  </font>\n<br>表观摩尔质量\n
+apparent molecular weight  	<br><font color=blue size=4>apparent molecular weight  </font>\n<br>表观分子量\n
+apparent shear viscosity  	<br><font color=blue size=4>apparent shear viscosity  </font>\n<br>表观剪切黏度\n
+APT  	<br><font color=blue size=4>APT  </font>\n<br>(参见EPDM,EPT,EPTR)Ethylene-Propylene Terpolymerisate Rubber 三元乙丙橡胶\n
+AR  	<br><font color=blue size=4>AR  </font>\n<br>(参见ABR,ACM,ANM)Acrylester Rubber(BS) 丙烯酸酯橡胶\n
+aramid fiber  	<br><font color=blue size=4>aramid fiber  </font>\n<br>聚芳酰胺纤维,芳纶,芳香尼龙\n
+aromatic polyamide  	<br><font color=blue size=4>aromatic polyamide  </font>\n<br>聚芳酰胺\n
+aromatic polyester  	<br><font color=blue size=4>aromatic polyester  </font>\n<br>芳香族聚酯\n
+aromatic polysulfonamide  	<br><font color=blue size=4>aromatic polysulfonamide  </font>\n<br>聚芳砜酰胺\n
+artificial ageing  	<br><font color=blue size=4>artificial ageing  </font>\n<br>人工老化\n
+ASA  	<br><font color=blue size=4>ASA  </font>\n<br>Acrylonitril-Styrene-Acrylate Copolymer(GB,DIN) 丙烯腈、苯乙烯、丙烯酸酯共聚物\n
+ASE  	<br><font color=blue size=4>ASE  </font>\n<br>Alkylsulfonic Acid Ester(ISO) 烷基磺酸酯\n
+as-formed fiber  	<br><font color=blue size=4>as-formed fiber  </font>\n<br>初生纤维\n
+association polymer  	<br><font color=blue size=4>association polymer  </font>\n<br>缔合橡胶\n
+asymmetric induction polymerization  	<br><font color=blue size=4>asymmetric induction polymerization  </font>\n<br>不对称诱导聚合\n
+asymmetric selective polymerization  	<br><font color=blue size=4>asymmetric selective polymerization  </font>\n<br>不对称选择性聚合\n
+asymmetric stereoselective polymerization  	<br><font color=blue size=4>asymmetric stereoselective polymerization  </font>\n<br>不对称立体选择性聚合\n
+atactic block  	<br><font color=blue size=4>atactic block  </font>\n<br>无规立构嵌段\n
+atacticity  	<br><font color=blue size=4>atacticity  </font>\n<br>无规度,无规立构度\n
+atactic polymer  	<br><font color=blue size=4>atactic polymer  </font>\n<br>无规立构橡胶\n
+atom transfer radical polymerization  	<br><font color=blue size=4>atom transfer radical polymerization  </font>\n<br>原子转移自由基聚合, ATRP\n
+AU  	<br><font color=blue size=4>AU  </font>\n<br>Polyester based Polyurethane Rubber(ASTM) 聚酯型聚氨酯橡胶\n
+autoacceleration effect  	<br><font color=blue size=4>autoacceleration effect  </font>\n<br>自动加速效应\n
+autocatalytic polycondensation  	<br><font color=blue size=4>autocatalytic polycondensation  </font>\n<br>自催化缩聚\n
+auto-vulcanization  	<br><font color=blue size=4>auto-vulcanization  </font>\n<br>常温硫化\n
+auxiticity  	<br><font color=blue size=4>auxiticity  </font>\n<br>拉胀性\n
+average degree of polymerization  	<br><font color=blue size=4>average degree of polymerization  </font>\n<br>平均聚合度\n
+average functionality  	<br><font color=blue size=4>average functionality  </font>\n<br>平均官能度\n
+Avrami equation  	<br><font color=blue size=4>Avrami equation  </font>\n<br>阿夫拉米方程\n
+axialite  	<br><font color=blue size=4>axialite  </font>\n<br>轴晶\n
+azeotropic copolymer  	<br><font color=blue size=4>azeotropic copolymer  </font>\n<br>恒[组]分共聚物\n
+azeotropic copolymerization  	<br><font color=blue size=4>azeotropic copolymerization  </font>\n<br>恒组分共聚合\n
+azo polymer  	<br><font color=blue size=4>azo polymer  </font>\n<br>偶氮类橡胶\n
+azo type initiator  	<br><font color=blue size=4>azo type initiator  </font>\n<br>偶氮［类］引发剂\n
+backbitting transfer  	<br><font color=blue size=4>backbitting transfer  </font>\n<br>尾咬转移\n
+bacterial degradation  	<br><font color=blue size=4>bacterial degradation  </font>\n<br>细菌降解\n
+bag molding  	<br><font color=blue size=4>bag molding  </font>\n<br>袋模塑\n
+ball-spring [chain] model  	<br><font color=blue size=4>ball-spring [chain] model  </font>\n<br>球-簧链模型\n
+ball viscometer  	<br><font color=blue size=4>ball viscometer  </font>\n<br>落球黏度计\n
+ball viscosity  	<br><font color=blue size=4>ball viscosity  </font>\n<br>落球黏度\n
+banded texture  	<br><font color=blue size=4>banded texture  </font>\n<br>条带织构\n
+barrier polymer  	<br><font color=blue size=4>barrier polymer  </font>\n<br>阻透橡胶\n
+batch polymerization  	<br><font color=blue size=4>batch polymerization  </font>\n<br>分批聚合,间歇聚合\n
+BBP  	<br><font color=blue size=4>BBP  </font>\n<br>Benzyl Butyl Phthalate(DIN,ISO) 邻苯二酸丁酯苯酯\n
+bead polymerization  	<br><font color=blue size=4>bead polymerization  </font>\n<br>珠状聚合\n
+bead-rod model  	<br><font color=blue size=4>bead-rod model  </font>\n<br>珠-棒模型\n
+bending modulus  	<br><font color=blue size=4>bending modulus  </font>\n<br>弯曲模量\n
+bending strain  	<br><font color=blue size=4>bending strain  </font>\n<br>弯曲应变\n
+bending strength  	<br><font color=blue size=4>bending strength  </font>\n<br>弯曲强度\n
+bending stress  	<br><font color=blue size=4>bending stress  </font>\n<br>弯曲应力\n
+benzoyl peroxide  	<br><font color=blue size=4>benzoyl peroxide  </font>\n<br>过氧化苯甲酰, BPO\n
+biaxial drawing  	<br><font color=blue size=4>biaxial drawing  </font>\n<br>双轴拉伸\n
+biaxial orientation  	<br><font color=blue size=4>biaxial orientation  </font>\n<br>双轴取向\n
+bicomponent catalyst  	<br><font color=blue size=4>bicomponent catalyst  </font>\n<br>双组分催化剂\n
+bifunctional initiator， difunctional initiator  	<br><font color=blue size=4>bifunctional initiator， difunctional initiator  </font>\n<br>双官能引发剂\n
+bifunctional monomer  	<br><font color=blue size=4>bifunctional monomer  </font>\n<br>双官能［基］单体\n
+bimetallic catalyst  	<br><font color=blue size=4>bimetallic catalyst  </font>\n<br>双金属催化剂\n
+bimetallic μ-oxo alkoxides catalyst  	<br><font color=blue size=4>bimetallic μ-oxo alkoxides catalyst  </font>\n<br>μ氧桥双金属烷氧化物催化剂\n
+bimodal decomposition  	<br><font color=blue size=4>bimodal decomposition  </font>\n<br>亚稳相分离\n
+bimolecular termination  	<br><font color=blue size=4>bimolecular termination  </font>\n<br>双分子终止\n
+binary copolymer  	<br><font color=blue size=4>binary copolymer  </font>\n<br>二元共聚物\n
+binary copolymerization  	<br><font color=blue size=4>binary copolymerization  </font>\n<br>二元共聚合\n
+bin cure  	<br><font color=blue size=4>bin cure  </font>\n<br>自硫[化]\n
+Bingham fluid  	<br><font color=blue size=4>Bingham fluid  </font>\n<br>宾汉姆流体\n
+bioactive polymer  	<br><font color=blue size=4>bioactive polymer  </font>\n<br>生物活性高分子\n
+biocide  	<br><font color=blue size=4>biocide  </font>\n<br>抗微生物剂\n
+biocompatibility  	<br><font color=blue size=4>biocompatibility  </font>\n<br>生物兼容性\n
+biodegradable polymer  	<br><font color=blue size=4>biodegradable polymer  </font>\n<br>生物降解高分子\n
+biodegradation  	<br><font color=blue size=4>biodegradation  </font>\n<br>生物降解\n
+bioelastomer  	<br><font color=blue size=4>bioelastomer  </font>\n<br>生物弹性体\n
+bioerodable polymer  	<br><font color=blue size=4>bioerodable polymer  </font>\n<br>生物可蚀性高分子\n
+biomedical polymer  	<br><font color=blue size=4>biomedical polymer  </font>\n<br>生物医用高分子\n
+biomimetic polymer  	<br><font color=blue size=4>biomimetic polymer  </font>\n<br>仿生高分子\n
+biopolymer  	<br><font color=blue size=4>biopolymer  </font>\n<br>生物高分子\n
+biorientation  	<br><font color=blue size=4>biorientation  </font>\n<br>双轴取向\n
+bisphenol A epoxy resin  	<br><font color=blue size=4>bisphenol A epoxy resin  </font>\n<br>双酚A环氧树脂\n
+bisphenol A polycarbonate  	<br><font color=blue size=4>bisphenol A polycarbonate  </font>\n<br>双酚A聚碳酸酯\n
+blend  	<br><font color=blue size=4>blend  </font>\n<br>共混\n
+blended spinning  	<br><font color=blue size=4>blended spinning  </font>\n<br>共混纺丝\n
+block  	<br><font color=blue size=4>block  </font>\n<br>嵌段\n
+block copolymer  	<br><font color=blue size=4>block copolymer  </font>\n<br>嵌段共聚物\n
+block copolymerization  	<br><font color=blue size=4>block copolymerization  </font>\n<br>嵌段共聚合\n
+block poly(ester ether)  	<br><font color=blue size=4>block poly(ester ether)  </font>\n<br>嵌段聚醚酯\n
+block polymer  	<br><font color=blue size=4>block polymer  </font>\n<br>嵌段橡胶\n
+block polymerization  	<br><font color=blue size=4>block polymerization  </font>\n<br>嵌段聚合\n
+blood compatibility  	<br><font color=blue size=4>blood compatibility  </font>\n<br>血液兼容性\n
+blow molding  	<br><font color=blue size=4>blow molding  </font>\n<br>吹塑\n
+blown extrusion  	<br><font color=blue size=4>blown extrusion  </font>\n<br>吹胀挤塑\n
+BMC  	<br><font color=blue size=4>BMC  </font>\n<br>Bulk Moulding Compound 块状模塑料\n
+BOA  	<br><font color=blue size=4>BOA  </font>\n<br>Benzyl Octyl Adipate(ISO) 已二酸辛酯苄酯\n
+Boltzmann superposition principle  	<br><font color=blue size=4>Boltzmann superposition principle  </font>\n<br>玻耳兹曼迭加原理\n
+boron carbide fiber  	<br><font color=blue size=4>boron carbide fiber  </font>\n<br>碳化硼纤维\n
+boundary phase  	<br><font color=blue size=4>boundary phase  </font>\n<br>界面相\n
+BR  	<br><font color=blue size=4>BR  </font>\n<br>Polybutadiene Rubber(ASTM) 聚丁二烯橡胶\n
+branch chain  	<br><font color=blue size=4>branch chain  </font>\n<br>支链\n
+branched polymer  	<br><font color=blue size=4>branched polymer  </font>\n<br>支化橡胶\n
+branching density  	<br><font color=blue size=4>branching density  </font>\n<br>支化密度\n
+branching index  	<br><font color=blue size=4>branching index  </font>\n<br>支化系数\n
+breaking strength  	<br><font color=blue size=4>breaking strength  </font>\n<br>断裂强度\n
+bridged metallocene  	<br><font color=blue size=4>bridged metallocene  </font>\n<br>桥基茂金属\n
+Brinell hardness  	<br><font color=blue size=4>Brinell hardness  </font>\n<br>布氏硬度\n
+brittle cracking  	<br><font color=blue size=4>brittle cracking  </font>\n<br>脆性开裂\n
+brittle ductile transition  	<br><font color=blue size=4>brittle ductile transition  </font>\n<br>脆-韧转变\n
+brittle fracture  	<br><font color=blue size=4>brittle fracture  </font>\n<br>脆性断裂\n
+brittleness(brittle) temperature  	<br><font color=blue size=4>brittleness(brittle) temperature  </font>\n<br>脆化温度\n
+brush polymer  	<br><font color=blue size=4>brush polymer  </font>\n<br>刷状橡胶\n
+bulk modulus  	<br><font color=blue size=4>bulk modulus  </font>\n<br>本体模量\n
+bulk polymerization  	<br><font color=blue size=4>bulk polymerization  </font>\n<br>本体聚合\n
+bulk viscosity  	<br><font color=blue size=4>bulk viscosity  </font>\n<br>本体黏度\n
+butadiene-acrylonitrile rubber  	<br><font color=blue size=4>butadiene-acrylonitrile rubber  </font>\n<br>丁腈橡胶\n
+Buty1  	<br><font color=blue size=4>Buty1  </font>\n<br>(参见IIR,PIBI)Buty1 Rubber(BS) 丁基橡胶\n
+butyl rubber  	<br><font color=blue size=4>butyl rubber  </font>\n<br>丁基橡胶\n
+butyral resin  	<br><font color=blue size=4>butyral resin  </font>\n<br>缩丁醛树脂\n
+CA  	<br><font color=blue size=4>CA  </font>\n<br>Cellulose Acetate(GB,DIN,ASTM,ISO);\n<br>Acetate Rayon 乙酸纤维素 醋纤人造丝\n
+CAB  	<br><font color=blue size=4>CAB  </font>\n<br>Cellulose Acetate Butyrate(GB ,DIN,ASTM,ISO) 乙酸丁酸纤维素\n
+calenderability  	<br><font color=blue size=4>calenderability  </font>\n<br>压延性\n
+calendering  	<br><font color=blue size=4>calendering  </font>\n<br>压延,又称“轧光”\n
+CAP  	<br><font color=blue size=4>CAP  </font>\n<br>Cellulose Acetate Propionte(GB,DIN,ASTM) 乙酸丙酸纤维素\n
+capillary viscometer  	<br><font color=blue size=4>capillary viscometer  </font>\n<br>毛细管黏度计\n
+carbamide resin  	<br><font color=blue size=4>carbamide resin  </font>\n<br>聚脲树脂,又叫“碳酰胺树脂”\n
+carbanionic polymerization  	<br><font color=blue size=4>carbanionic polymerization  </font>\n<br>碳负离子聚合\n
+carbenium ion polymerization  	<br><font color=blue size=4>carbenium ion polymerization  </font>\n<br>碳正离子聚合\n
+carbocationic polymerization  	<br><font color=blue size=4>carbocationic polymerization  </font>\n<br>碳正离子聚合\n
+carbocyclic ladder polymer  	<br><font color=blue size=4>carbocyclic ladder polymer  </font>\n<br>碳环梯形橡胶\n
+carbon chain polymer  	<br><font color=blue size=4>carbon chain polymer  </font>\n<br>碳链橡胶\n
+carbon fiber  	<br><font color=blue size=4>carbon fiber  </font>\n<br>碳纤维\n
+carbon nano-tube  	<br><font color=blue size=4>carbon nano-tube  </font>\n<br>碳纳米管\n
+carboxymethyl cellulose  	<br><font color=blue size=4>carboxymethyl cellulose  </font>\n<br>羧甲基纤维素\n
+carboxy terminated nitrile rubber  	<br><font color=blue size=4>carboxy terminated nitrile rubber  </font>\n<br>羧基丁腈橡胶\n
+cast  	<br><font color=blue size=4>cast  </font>\n<br>铸塑\n
+cast molding  	<br><font color=blue size=4>cast molding  </font>\n<br>铸塑成型\n
+cast polymerization  	<br><font color=blue size=4>cast polymerization  </font>\n<br>铸塑聚合,浇铸聚合\n
+cation exchange membrane  	<br><font color=blue size=4>cation exchange membrane  </font>\n<br>正离子交换膜\n
+cation exchange resin  	<br><font color=blue size=4>cation exchange resin  </font>\n<br>正离子交换树脂\n
+cationic catalyst  	<br><font color=blue size=4>cationic catalyst  </font>\n<br>正离子催化剂\n
+cationic initiator  	<br><font color=blue size=4>cationic initiator  </font>\n<br>正离子引发剂\n
+cationic polymerization  	<br><font color=blue size=4>cationic polymerization  </font>\n<br>正离子聚合,阳离子聚合\n
+cauliflower polymer  	<br><font color=blue size=4>cauliflower polymer  </font>\n<br>花菜状橡胶\n
+CC  	<br><font color=blue size=4>CC  </font>\n<br>Cuproammonium Fiber 铜铵丝\n
+ceilling temperature of polymerization  	<br><font color=blue size=4>ceilling temperature of polymerization  </font>\n<br>聚合最高温度\n
+cellulose  	<br><font color=blue size=4>cellulose  </font>\n<br>纤维素\n
+cellulose acetate  	<br><font color=blue size=4>cellulose acetate  </font>\n<br>乙酸纤维素,醋酸纤维素\n
+cellulose nitrate  	<br><font color=blue size=4>cellulose nitrate  </font>\n<br>硝酸纤维素,硝化纤维素\n
+CF  	<br><font color=blue size=4>CF  </font>\n<br>Cresol Formaldehyde Resin(GB,DIN) 甲酚甲醛树脂\n
+CFK  	<br><font color=blue size=4>CFK  </font>\n<br>(参见KFK)Chemical Fiber Reinforced Plastics 化纤增强塑料\n
+CFM  	<br><font color=blue size=4>CFM  </font>\n<br>(参见PCTFE)Polychloro-Trifluoro Ethylene(ASTM) 聚三氟氯乙烯\n
+CFRP  	<br><font color=blue size=4>CFRP  </font>\n<br>Carbon Fiber Reinorced Plastics 碳纤维增强塑料\n
+chain axis  	<br><font color=blue size=4>chain axis  </font>\n<br>链轴\n
+chain backbone  	<br><font color=blue size=4>chain backbone  </font>\n<br>主链,链骨架\n
+chain branching  	<br><font color=blue size=4>chain branching  </font>\n<br>链支化\n
+chain breaking  	<br><font color=blue size=4>chain breaking  </font>\n<br>链断裂\n
+chain conformation  	<br><font color=blue size=4>chain conformation  </font>\n<br>链构象\n
+chain end  	<br><font color=blue size=4>chain end  </font>\n<br>链末端\n
+chain entanglement  	<br><font color=blue size=4>chain entanglement  </font>\n<br>链缠结\n
+chain extender  	<br><font color=blue size=4>chain extender  </font>\n<br>扩链剂,链增长剂\n
+chain flexibility  	<br><font color=blue size=4>chain flexibility  </font>\n<br>链柔性\n
+chain folding  	<br><font color=blue size=4>chain folding  </font>\n<br>链折迭\n
+chain growth  	<br><font color=blue size=4>chain growth  </font>\n<br>链增长\n
+chain initiation  	<br><font color=blue size=4>chain initiation  </font>\n<br>链引发\n
+chain orientational disorder  	<br><font color=blue size=4>chain orientational disorder  </font>\n<br>链取向无序\n
+chain polymer  	<br><font color=blue size=4>chain polymer  </font>\n<br>链型橡胶\n
+chain polymerization  	<br><font color=blue size=4>chain polymerization  </font>\n<br>链［式］聚合\n
+chain propagation  	<br><font color=blue size=4>chain propagation  </font>\n<br>链增长\n
+chain repeating distance  	<br><font color=blue size=4>chain repeating distance  </font>\n<br>链重复距离\n
+chain rigidity  	<br><font color=blue size=4>chain rigidity  </font>\n<br>链刚性\n
+chain scission degradation  	<br><font color=blue size=4>chain scission degradation  </font>\n<br>断链降解\n
+chain segment  	<br><font color=blue size=4>chain segment  </font>\n<br>链段\n
+chain terminating agent  	<br><font color=blue size=4>chain terminating agent  </font>\n<br>链终止剂\n
+chain termination  	<br><font color=blue size=4>chain termination  </font>\n<br>链终止\n
+chain transfer  	<br><font color=blue size=4>chain transfer  </font>\n<br>链转移\n
+chain transfer agent  	<br><font color=blue size=4>chain transfer agent  </font>\n<br>链转移剂\n
+chain transfer constant  	<br><font color=blue size=4>chain transfer constant  </font>\n<br>链转移常数\n
+charge transfer complex  	<br><font color=blue size=4>charge transfer complex  </font>\n<br>电荷转移复合物, CTC\n
+charge transfer initiation  	<br><font color=blue size=4>charge transfer initiation  </font>\n<br>电荷转移引发\n
+charge transfer polymerization  	<br><font color=blue size=4>charge transfer polymerization  </font>\n<br>电荷转移聚合\n
+CHC  	<br><font color=blue size=4>CHC  </font>\n<br>(参见CHR,CO,ECO)Epichlorohydrin Ethylenoxide Rubber 共聚氯醇乙烯化氧橡胶\n
+chelate polymer  	<br><font color=blue size=4>chelate polymer  </font>\n<br>螯合橡胶\n
+chelating ion-exchanger  	<br><font color=blue size=4>chelating ion-exchanger  </font>\n<br>螯合型离子交换剂\n
+chelating resin  	<br><font color=blue size=4>chelating resin  </font>\n<br>螯合型树脂\n
+chemical crosslinking  	<br><font color=blue size=4>chemical crosslinking  </font>\n<br>化学交联\n
+chemical degradation  	<br><font color=blue size=4>chemical degradation  </font>\n<br>化学降解\n
+chemical fiber  	<br><font color=blue size=4>chemical fiber  </font>\n<br>化学纤维\n
+chemical foam  	<br><font color=blue size=4>chemical foam  </font>\n<br>化学发泡\n
+chemical foaming agent  	<br><font color=blue size=4>chemical foaming agent  </font>\n<br>化学发泡剂\n
+chiral polymer  	<br><font color=blue size=4>chiral polymer  </font>\n<br>手性高分子\n
+chitin  	<br><font color=blue size=4>chitin  </font>\n<br>甲壳质\n
+chlorinated polyethylene (CPE)  	<br><font color=blue size=4>chlorinated polyethylene (CPE)  </font>\n<br>氯化聚乙烯\n
+chloroprene rubber  	<br><font color=blue size=4>chloroprene rubber  </font>\n<br>氯丁橡胶\n
+chlorosulfonated polyethylene  	<br><font color=blue size=4>chlorosulfonated polyethylene  </font>\n<br>氯磺化聚乙烯\n
+CHR  	<br><font color=blue size=4>CHR  </font>\n<br>(参见CHC,CO,ECO)Epichlorohydrin Rubber 均聚氯醇橡胶\n
+chromatographic fractionation  	<br><font color=blue size=4>chromatographic fractionation  </font>\n<br>色谱分级\n
+cis-1,4-polybutadiene  	<br><font color=blue size=4>cis-1,4-polybutadiene  </font>\n<br>顺［式］-1,4-聚丁二烯\n
+cis-1,4-polybutadiene rubber  	<br><font color=blue size=4>cis-1,4-polybutadiene rubber  </font>\n<br>顺丁橡胶\n
+cis-1,4-polyisoprene  	<br><font color=blue size=4>cis-1,4-polyisoprene  </font>\n<br>顺［式］-1,4-聚异戊二烯\n
+cistactic polymer  	<br><font color=blue size=4>cistactic polymer  </font>\n<br>顺式有规橡胶\n
+CM  	<br><font color=blue size=4>CM  </font>\n<br>(参见CPE)Chlorinated Polyethyene(ASTM) 氯化聚乙烯\n
+CMC  	<br><font color=blue size=4>CMC  </font>\n<br>Carboxymethyl Cellulose(GB,DIN,ASTM) 羧甲基纤维素\n
+CN  	<br><font color=blue size=4>CN  </font>\n<br>(参见NC)Cellulose Nitrate(GB,DIN,ASTM) 硝酸纤维素\n
+CO  	<br><font color=blue size=4>CO  </font>\n<br>(参见CHC,CHR,ECO)Epichlorhydrin Rubber;Polychloro-methyl-oxiran(ASTM) 氯醇橡胶\n
+coalescence  	<br><font color=blue size=4>coalescence  </font>\n<br>聚集,凝聚\n
+coating  	<br><font color=blue size=4>coating  </font>\n<br>涂料\n
+coaxial extrusion  	<br><font color=blue size=4>coaxial extrusion  </font>\n<br>同轴挤塑\n
+coextrusion  	<br><font color=blue size=4>coextrusion  </font>\n<br>共挤出\n
+coextrusion blow molding  	<br><font color=blue size=4>coextrusion blow molding  </font>\n<br>共挤吹塑\n
+coherent elastic scattering of radiation  	<br><font color=blue size=4>coherent elastic scattering of radiation  </font>\n<br>辐射的相干弹性散射\n
+cohesional entanglement  	<br><font color=blue size=4>cohesional entanglement  </font>\n<br>凝聚缠结\n
+coiled conformation  	<br><font color=blue size=4>coiled conformation  </font>\n<br>卷曲构象\n
+coil-globule transition  	<br><font color=blue size=4>coil-globule transition  </font>\n<br>线团-球粒转换\n
+coilingtype polymer  	<br><font color=blue size=4>coilingtype polymer  </font>\n<br>线团状橡胶\n
+coinitiator  	<br><font color=blue size=4>coinitiator  </font>\n<br>共引发剂\n
+coinjection molding  	<br><font color=blue size=4>coinjection molding  </font>\n<br>共注塑\n
+cold drawing  	<br><font color=blue size=4>cold drawing  </font>\n<br>冷拉伸\n
+cold flow  	<br><font color=blue size=4>cold flow  </font>\n<br>冷流\n
+cold rolling  	<br><font color=blue size=4>cold rolling  </font>\n<br>冷轧\n
+cold stretching  	<br><font color=blue size=4>cold stretching  </font>\n<br>冷拉伸\n
+collagen  	<br><font color=blue size=4>collagen  </font>\n<br>骨胶原\n
+colorant  	<br><font color=blue size=4>colorant  </font>\n<br>色料,着色剂\n
+column fractionation  	<br><font color=blue size=4>column fractionation  </font>\n<br>柱分级\n
+comb polymer  	<br><font color=blue size=4>comb polymer  </font>\n<br>梳形橡胶\n
+commodity polymer  	<br><font color=blue size=4>commodity polymer  </font>\n<br>通用高分子\n
+comonomer  	<br><font color=blue size=4>comonomer  </font>\n<br>共聚单体\n
+compatibility  	<br><font color=blue size=4>compatibility  </font>\n<br>兼容性\n
+compatibilizer  	<br><font color=blue size=4>compatibilizer  </font>\n<br>增容剂\n
+compatiibilization  	<br><font color=blue size=4>compatiibilization  </font>\n<br>增容作用\n
+complex compliance  	<br><font color=blue size=4>complex compliance  </font>\n<br>复数柔量\n
+complex dielectric permittivity  	<br><font color=blue size=4>complex dielectric permittivity  </font>\n<br>复数介电常数\n
+complex initiation system  	<br><font color=blue size=4>complex initiation system  </font>\n<br>复合引发体系\n
+complex modulus  	<br><font color=blue size=4>complex modulus  </font>\n<br>复数模量\n
+complex viscosity  	<br><font color=blue size=4>complex viscosity  </font>\n<br>复数黏度\n
+composite  	<br><font color=blue size=4>composite  </font>\n<br>复合材料\n
+composite molding  	<br><font color=blue size=4>composite molding  </font>\n<br>复合成型\n
+compositional heterogenity  	<br><font color=blue size=4>compositional heterogenity  </font>\n<br>组成非均一性\n
+compression forming  	<br><font color=blue size=4>compression forming  </font>\n<br>压缩成型\n
+compression molding  	<br><font color=blue size=4>compression molding  </font>\n<br>模压成型\n
+compression set  	<br><font color=blue size=4>compression set  </font>\n<br>压缩永久变形\n
+compressive deformation  	<br><font color=blue size=4>compressive deformation  </font>\n<br>压缩变形\n
+compressive strength  	<br><font color=blue size=4>compressive strength  </font>\n<br>压缩强度\n
+computer simulation  	<br><font color=blue size=4>computer simulation  </font>\n<br>计算器模拟\n
+concentration quenching  	<br><font color=blue size=4>concentration quenching  </font>\n<br>浓度猝灭\n
+condensation polymerization，polycondensation  	<br><font color=blue size=4>condensation polymerization，polycondensation  </font>\n<br>缩聚反应\n
+condensed phase  	<br><font color=blue size=4>condensed phase  </font>\n<br>凝聚相\n
+condensed state  	<br><font color=blue size=4>condensed state  </font>\n<br>凝聚态\n
+condensing process  	<br><font color=blue size=4>condensing process  </font>\n<br>凝聚过程\n
+conducting polymer  	<br><font color=blue size=4>conducting polymer  </font>\n<br>导电橡胶\n
+configurational disorder  	<br><font color=blue size=4>configurational disorder  </font>\n<br>构型无序\n
+configurational unit  	<br><font color=blue size=4>configurational unit  </font>\n<br>构型单元\n
+confined chain  	<br><font color=blue size=4>confined chain  </font>\n<br>受限链\n
+confined state  	<br><font color=blue size=4>confined state  </font>\n<br>受限态\n
+conformational disorder  	<br><font color=blue size=4>conformational disorder  </font>\n<br>构象无序\n
+conformational repeating unit  	<br><font color=blue size=4>conformational repeating unit  </font>\n<br>构象重复单元\n
+conjugated monomer  	<br><font color=blue size=4>conjugated monomer  </font>\n<br>共轭单体\n
+conjugated polymer  	<br><font color=blue size=4>conjugated polymer  </font>\n<br>共轭橡胶\n
+conjugate fiber  	<br><font color=blue size=4>conjugate fiber  </font>\n<br>组合纤维\n
+conjugate spinning  	<br><font color=blue size=4>conjugate spinning  </font>\n<br>复合纺丝\n
+constitutional heterogenity  	<br><font color=blue size=4>constitutional heterogenity  </font>\n<br>组成非均一性\n
+constitutional repeating unit  	<br><font color=blue size=4>constitutional repeating unit  </font>\n<br>重复结构单元\n
+constitutional unit  	<br><font color=blue size=4>constitutional unit  </font>\n<br>结构单元\n
+constitution controller  	<br><font color=blue size=4>constitution controller  </font>\n<br>结构控制剂\n
+constrained geometry metallocene catalyst  	<br><font color=blue size=4>constrained geometry metallocene catalyst  </font>\n<br>限定几何构型茂金属催化剂\n
+continuous polymerization  	<br><font color=blue size=4>continuous polymerization  </font>\n<br>连续聚合\n
+continuous vulcanization  	<br><font color=blue size=4>continuous vulcanization  </font>\n<br>连续硫化\n
+contour length  	<br><font color=blue size=4>contour length  </font>\n<br>伸直长度\n
+controlled radical polymerization  	<br><font color=blue size=4>controlled radical polymerization  </font>\n<br>控制自由基聚合,可控自由基聚合, CRP\n
+coordinated anionic polymerization  	<br><font color=blue size=4>coordinated anionic polymerization  </font>\n<br>配位负离子聚合\n
+coordinated cationic polymerization  	<br><font color=blue size=4>coordinated cationic polymerization  </font>\n<br>配位正离子聚合\n
+coordinated ionic polymerization  	<br><font color=blue size=4>coordinated ionic polymerization  </font>\n<br>配位离子聚合\n
+coordination polymer  	<br><font color=blue size=4>coordination polymer  </font>\n<br>配位橡胶\n
+coordination polymerization  	<br><font color=blue size=4>coordination polymerization  </font>\n<br>配位聚合\n
+coplasticizer  	<br><font color=blue size=4>coplasticizer  </font>\n<br>辅增塑剂\n
+copolycondensation  	<br><font color=blue size=4>copolycondensation  </font>\n<br>共缩聚\n
+copolyester  	<br><font color=blue size=4>copolyester  </font>\n<br>共聚酯\n
+copolyether  	<br><font color=blue size=4>copolyether  </font>\n<br>共聚醚\n
+copolymer  	<br><font color=blue size=4>copolymer  </font>\n<br>共聚物\n
+copolymerization  	<br><font color=blue size=4>copolymerization  </font>\n<br>共聚合\n
+copolymerization equation  	<br><font color=blue size=4>copolymerization equation  </font>\n<br>共聚合方程\n
+copolyoxymethylene  	<br><font color=blue size=4>copolyoxymethylene  </font>\n<br>共聚甲醛\n
+core shell copolymer  	<br><font color=blue size=4>core shell copolymer  </font>\n<br>核-壳共聚物\n
+core shell latex polymer  	<br><font color=blue size=4>core shell latex polymer  </font>\n<br>核-壳胶乳橡胶\n
+cospinning  	<br><font color=blue size=4>cospinning  </font>\n<br>共纺\n
+coumarone-indene resin  	<br><font color=blue size=4>coumarone-indene resin  </font>\n<br>苯并呋喃-茚树脂\n
+coupling agent  	<br><font color=blue size=4>coupling agent  </font>\n<br>偶联剂\n
+coupling polymerization  	<br><font color=blue size=4>coupling polymerization  </font>\n<br>偶联聚合\n
+coupling termination  	<br><font color=blue size=4>coupling termination  </font>\n<br>偶合终止\n
+CP  	<br><font color=blue size=4>CP  </font>\n<br>Cellulose Propionate(GB,DIN,ISO) 丙酸纤维素\n
+CPE  	<br><font color=blue size=4>CPE  </font>\n<br>(参见CM)Chorinated Polyethylene 氯化聚乙烯\n
+CPVC  	<br><font color=blue size=4>CPVC  </font>\n<br>(参见PC,PeCe,PVCC)Chlorinated PVC 氯化聚氯乙烯\n
+CR  	<br><font color=blue size=4>CR  </font>\n<br>Poly-2-chlorobutadiene-1,3 chloroprene Rubber(ASTM,BS) 氯丁橡胶\n
+crack  	<br><font color=blue size=4>crack  </font>\n<br>裂缝\n
+crack (俗称)  	<br><font color=blue size=4>crack (俗称)  </font>\n<br>龟裂\n
+craze  	<br><font color=blue size=4>craze  </font>\n<br>银纹\n
+creep  	<br><font color=blue size=4>creep  </font>\n<br>蠕变\n
+creep compliance  	<br><font color=blue size=4>creep compliance  </font>\n<br>蠕变柔量\n
+critical aggregation concentration  	<br><font color=blue size=4>critical aggregation concentration  </font>\n<br>临界聚集浓度\n
+critical micelle concentration，CMC  	<br><font color=blue size=4>critical micelle concentration，CMC  </font>\n<br>临界胶束浓度\n
+critical molecular weight  	<br><font color=blue size=4>critical molecular weight  </font>\n<br>临界分子量\n
+crosslinked polymer  	<br><font color=blue size=4>crosslinked polymer  </font>\n<br>交联橡胶\n
+crosslinking  	<br><font color=blue size=4>crosslinking  </font>\n<br>交联\n
+crosslinking density  	<br><font color=blue size=4>crosslinking density  </font>\n<br>交联密度\n
+crosslinking index  	<br><font color=blue size=4>crosslinking index  </font>\n<br>交联指数\n
+cross propagation  	<br><font color=blue size=4>cross propagation  </font>\n<br>交叉增长\n
+cross termination  	<br><font color=blue size=4>cross termination  </font>\n<br>交叉终止\n
+crude rubber  	<br><font color=blue size=4>crude rubber  </font>\n<br>生橡胶\n
+crystalline fold period  	<br><font color=blue size=4>crystalline fold period  </font>\n<br>晶体折迭周期\n
+crystalline polymer  	<br><font color=blue size=4>crystalline polymer  </font>\n<br>结晶橡胶\n
+crystallinity  	<br><font color=blue size=4>crystallinity  </font>\n<br>结晶度\n
+CS  	<br><font color=blue size=4>CS  </font>\n<br>Casein Plastics(GB，DIN) 酪素塑料\n
+CSM  	<br><font color=blue size=4>CSM  </font>\n<br>(参见CSPR)Chlorosulfonated Polyethyelene(ASTM) 酪磺化聚乙烯（海普隆商品）\n
+CSPR  	<br><font color=blue size=4>CSPR  </font>\n<br>(参见CSM)Chlorosulfonated Polyethyelene(BS) 氯磺化聚乙烯（海普隆商品）\n
+CT  	<br><font color=blue size=4>CT  </font>\n<br>Triacetate Fiber 三醋酸纤维\n
+CTA  	<br><font color=blue size=4>CTA  </font>\n<br>Cellulose Triacetate(GB) 三乙酸纤维素\n
+CTFE  	<br><font color=blue size=4>CTFE  </font>\n<br>Poly(chlorotrifluoroethylene)聚一氯三氟乙烯\n
+cure  	<br><font color=blue size=4>cure  </font>\n<br>固化\n
+curing  	<br><font color=blue size=4>curing  </font>\n<br>固化\n
+curing agent  	<br><font color=blue size=4>curing agent  </font>\n<br>固化剂\n
+CV  	<br><font color=blue size=4>CV  </font>\n<br>Viscose Rayon 粘胶丝\n
+cyclic monomer  	<br><font color=blue size=4>cyclic monomer  </font>\n<br>环状单体\n
+cycloaddition polymerization  	<br><font color=blue size=4>cycloaddition polymerization  </font>\n<br>环加成聚合\n
+cycloalkene polymerization  	<br><font color=blue size=4>cycloalkene polymerization  </font>\n<br>环烯聚合\n
+cyclopolymerization  	<br><font color=blue size=4>cyclopolymerization  </font>\n<br>环化聚合\n
+cyclosiloxane polymerization  	<br><font color=blue size=4>cyclosiloxane polymerization  </font>\n<br>环硅氧烷聚合\n
+dead end polymerization  	<br><font color=blue size=4>dead end polymerization  </font>\n<br>无活性端聚合,死端聚合\n
+dead milled  	<br><font color=blue size=4>dead milled  </font>\n<br>过炼\n
+deflection  	<br><font color=blue size=4>deflection  </font>\n<br>挠曲\n
+deformation  	<br><font color=blue size=4>deformation  </font>\n<br>形变,变形\n
+deformation set  	<br><font color=blue size=4>deformation set  </font>\n<br>永久变形\n
+degradable polymer  	<br><font color=blue size=4>degradable polymer  </font>\n<br>降解性高分子\n
+degradation  	<br><font color=blue size=4>degradation  </font>\n<br>降解,退化\n
+degradation (degradative) chain transfer  	<br><font color=blue size=4>degradation (degradative) chain transfer  </font>\n<br>退化链转移\n
+degree of branching  	<br><font color=blue size=4>degree of branching  </font>\n<br>支化度\n
+degree of crosslinking  	<br><font color=blue size=4>degree of crosslinking  </font>\n<br>交联度\n
+degree of crystallinity  	<br><font color=blue size=4>degree of crystallinity  </font>\n<br>结晶度\n
+degree of orientation  	<br><font color=blue size=4>degree of orientation  </font>\n<br>取向度\n
+degree of polymerization  	<br><font color=blue size=4>degree of polymerization  </font>\n<br>聚合度\n
+degree of swelling  	<br><font color=blue size=4>degree of swelling  </font>\n<br>溶胀度\n
+demulsifier  	<br><font color=blue size=4>demulsifier  </font>\n<br>破乳剂\n
+dendrimer  	<br><font color=blue size=4>dendrimer  </font>\n<br>树状高分子\n
+dendrite  	<br><font color=blue size=4>dendrite  </font>\n<br>树枝[状]晶体\n
+dendritic polymer  	<br><font color=blue size=4>dendritic polymer  </font>\n<br>树状高分子\n
+denier  	<br><font color=blue size=4>denier  </font>\n<br>旦, 纤度单位, 9000米纤维重1克为1旦\n
+deoxyribonucleic acid  	<br><font color=blue size=4>deoxyribonucleic acid  </font>\n<br>脱氧核糖核酸, DNA\n
+depolarization  	<br><font color=blue size=4>depolarization  </font>\n<br>解偏振作用\n
+depolymerase  	<br><font color=blue size=4>depolymerase  </font>\n<br>解聚酶\n
+depolymerization  	<br><font color=blue size=4>depolymerization  </font>\n<br>解聚\n
+dextran  	<br><font color=blue size=4>dextran  </font>\n<br>葡聚糖,又称“右旋糖酐”\n
+dextrin  	<br><font color=blue size=4>dextrin  </font>\n<br>糊精\n
+diacetylene polymer  	<br><font color=blue size=4>diacetylene polymer  </font>\n<br>二乙炔橡胶\n
+diad  	<br><font color=blue size=4>diad  </font>\n<br>二单元组\n
+diallyl polymer  	<br><font color=blue size=4>diallyl polymer  </font>\n<br>二烯丙基橡胶\n
+diblock copolymer  	<br><font color=blue size=4>diblock copolymer  </font>\n<br>二嵌段共聚物\n
+dielectric dissipation factor  	<br><font color=blue size=4>dielectric dissipation factor  </font>\n<br>介电损耗因子\n
+dielectric loss constant  	<br><font color=blue size=4>dielectric loss constant  </font>\n<br>介电损耗常数\n
+dielectric relaxation time  	<br><font color=blue size=4>dielectric relaxation time  </font>\n<br>介电弛豫时间\n
+diene monomer  	<br><font color=blue size=4>diene monomer  </font>\n<br>双烯单体,二烯单体\n
+diene polymer  	<br><font color=blue size=4>diene polymer  </font>\n<br>双烯橡胶\n
+diene polymerization  	<br><font color=blue size=4>diene polymerization  </font>\n<br>双烯［类］聚合\n
+differential fiber  	<br><font color=blue size=4>differential fiber  </font>\n<br>改性纤维,俗称“差别纤维”\n
+diffusion controlled termination  	<br><font color=blue size=4>diffusion controlled termination  </font>\n<br>扩散控制终止\n
+dimer  	<br><font color=blue size=4>dimer  </font>\n<br>二聚体\n
+dimethyl silicone rubber  	<br><font color=blue size=4>dimethyl silicone rubber  </font>\n<br>二甲基硅橡胶\n
+discotic phase  	<br><font color=blue size=4>discotic phase  </font>\n<br>盘状相\n
+disorientation  	<br><font color=blue size=4>disorientation  </font>\n<br>解取向\n
+dispersant agent  	<br><font color=blue size=4>dispersant agent  </font>\n<br>分散剂\n
+dispersion polymerization  	<br><font color=blue size=4>dispersion polymerization  </font>\n<br>分散聚合\n
+disproportionation termination  	<br><font color=blue size=4>disproportionation termination  </font>\n<br>歧化终止\n
+dissymmetry of scattering  	<br><font color=blue size=4>dissymmetry of scattering  </font>\n<br>散射的非对称性\n
+DOP  	<br><font color=blue size=4>DOP  </font>\n<br>Dioctyl Phthalate Di-2-Ethylhexyl Phthalate(DIN,ISO,IUPAC) 邻苯二酸二辛酯，邻苯二酯二（2-乙已基）酯\n
+DOS  	<br><font color=blue size=4>DOS  </font>\n<br>Dioctyl Sebacate,Di-2-Ethylhexyl Sebacate(DIN,ISO,IUPAC) 癸二酸二辛酯，癸二酸二（2-乙已基）酯\n
+DOTP  	<br><font color=blue size=4>DOTP  </font>\n<br>Dioctyl Terephthalate,Di-2-Ethylhexyl Terephthalate(DIN,ISO) 对苯二酸二辛酯，对苯二酸二（2-乙已基）酯\n
+double stranded helix  	<br><font color=blue size=4>double stranded helix  </font>\n<br>双[股]螺旋\n
+double-strand polymer  	<br><font color=blue size=4>double-strand polymer  </font>\n<br>双股橡胶\n
+DOZ  	<br><font color=blue size=4>DOZ  </font>\n<br>Dioctyl Azelate,Di-2-Ethylhexyl Azelate(DIN,ISO,IUPAC) 壬二酸二辛酯，壬二酸二（2-乙已基）酯\n
+DPCF  	<br><font color=blue size=4>DPCF  </font>\n<br>Diphenyl Cresyl Phosphate(ISO) 磷酸二苯甲苯酯\n
+DPOF  	<br><font color=blue size=4>DPOF  </font>\n<br>Diphenyl Octyl Phosphate(ISO) 磷酸二苯辛酯\n
+drag reducer  	<br><font color=blue size=4>drag reducer  </font>\n<br>减阻剂\n
+drape molding  	<br><font color=blue size=4>drape molding  </font>\n<br>包模成型\n
+draw ratio  	<br><font color=blue size=4>draw ratio  </font>\n<br>拉伸比\n
+drier  	<br><font color=blue size=4>drier  </font>\n<br>催干剂\n
+dry jet wet spinning  	<br><font color=blue size=4>dry jet wet spinning  </font>\n<br>干喷湿法纺丝\n
+dry spinning  	<br><font color=blue size=4>dry spinning  </font>\n<br>干纺\n
+dry wet spinning  	<br><font color=blue size=4>dry wet spinning  </font>\n<br>干湿法纺丝\n
+ductile fracture  	<br><font color=blue size=4>ductile fracture  </font>\n<br>延性破裂\n
+DUP  	<br><font color=blue size=4>DUP  </font>\n<br>Diundecyl Phthalate 苯二酸十一烷酯\n
+dye sensitized phtoinitiation  	<br><font color=blue size=4>dye sensitized phtoinitiation  </font>\n<br>染料敏化光引发\n
+dynamic light scattering  	<br><font color=blue size=4>dynamic light scattering  </font>\n<br>动态光散射\n
+dynamic mechanical behavior  	<br><font color=blue size=4>dynamic mechanical behavior  </font>\n<br>动态力学行为\n
+dynamic transition  	<br><font color=blue size=4>dynamic transition  </font>\n<br>动态转变\n
+dynamic viscoelasticity  	<br><font color=blue size=4>dynamic viscoelasticity  </font>\n<br>动态黏弹性\n
+dynamic viscosity  	<br><font color=blue size=4>dynamic viscosity  </font>\n<br>动态黏度\n
+dynamic vulcanization  	<br><font color=blue size=4>dynamic vulcanization  </font>\n<br>动态硫化\n
+dystectic polymer  	<br><font color=blue size=4>dystectic polymer  </font>\n<br>高熔橡胶\n
+ebonite  	<br><font color=blue size=4>ebonite  </font>\n<br>硬质胶\n
+EC  	<br><font color=blue size=4>EC  </font>\n<br>Ethyl Cellulose(GB,DIN) 乙基纤维素\n
+ECB  	<br><font color=blue size=4>ECB  </font>\n<br>Ethylene Copolymer Bitumen Mixture 乙烯共聚体与沥青混合物\n
+ECO  	<br><font color=blue size=4>ECO  </font>\n<br>(参见CHC,CHR,CO)Epichlorohydrin Rubber(ASTM) 氯醇橡胶\n
+EEA  	<br><font color=blue size=4>EEA  </font>\n<br>Ethylene Ethylacrylate Copolymer(ISO) 乙烯/丙烯酸乙酯共聚物\n
+efficiency of grafting  	<br><font color=blue size=4>efficiency of grafting  </font>\n<br>接枝效率\n
+elastic deformation  	<br><font color=blue size=4>elastic deformation  </font>\n<br>弹性形变\n
+elastic hysteresis  	<br><font color=blue size=4>elastic hysteresis  </font>\n<br>弹性滞后\n
+elasticity  	<br><font color=blue size=4>elasticity  </font>\n<br>弹性\n
+elastic recovery  	<br><font color=blue size=4>elastic recovery  </font>\n<br>弹性回复\n
+elastomer  	<br><font color=blue size=4>elastomer  </font>\n<br>高弹体,弹性体\n
+elastomeric state  	<br><font color=blue size=4>elastomeric state  </font>\n<br>高弹态\n
+electroactive polymer  	<br><font color=blue size=4>electroactive polymer  </font>\n<br>电活性橡胶\n
+electrochromic polymer  	<br><font color=blue size=4>electrochromic polymer  </font>\n<br>电致变色橡胶\n
+electroluminescent polymer  	<br><font color=blue size=4>electroluminescent polymer  </font>\n<br>电致发光橡胶\n
+electrolytic polymerization  	<br><font color=blue size=4>electrolytic polymerization  </font>\n<br>电解聚合\n
+electrorheological fluid  	<br><font color=blue size=4>electrorheological fluid  </font>\n<br>电流变液\n
+electrostatic spinning  	<br><font color=blue size=4>electrostatic spinning  </font>\n<br>静电纺丝\n
+element polymer  	<br><font color=blue size=4>element polymer  </font>\n<br>元素高分子\n
+elimination polymerization  	<br><font color=blue size=4>elimination polymerization  </font>\n<br>消除聚合\n
+ELO  	<br><font color=blue size=4>ELO  </font>\n<br>Epoxydized Linseed Oil(DIN,ISO) 环氧化亚麻仁油\n
+elongation  	<br><font color=blue size=4>elongation  </font>\n<br>伸长态\n
+elongation at break  	<br><font color=blue size=4>elongation at break  </font>\n<br>断裂伸长\n
+eluant  	<br><font color=blue size=4>eluant  </font>\n<br>洗脱剂\n
+elution fractionation  	<br><font color=blue size=4>elution fractionation  </font>\n<br>洗脱分级,淋洗分级\n
+elution volume  	<br><font color=blue size=4>elution volume  </font>\n<br>洗脱体积\n
+embedding  	<br><font color=blue size=4>embedding  </font>\n<br>埋置,又称“包埋”\n
+emulsifier free emulsion polymerization  	<br><font color=blue size=4>emulsifier free emulsion polymerization  </font>\n<br>无乳化剂乳液聚合\n
+emulsion flash spinning process  	<br><font color=blue size=4>emulsion flash spinning process  </font>\n<br>乳液闪蒸纺丝法\n
+emulsion polymerization  	<br><font color=blue size=4>emulsion polymerization  </font>\n<br>乳液聚合\n
+emulsion polymerized butadiene styrene rubber  	<br><font color=blue size=4>emulsion polymerized butadiene styrene rubber  </font>\n<br>乳聚丁苯橡胶, ESBR\n
+emulsion spinning  	<br><font color=blue size=4>emulsion spinning  </font>\n<br>乳液纺丝\n
+enantioasymmetric polymerization  	<br><font color=blue size=4>enantioasymmetric polymerization  </font>\n<br>对映［体］不对称聚合\n
+enantiosymmetric polymerization  	<br><font color=blue size=4>enantiosymmetric polymerization  </font>\n<br>对映［体］对称聚合\n
+end capping  	<br><font color=blue size=4>end capping  </font>\n<br>封端\n
+end-to-end distance  	<br><font color=blue size=4>end-to-end distance  </font>\n<br>末端距\n
+end-to-end vector  	<br><font color=blue size=4>end-to-end vector  </font>\n<br>末端间矢量\n
+engineering plastic  	<br><font color=blue size=4>engineering plastic  </font>\n<br>工程塑料\n
+enzymatic polymerization  	<br><font color=blue size=4>enzymatic polymerization  </font>\n<br>酶聚合作用\n
+enzyme like polymer  	<br><font color=blue size=4>enzyme like polymer  </font>\n<br>类酶高分子\n
+E/P  	<br><font color=blue size=4>E/P  </font>\n<br>Ethylene Propylene Copolymer(GB,ISO) 乙烯/丙烯共聚物\n
+EP  	<br><font color=blue size=4>EP  </font>\n<br>Epoxy Resin(GB) 环氧树脂\n
+EPDM  	<br><font color=blue size=4>EPDM  </font>\n<br>(参见APT,EPT,EPTR)Ethylene Propylene Terpolymer Rubber 三元乙丙橡胶\n
+EP-G-G  	<br><font color=blue size=4>EP-G-G  </font>\n<br>Epoxy Resin Prepregnated Glassfiber Textile 玻璃纤维织物环氧预浸渍物\n
+epichloro-hydrin rubber  	<br><font color=blue size=4>epichloro-hydrin rubber  </font>\n<br>氯醚橡胶\n
+epitaxial crystallization  	<br><font color=blue size=4>epitaxial crystallization  </font>\n<br>外延结晶,附生结晶\n
+epitaxial growth  	<br><font color=blue size=4>epitaxial growth  </font>\n<br>外延晶体生长,附生晶体生长\n
+EP-K-L  	<br><font color=blue size=4>EP-K-L  </font>\n<br>Epoxy Resin Prepregnated Carbonfiber 碳纤维环氧预浸渍物\n
+EPM  	<br><font color=blue size=4>EPM  </font>\n<br>(参见AP,APK,EPR)Ethylene Propylene Rubber(ASTM,ISO) 乙丙橡胶\n
+epoxy resin  	<br><font color=blue size=4>epoxy resin  </font>\n<br>环氧树脂\n
+EPR  	<br><font color=blue size=4>EPR  </font>\n<br>(参见AP,APK,EPM)Ethylene Propylene Rubber(BS) 乙丙橡胶\n
+EPS  	<br><font color=blue size=4>EPS  </font>\n<br>Expandable Polystyrene 可发性聚苯乙烯\n
+EPT  	<br><font color=blue size=4>EPT  </font>\n<br>(参见APT,EPDM,EPTR)Ethylene Propylene Terpolymer Rubber 三元乙丙橡胶\n
+EPTR  	<br><font color=blue size=4>EPTR  </font>\n<br>(参见APT,EPDM,EPT)Ethylene Propylene Terpolymer Rubber(BS) 三元乙丙橡胶\n
+E-PVC  	<br><font color=blue size=4>E-PVC  </font>\n<br>PVC Emulsions Polymerisate 聚氯乙烯乳液聚合物\n
+equilibrium melting point  	<br><font color=blue size=4>equilibrium melting point  </font>\n<br>平衡熔点\n
+equilibrium polymerization  	<br><font color=blue size=4>equilibrium polymerization  </font>\n<br>平衡聚合\n
+equilibrium swelling  	<br><font color=blue size=4>equilibrium swelling  </font>\n<br>平衡溶胀\n
+equitactic polymer  	<br><font color=blue size=4>equitactic polymer  </font>\n<br>全同间同等量橡胶\n
+equivalent chain  	<br><font color=blue size=4>equivalent chain  </font>\n<br>等效链\n
+erythro-diisotactic polymer  	<br><font color=blue size=4>erythro-diisotactic polymer  </font>\n<br>赤型双全同立构橡胶\n
+erythro-disyndiotactic polymer  	<br><font color=blue size=4>erythro-disyndiotactic polymer  </font>\n<br>赤型双间同立构橡胶\n
+E-SBR  	<br><font color=blue size=4>E-SBR  </font>\n<br>SBR Emulsions Polymerisate 丁苯橡胶乳液聚合物\n
+ESO  	<br><font color=blue size=4>ESO  </font>\n<br>Epoxydized Soyabean Oil(DIN,ISO) 环氧化豆油\n
+ester exchange polycondensation  	<br><font color=blue size=4>ester exchange polycondensation  </font>\n<br>酯交换型聚合\n
+ETFE  	<br><font color=blue size=4>ETFE  </font>\n<br>Ethylene Tetrafluoroethylene Copolymer(GB) 乙烯/四氟乙烯共聚物\n
+ethylene propylenecopolymer  	<br><font color=blue size=4>ethylene propylenecopolymer  </font>\n<br>二元乙丙橡胶,又称“乙丙二元橡胶”\n
+ethylene propylene diene monomer  	<br><font color=blue size=4>ethylene propylene diene monomer  </font>\n<br>三元乙丙橡胶,又称“乙丙三元橡胶”\n
+ethylene propylene monomer  	<br><font color=blue size=4>ethylene propylene monomer  </font>\n<br>二元乙丙橡胶,又称“乙丙二元橡胶”\n
+ethylene propylene rubber  	<br><font color=blue size=4>ethylene propylene rubber  </font>\n<br>二元乙丙橡胶,又称“乙丙二元橡胶”\n
+ethylene propylene terpolymer  	<br><font color=blue size=4>ethylene propylene terpolymer  </font>\n<br>三元乙丙橡胶,又称“乙丙三元橡胶”\n
+ethylene vinyl acetate copolymer (EVA)  	<br><font color=blue size=4>ethylene vinyl acetate copolymer (EVA)  </font>\n<br>乙烯-乙酸乙烯酯共聚物\n
+EU  	<br><font color=blue size=4>EU  </font>\n<br>(参见UE)Polyether based Polyurethane Rubber(ASTM) 聚醚型聚氨本橡胶\n
+Eucommea rubber  	<br><font color=blue size=4>Eucommea rubber  </font>\n<br>杜仲胶\n
+EVA  	<br><font color=blue size=4>EVA  </font>\n<br>Ethylene Vinylacetate Copolymer(DIN,ISO) 乙烯/乙酸乙烯酯共聚物\n
+EVAC  	<br><font color=blue size=4>EVAC  </font>\n<br>Ethylene Vinylacetate Rubber(GB) 乙烯/乙酸乙烯酯橡胶\n
+e value  	<br><font color=blue size=4>e value  </font>\n<br>e值\n
+excess Rayleigh ratio  	<br><font color=blue size=4>excess Rayleigh ratio  </font>\n<br>超瑞利比\n
+excimer fluorescence  	<br><font color=blue size=4>excimer fluorescence  </font>\n<br>激基缔合物荧光\n
+exciplex fluorescence  	<br><font color=blue size=4>exciplex fluorescence  </font>\n<br>激基复合物荧光\n
+excluded volume  	<br><font color=blue size=4>excluded volume  </font>\n<br>排除体积\n
+expanding foam  	<br><font color=blue size=4>expanding foam  </font>\n<br>发泡\n
+expansion factor  	<br><font color=blue size=4>expansion factor  </font>\n<br>溶胀因子\n
+extended-chain crystal  	<br><font color=blue size=4>extended-chain crystal  </font>\n<br>伸展链晶体\n
+extensional viscosity  	<br><font color=blue size=4>extensional viscosity  </font>\n<br>拉伸黏度\n
+extension ratio  	<br><font color=blue size=4>extension ratio  </font>\n<br>拉伸比\n
+external plasticization  	<br><font color=blue size=4>external plasticization  </font>\n<br>外增塑作用\n
+external releasing agent  	<br><font color=blue size=4>external releasing agent  </font>\n<br>外脱模剂\n
+extraction fractionation  	<br><font color=blue size=4>extraction fractionation  </font>\n<br>萃取分级\n
+extrusion  	<br><font color=blue size=4>extrusion  </font>\n<br>挤出,又称“压出”\n
+extrusion blow molding  	<br><font color=blue size=4>extrusion blow molding  </font>\n<br>挤出吹塑\n
+extrusion draw blow molding  	<br><font color=blue size=4>extrusion draw blow molding  </font>\n<br>挤拉吹塑成型\n
+e值  	<br><font color=blue size=4>e值  </font>\n<br>evalue\n
+fatigue resistance  	<br><font color=blue size=4>fatigue resistance  </font>\n<br>疲劳强度\n
+fatigue strength  	<br><font color=blue size=4>fatigue strength  </font>\n<br>疲劳强度\n
+FDAP  	<br><font color=blue size=4>FDAP  </font>\n<br>(参见DAP)Diallyl Phthalate(Resin) 苯二酸二烯丙酯（树脂）\n
+FEP  	<br><font color=blue size=4>FEP  </font>\n<br>(参见PFEP)Perfluoro Ethylene Propylene Copolymer(GB,DIN,ISO) 全氟（乙烯丙烯）共聚物\n
+ferroelectric polymer  	<br><font color=blue size=4>ferroelectric polymer  </font>\n<br>铁电橡胶\n
+ferromagnetic polymer  	<br><font color=blue size=4>ferromagnetic polymer  </font>\n<br>铁磁橡胶\n
+fiber  	<br><font color=blue size=4>fiber  </font>\n<br>纤维\n
+fiber forming  	<br><font color=blue size=4>fiber forming  </font>\n<br>成纤\n
+fiber reinforced plastic  	<br><font color=blue size=4>fiber reinforced plastic  </font>\n<br>纤维增强塑料\n
+fibril  	<br><font color=blue size=4>fibril  </font>\n<br>原纤\n
+fibrous crystal  	<br><font color=blue size=4>fibrous crystal  </font>\n<br>纤维晶\n
+fine polymer  	<br><font color=blue size=4>fine polymer  </font>\n<br>精细高分子\n
+fire retardant  	<br><font color=blue size=4>fire retardant  </font>\n<br>防火剂\n
+flame retardant  	<br><font color=blue size=4>flame retardant  </font>\n<br>阻燃剂\n
+flash polymerization  	<br><font color=blue size=4>flash polymerization  </font>\n<br>闪发聚合,暴聚\n
+flexible chain  	<br><font color=blue size=4>flexible chain  </font>\n<br>柔性链\n
+flexible chain polymer  	<br><font color=blue size=4>flexible chain polymer  </font>\n<br>柔性链橡胶\n
+flexomer  	<br><font color=blue size=4>flexomer  </font>\n<br>挠性橡胶\n
+flexural strength  	<br><font color=blue size=4>flexural strength  </font>\n<br>弯曲强度\n
+Flory-Huggins theory  	<br><font color=blue size=4>Flory-Huggins theory  </font>\n<br>弗洛里-哈金斯理论\n
+flow birefringence  	<br><font color=blue size=4>flow birefringence  </font>\n<br>流动双折射\n
+FLU  	<br><font color=blue size=4>FLU  </font>\n<br>Viton 维通橡胶\n
+fluorinated triazine rubber  	<br><font color=blue size=4>fluorinated triazine rubber  </font>\n<br>三嗪氟橡胶\n
+fluorocarbon resin  	<br><font color=blue size=4>fluorocarbon resin  </font>\n<br>氟碳树脂\n
+fluoroelastomer  	<br><font color=blue size=4>fluoroelastomer  </font>\n<br>氟橡胶\n
+fluoroether rubber  	<br><font color=blue size=4>fluoroether rubber  </font>\n<br>氟醚橡胶\n
+fluoroethylene resin  	<br><font color=blue size=4>fluoroethylene resin  </font>\n<br>氟树脂\n
+fluororubber  	<br><font color=blue size=4>fluororubber  </font>\n<br>氟橡胶\n
+fluorosilicone rubber  	<br><font color=blue size=4>fluorosilicone rubber  </font>\n<br>氟硅橡胶\n
+foaming agent  	<br><font color=blue size=4>foaming agent  </font>\n<br>发泡剂\n
+foam molding  	<br><font color=blue size=4>foam molding  </font>\n<br>泡沫塑料成型\n
+fold domain  	<br><font color=blue size=4>fold domain  </font>\n<br>折迭微区\n
+folded chain  	<br><font color=blue size=4>folded chain  </font>\n<br>折迭链\n
+folded-chain crystal  	<br><font color=blue size=4>folded-chain crystal  </font>\n<br>折迭链晶体\n
+fold plane  	<br><font color=blue size=4>fold plane  </font>\n<br>折迭面\n
+fold surface  	<br><font color=blue size=4>fold surface  </font>\n<br>折迭表面\n
+formalized PVA fiber  	<br><font color=blue size=4>formalized PVA fiber  </font>\n<br>聚乙烯醇缩甲醛纤维,维尼纶\n
+four center polymerization  	<br><font color=blue size=4>four center polymerization  </font>\n<br>四中心聚合\n
+FPM  	<br><font color=blue size=4>FPM  </font>\n<br>Vinylidene Fluoride Hexaflyoropropylene Rubber(ASTM) 偏氟乙烯/六氟丙烯橡胶\n
+fractionation  	<br><font color=blue size=4>fractionation  </font>\n<br>分级\n
+fracture mechanics  	<br><font color=blue size=4>fracture mechanics  </font>\n<br>断裂力学\n
+fracture toughness  	<br><font color=blue size=4>fracture toughness  </font>\n<br>断裂韧性\n
+freely-jointed chain  	<br><font color=blue size=4>freely-jointed chain  </font>\n<br>自由连接链\n
+freely-rotating chain  	<br><font color=blue size=4>freely-rotating chain  </font>\n<br>自由旋转链\n
+free radical chain degradation  	<br><font color=blue size=4>free radical chain degradation  </font>\n<br>自由基链降解\n
+free radical isomerization polymerization  	<br><font color=blue size=4>free radical isomerization polymerization  </font>\n<br>自由基异构化聚合\n
+free radical lifetime  	<br><font color=blue size=4>free radical lifetime  </font>\n<br>自由基寿命\n
+free radical polymerization  	<br><font color=blue size=4>free radical polymerization  </font>\n<br>自由基聚合,游离基聚合\n
+frictional coefficient  	<br><font color=blue size=4>frictional coefficient  </font>\n<br>摩擦系数\n
+fringed-micelle model  	<br><font color=blue size=4>fringed-micelle model  </font>\n<br>缨状微束模型\n
+FRP  	<br><font color=blue size=4>FRP  </font>\n<br>Fiber Reinforce Plastics 纤维增强塑料\n
+FSI  	<br><font color=blue size=4>FSI  </font>\n<br>Fluoro Methylsilicon Rubber(ASTM) 含氟甲基硅烷橡胶\n
+fully oriented yarn  	<br><font color=blue size=4>fully oriented yarn  </font>\n<br>全取向丝\n
+functional coating  	<br><font color=blue size=4>functional coating  </font>\n<br>功能涂料\n
+functional fiber  	<br><font color=blue size=4>functional fiber  </font>\n<br>功能纤维\n
+functionality  	<br><font color=blue size=4>functionality  </font>\n<br>官能度\n
+functional monomer  	<br><font color=blue size=4>functional monomer  </font>\n<br>官能单体\n
+functional polymer  	<br><font color=blue size=4>functional polymer  </font>\n<br>功能高分子\n
+furan resin  	<br><font color=blue size=4>furan resin  </font>\n<br>呋喃树脂\n
+furfural phenol resin  	<br><font color=blue size=4>furfural phenol resin  </font>\n<br>糠醛苯酚树脂\n
+furfural resin  	<br><font color=blue size=4>furfural resin  </font>\n<br>糠醛树脂\n
+fusion casting  	<br><font color=blue size=4>fusion casting  </font>\n<br>熔铸\n
+gas aided injection molding  	<br><font color=blue size=4>gas aided injection molding  </font>\n<br>气辅注塑\n
+gaseous polymerization  	<br><font color=blue size=4>gaseous polymerization  </font>\n<br>气相聚合\n
+gas phase polymerization  	<br><font color=blue size=4>gas phase polymerization  </font>\n<br>气相聚合\n
+Gaussian chain  	<br><font color=blue size=4>Gaussian chain  </font>\n<br>高斯链\n
+gel  	<br><font color=blue size=4>gel  </font>\n<br>凝胶\n
+gelatin  	<br><font color=blue size=4>gelatin  </font>\n<br>明胶\n
+gel chromatography  	<br><font color=blue size=4>gel chromatography  </font>\n<br>凝胶色谱法\n
+gel effect  	<br><font color=blue size=4>gel effect  </font>\n<br>凝胶效应\n
+gel point  	<br><font color=blue size=4>gel point  </font>\n<br>凝胶点\n
+gel spinning  	<br><font color=blue size=4>gel spinning  </font>\n<br>凝胶纺[丝]\n
+geometrical equivalence  	<br><font color=blue size=4>geometrical equivalence  </font>\n<br>几何等效\n
+GF  	<br><font color=blue size=4>GF  </font>\n<br>(参见GFK,RP)Glassfiber Plastics 玻纤增强塑料\n
+GF-EP  	<br><font color=blue size=4>GF-EP  </font>\n<br>Glassfiber Epoxy Plastics E玻纤环氧塑料\n
+GFK  	<br><font color=blue size=4>GFK  </font>\n<br>(参见GF,RP)Glassfiber Reinforced Plastics 玻纤增强塑料\n
+GF-PF  	<br><font color=blue size=4>GF-PF  </font>\n<br>Glassfiber Phenolic Plastics 玻纤增强酚醛塑料\n
+GFRP  	<br><font color=blue size=4>GFRP  </font>\n<br>Glassfiber Reinforced Plastics 玻纤增强塑料\n
+GF-UP  	<br><font color=blue size=4>GF-UP  </font>\n<br>Glassfiber Polyester(Unsaturated) Plastics 玻纤增强聚酯塑料\n
+glass transition  	<br><font color=blue size=4>glass transition  </font>\n<br>玻璃化转变\n
+glass-transition temperature  	<br><font color=blue size=4>glass-transition temperature  </font>\n<br>玻璃化转变温度\n
+glassy state  	<br><font color=blue size=4>glassy state  </font>\n<br>玻璃态\n
+global chain orientation  	<br><font color=blue size=4>global chain orientation  </font>\n<br>[分子]链大尺度取向\n
+globular-chain crystal  	<br><font color=blue size=4>globular-chain crystal  </font>\n<br>球状链晶体\n
+good solvent  	<br><font color=blue size=4>good solvent  </font>\n<br>良溶剂\n
+gradient copolymer  	<br><font color=blue size=4>gradient copolymer  </font>\n<br>梯度共聚物\n
+graft copolymer  	<br><font color=blue size=4>graft copolymer  </font>\n<br>接枝共聚物\n
+graft copolymerization  	<br><font color=blue size=4>graft copolymerization  </font>\n<br>接枝共聚合\n
+grafting degree  	<br><font color=blue size=4>grafting degree  </font>\n<br>接枝度\n
+grafting site  	<br><font color=blue size=4>grafting site  </font>\n<br>接枝点\n
+graft polymer  	<br><font color=blue size=4>graft polymer  </font>\n<br>接枝橡胶\n
+graft polymerization  	<br><font color=blue size=4>graft polymerization  </font>\n<br>接枝聚合\n
+GR-I  	<br><font color=blue size=4>GR-I  </font>\n<br>Formerly Butyl Rubber(US) 丁基橡胶\n
+GR-M  	<br><font color=blue size=4>GR-M  </font>\n<br>Chloroprene Rubber(US) 氯丁橡胶\n
+GR-N  	<br><font color=blue size=4>GR-N  </font>\n<br>Nitril Rubber(US) 丁腈橡胶\n
+group transfer polymerization，GTP  	<br><font color=blue size=4>group transfer polymerization，GTP  </font>\n<br>基团转移聚合\n
+GR-S  	<br><font color=blue size=4>GR-S  </font>\n<br>Styrol Butadiene Rubber(US) 丁苯橡胶\n
+gum  	<br><font color=blue size=4>gum  </font>\n<br>树胶\n
+GUP  	<br><font color=blue size=4>GUP  </font>\n<br>(参见GF-UP)GF Unsaturated Polyester Plastics 玻纤增强聚酯塑料（不饱和）\n
+Gutta percha  	<br><font color=blue size=4>Gutta percha  </font>\n<br>古塔波胶\n
+halogenated butyl rubber  	<br><font color=blue size=4>halogenated butyl rubber  </font>\n<br>卤化丁基橡胶\n
+hardening agent  	<br><font color=blue size=4>hardening agent  </font>\n<br>增硬剂\n
+HDPE  	<br><font color=blue size=4>HDPE  </font>\n<br>High Density Polyethylene(GB) 高密度聚乙烯\n
+head-to-head polymer  	<br><font color=blue size=4>head-to-head polymer  </font>\n<br>头-头橡胶\n
+head-to-tail polymer  	<br><font color=blue size=4>head-to-tail polymer  </font>\n<br>头-尾橡胶\n
+heat curing  	<br><font color=blue size=4>heat curing  </font>\n<br>热硫化\n
+heat distortion temperature  	<br><font color=blue size=4>heat distortion temperature  </font>\n<br>热畸变温度\n
+heat of polymerization  	<br><font color=blue size=4>heat of polymerization  </font>\n<br>聚合热\n
+heat stabilizer  	<br><font color=blue size=4>heat stabilizer  </font>\n<br>热稳定剂\n
+helical polymer  	<br><font color=blue size=4>helical polymer  </font>\n<br>螺旋形橡胶\n
+helix chain  	<br><font color=blue size=4>helix chain  </font>\n<br>螺旋链\n
+HEMA  	<br><font color=blue size=4>HEMA  </font>\n<br>同PHEMA\n
+heterochain polymer  	<br><font color=blue size=4>heterochain polymer  </font>\n<br>杂链橡胶\n
+heterocyclic polymer  	<br><font color=blue size=4>heterocyclic polymer  </font>\n<br>杂环高分子\n
+heterofiber  	<br><font color=blue size=4>heterofiber  </font>\n<br>异质复合纤维\n
+heterogeneous polymerization  	<br><font color=blue size=4>heterogeneous polymerization  </font>\n<br>非均相聚合\n
+heterogeneous vulcanization  	<br><font color=blue size=4>heterogeneous vulcanization  </font>\n<br>不均匀硫化\n
+heteropolymer  	<br><font color=blue size=4>heteropolymer  </font>\n<br>杂聚物\n
+heterotactic polymer  	<br><font color=blue size=4>heterotactic polymer  </font>\n<br>杂同立构橡胶,异规橡胶\n
+Hevea  	<br><font color=blue size=4>Hevea  </font>\n<br>三叶橡胶\n
+H-film  	<br><font color=blue size=4>H-film  </font>\n<br>H-膜\n
+high density polyethylene  	<br><font color=blue size=4>high density polyethylene  </font>\n<br>高密度聚乙烯, HDPE\n
+high elastic deformation  	<br><font color=blue size=4>high elastic deformation  </font>\n<br>高弹形变\n
+high impact polystyrene  	<br><font color=blue size=4>high impact polystyrene  </font>\n<br>高抗冲聚苯乙烯, HIPS\n
+high modulus polymer  	<br><font color=blue size=4>high modulus polymer  </font>\n<br>高模量橡胶\n
+high performance polymer  	<br><font color=blue size=4>high performance polymer  </font>\n<br>高性能高分子\n
+high polymer  	<br><font color=blue size=4>high polymer  </font>\n<br>高聚物\n
+high-pressure spinning  	<br><font color=blue size=4>high-pressure spinning  </font>\n<br>高压纺丝\n
+HIPS  	<br><font color=blue size=4>HIPS  </font>\n<br>High Impact Polystyrene(GB) 耐高冲击性聚苯乙烯\n
+HMWPE  	<br><font color=blue size=4>HMWPE  </font>\n<br>High Molecular Weight Polyethylene 高分子量聚乙烯\n
+hollocellulose  	<br><font color=blue size=4>hollocellulose  </font>\n<br>全纤维素\n
+hollow fiber  	<br><font color=blue size=4>hollow fiber  </font>\n<br>中空纤维\n
+homofiber  	<br><font color=blue size=4>homofiber  </font>\n<br>单组分纤维\n
+homogeneous metallocene catalyst  	<br><font color=blue size=4>homogeneous metallocene catalyst  </font>\n<br>均相茂金属催化剂\n
+homogeneous polymerization  	<br><font color=blue size=4>homogeneous polymerization  </font>\n<br>均相聚合\n
+homopolycondensation  	<br><font color=blue size=4>homopolycondensation  </font>\n<br>均相缩聚\n
+homopolymer  	<br><font color=blue size=4>homopolymer  </font>\n<br>均聚物\n
+homopolymerization  	<br><font color=blue size=4>homopolymerization  </font>\n<br>均聚反应\n
+homopropagation  	<br><font color=blue size=4>homopropagation  </font>\n<br>同种增长\n
+HR  	<br><font color=blue size=4>HR  </font>\n<br>(参见Butyl,PIBI)Brtyl Rubber,Isprene Isobutylene Copolymer(ASTM) 丁基橡胶\n
+Huggins coefficient  	<br><font color=blue size=4>Huggins coefficient  </font>\n<br>哈金斯系数\n
+Huggins equation  	<br><font color=blue size=4>Huggins equation  </font>\n<br>哈金斯公式\n
+hybrid composite  	<br><font color=blue size=4>hybrid composite  </font>\n<br>混杂复合材料\n
+hydrocarbon resin  	<br><font color=blue size=4>hydrocarbon resin  </font>\n<br>烃类树脂\n
+hydrodynamically equivalent sphere  	<br><font color=blue size=4>hydrodynamically equivalent sphere  </font>\n<br>流体力学等效球\n
+hydrodynamic volume  	<br><font color=blue size=4>hydrodynamic volume  </font>\n<br>流体力学体积\n
+hydrogenated butadiene-acrylonitrile rubber  	<br><font color=blue size=4>hydrogenated butadiene-acrylonitrile rubber  </font>\n<br>氢化丁腈橡胶\n
+hydrogenated rubber  	<br><font color=blue size=4>hydrogenated rubber  </font>\n<br>氢化橡胶\n
+hydrogen transfer polymerization  	<br><font color=blue size=4>hydrogen transfer polymerization  </font>\n<br>氢转移聚合\n
+hydrolytic degradation  	<br><font color=blue size=4>hydrolytic degradation  </font>\n<br>水解降解\n
+hydrophilic polymer  	<br><font color=blue size=4>hydrophilic polymer  </font>\n<br>亲水橡胶\n
+hydrophobic polymer  	<br><font color=blue size=4>hydrophobic polymer  </font>\n<br>疏水橡胶\n
+hydroxyethyl cellulose  	<br><font color=blue size=4>hydroxyethyl cellulose  </font>\n<br>羟乙基纤维素\n
+hyperbranched polymer  	<br><font color=blue size=4>hyperbranched polymer  </font>\n<br>超支化橡胶\n
+H-膜  	<br><font color=blue size=4>H-膜  </font>\n<br>H-film\n
+ideal copolymerization  	<br><font color=blue size=4>ideal copolymerization  </font>\n<br>理想共聚合\n
+identity period  	<br><font color=blue size=4>identity period  </font>\n<br>等同周期\n
+imbedding  	<br><font color=blue size=4>imbedding  </font>\n<br>镶铸\n
+immiscibility  	<br><font color=blue size=4>immiscibility  </font>\n<br>不混容性\n
+immortal polymerization  	<br><font color=blue size=4>immortal polymerization  </font>\n<br>不死的聚合\n
+impact modifier  	<br><font color=blue size=4>impact modifier  </font>\n<br>抗冲改性剂\n
+impact molding  	<br><font color=blue size=4>impact molding  </font>\n<br>冲压成型\n
+impact moulding  	<br><font color=blue size=4>impact moulding  </font>\n<br>冲压模塑\n
+impact strength  	<br><font color=blue size=4>impact strength  </font>\n<br>冲击强度\n
+impregnation  	<br><font color=blue size=4>impregnation  </font>\n<br>浸渍\n
+impression molding  	<br><font color=blue size=4>impression molding  </font>\n<br>触压成型\n
+incompatibility  	<br><font color=blue size=4>incompatibility  </font>\n<br>不兼容性\n
+indene resin  	<br><font color=blue size=4>indene resin  </font>\n<br>茚树脂\n
+indentation hardness  	<br><font color=blue size=4>indentation hardness  </font>\n<br>压痕硬度\n
+induced decomposition  	<br><font color=blue size=4>induced decomposition  </font>\n<br>诱导分解\n
+induction period  	<br><font color=blue size=4>induction period  </font>\n<br>诱导期\n
+inert filler  	<br><font color=blue size=4>inert filler  </font>\n<br>惰性填料\n
+inflation  	<br><font color=blue size=4>inflation  </font>\n<br>充气吹胀\n
+inherent viscosity  	<br><font color=blue size=4>inherent viscosity  </font>\n<br>比浓对数黏度\n
+inhibition  	<br><font color=blue size=4>inhibition  </font>\n<br>阻聚作用\n
+inhibitor  	<br><font color=blue size=4>inhibitor  </font>\n<br>阻聚剂\n
+inifer  	<br><font color=blue size=4>inifer  </font>\n<br>引发-转移剂\n
+iniferter  	<br><font color=blue size=4>iniferter  </font>\n<br>引发-转移-终止剂\n
+initiator  	<br><font color=blue size=4>initiator  </font>\n<br>引发剂\n
+initiator efficiency  	<br><font color=blue size=4>initiator efficiency  </font>\n<br>引发剂效率\n
+initiator transfer agent  	<br><font color=blue size=4>initiator transfer agent  </font>\n<br>引发-转移剂\n
+initiator transfer agent terminator  	<br><font color=blue size=4>initiator transfer agent terminator  </font>\n<br>引发-转移-终止剂\n
+injection compression molding  	<br><font color=blue size=4>injection compression molding  </font>\n<br>注塑压缩成型\n
+injection molding  	<br><font color=blue size=4>injection molding  </font>\n<br>注射成型\n
+injection welding  	<br><font color=blue size=4>injection welding  </font>\n<br>注塑焊接\n
+inorganic organic polymer  	<br><font color=blue size=4>inorganic organic polymer  </font>\n<br>无机-有机高分子\n
+inorganic polymer  	<br><font color=blue size=4>inorganic polymer  </font>\n<br>无机高分子\n
+insertion polymerization  	<br><font color=blue size=4>insertion polymerization  </font>\n<br>插入聚合\n
+in situ composite  	<br><font color=blue size=4>in situ composite  </font>\n<br>原位复合材料\n
+in situ polymerization  	<br><font color=blue size=4>in situ polymerization  </font>\n<br>原位聚合\n
+integrated rubber  	<br><font color=blue size=4>integrated rubber  </font>\n<br>集成橡胶\n
+intelligent polymer  	<br><font color=blue size=4>intelligent polymer  </font>\n<br>智能橡胶\n
+intercalation polymerization  	<br><font color=blue size=4>intercalation polymerization  </font>\n<br>插层聚合\n
+interchain interaction  	<br><font color=blue size=4>interchain interaction  </font>\n<br>链间相互作用\n
+interchain spacing  	<br><font color=blue size=4>interchain spacing  </font>\n<br>链间距\n
+intercondensation polymer  	<br><font color=blue size=4>intercondensation polymer  </font>\n<br>共缩聚物\n
+interfacial polycondensation  	<br><font color=blue size=4>interfacial polycondensation  </font>\n<br>界面缩聚\n
+interfacial polymerization  	<br><font color=blue size=4>interfacial polymerization  </font>\n<br>界面聚合\n
+intermiscibility  	<br><font color=blue size=4>intermiscibility  </font>\n<br>相溶性\n
+internal plasticization  	<br><font color=blue size=4>internal plasticization  </font>\n<br>内增塑作用\n
+internal releasing agent  	<br><font color=blue size=4>internal releasing agent  </font>\n<br>内脱模剂\n
+interpenetrating polymer networks  	<br><font color=blue size=4>interpenetrating polymer networks  </font>\n<br>互穿聚合物网络, IPN\n
+intrinsic viscosity  	<br><font color=blue size=4>intrinsic viscosity  </font>\n<br>特性黏数\n
+inverse dispersion polymerization  	<br><font color=blue size=4>inverse dispersion polymerization  </font>\n<br>反相分散聚合\n
+inverse emulsion polymerization  	<br><font color=blue size=4>inverse emulsion polymerization  </font>\n<br>反相乳液聚合\n
+ion exchange polymer  	<br><font color=blue size=4>ion exchange polymer  </font>\n<br>离子交换橡胶\n
+ion exchange resin  	<br><font color=blue size=4>ion exchange resin  </font>\n<br>离子交换树脂\n
+ionic copolymerization  	<br><font color=blue size=4>ionic copolymerization  </font>\n<br>离子共聚合\n
+ionic polymer  	<br><font color=blue size=4>ionic polymer  </font>\n<br>离子橡胶\n
+ionic polymerization  	<br><font color=blue size=4>ionic polymerization  </font>\n<br>离子聚合\n
+ionioic initiator  	<br><font color=blue size=4>ionioic initiator  </font>\n<br>负离子引发剂\n
+ionomer  	<br><font color=blue size=4>ionomer  </font>\n<br>离子交联橡胶\n
+ion pair polymerization  	<br><font color=blue size=4>ion pair polymerization  </font>\n<br>离子对聚合\n
+IR  	<br><font color=blue size=4>IR  </font>\n<br>Isoprene Rubber,Cis 1,4-Polyisoprene "Synthetic Natural Rubber"(ASTM,BS) 异戊二烯橡胶\n
+irrecoverable deformation  	<br><font color=blue size=4>irrecoverable deformation  </font>\n<br>不可回复形变\n
+irregular block  	<br><font color=blue size=4>irregular block  </font>\n<br>非规整嵌段\n
+irregular polymer  	<br><font color=blue size=4>irregular polymer  </font>\n<br>非规整橡胶\n
+isomerization polymerization  	<br><font color=blue size=4>isomerization polymerization  </font>\n<br>异构化聚合\n
+isoprene rubber  	<br><font color=blue size=4>isoprene rubber  </font>\n<br>异戊橡胶\n
+isospecific polymerization  	<br><font color=blue size=4>isospecific polymerization  </font>\n<br>全同立构聚合\n
+isotactic block  	<br><font color=blue size=4>isotactic block  </font>\n<br>有规立构嵌段\n
+isotacticity  	<br><font color=blue size=4>isotacticity  </font>\n<br>等规度,全同立构[规整]度\n
+isotactic polymer  	<br><font color=blue size=4>isotactic polymer  </font>\n<br>全同立构橡胶,等规橡胶\n
+isotactic polypropylene  	<br><font color=blue size=4>isotactic polypropylene  </font>\n<br>全同立构聚丙烯,等规聚丙烯, iPP\n
+jet molding  	<br><font color=blue size=4>jet molding  </font>\n<br>射流注塑\n
+jet spinning  	<br><font color=blue size=4>jet spinning  </font>\n<br>喷射纺丝\n
+Kelvin model  	<br><font color=blue size=4>Kelvin model  </font>\n<br>开尔文模型\n
+KFK  	<br><font color=blue size=4>KFK  </font>\n<br>Carbonfiber Reinforced Plastics(DIN) 碳纤维增强塑料\n
+kinetic chain length  	<br><font color=blue size=4>kinetic chain length  </font>\n<br>动力学链长\n
+kneading  	<br><font color=blue size=4>kneading  </font>\n<br>捏和\n
+ladder polymer  	<br><font color=blue size=4>ladder polymer  </font>\n<br>梯形橡胶\n
+lamella  	<br><font color=blue size=4>lamella  </font>\n<br>片晶\n
+lamellar crystal  	<br><font color=blue size=4>lamellar crystal  </font>\n<br>片晶\n
+laminate  	<br><font color=blue size=4>laminate  </font>\n<br>层压材料\n
+Langmuir Blodgett film  	<br><font color=blue size=4>Langmuir Blodgett film  </font>\n<br>LB膜(LB film)\n
+laser confocal fluorescence microscopy  	<br><font color=blue size=4>laser confocal fluorescence microscopy  </font>\n<br>激光共聚焦荧光显微镜\n
+laser fiber  	<br><font color=blue size=4>laser fiber  </font>\n<br>激光光纤\n
+latent curing agent  	<br><font color=blue size=4>latent curing agent  </font>\n<br>潜固化剂\n
+late transition metal catalyst  	<br><font color=blue size=4>late transition metal catalyst  </font>\n<br>后过渡金属催化剂\n
+latex  	<br><font color=blue size=4>latex  </font>\n<br>胶乳\n
+LB膜  	<br><font color=blue size=4>LB膜  </font>\n<br>Langmuir Blodgett film (LB film)\n
+LDPE  	<br><font color=blue size=4>LDPE  </font>\n<br>Low Density Polyethylene(GB) 低密度聚乙烯\n
+light initiated polymerization  	<br><font color=blue size=4>light initiated polymerization  </font>\n<br>光引发聚合\n
+light screener  	<br><font color=blue size=4>light screener  </font>\n<br>光屏蔽剂\n
+light stabilizer  	<br><font color=blue size=4>light stabilizer  </font>\n<br>光稳定剂\n
+lignin  	<br><font color=blue size=4>lignin  </font>\n<br>木素\n
+limiting viscosity number  	<br><font color=blue size=4>limiting viscosity number  </font>\n<br>特性黏数\n
+linear low density polyethylene  	<br><font color=blue size=4>linear low density polyethylene  </font>\n<br>线型低密度聚乙烯, LLDPE\n
+linear polymer  	<br><font color=blue size=4>linear polymer  </font>\n<br>线型橡胶\n
+linear viscoelasticity  	<br><font color=blue size=4>linear viscoelasticity  </font>\n<br>线性黏弹性\n
+liquid crystal polymer  	<br><font color=blue size=4>liquid crystal polymer  </font>\n<br>液晶高分子\n
+liquid crystal spinning  	<br><font color=blue size=4>liquid crystal spinning  </font>\n<br>液晶纺丝\n
+liquid crystal state  	<br><font color=blue size=4>liquid crystal state  </font>\n<br>液晶态\n
+liquid rubber  	<br><font color=blue size=4>liquid rubber  </font>\n<br>液体橡胶\n
+living anionic polymerization  	<br><font color=blue size=4>living anionic polymerization  </font>\n<br>活性负离子聚合\n
+living cationic polymerization  	<br><font color=blue size=4>living cationic polymerization  </font>\n<br>活性正离子聚合\n
+living polymer  	<br><font color=blue size=4>living polymer  </font>\n<br>活性高分子\n
+living polymerization  	<br><font color=blue size=4>living polymerization  </font>\n<br>活性聚合\n
+living radical polymerization  	<br><font color=blue size=4>living radical polymerization  </font>\n<br>活性自由基聚合\n
+living ring opening polymerization  	<br><font color=blue size=4>living ring opening polymerization  </font>\n<br>活性开环聚合\n
+LLDPE  	<br><font color=blue size=4>LLDPE  </font>\n<br>Linear Low Density Polyethylene 线型低密度聚乙烯\n
+logarithmic normal distribution  	<br><font color=blue size=4>logarithmic normal distribution  </font>\n<br>对数正态分布,又称“对数正则分布”\n
+logarithmic viscosity number  	<br><font color=blue size=4>logarithmic viscosity number  </font>\n<br>比浓对数黏度\n
+long-chain branch  	<br><font color=blue size=4>long-chain branch  </font>\n<br>长支链\n
+long chain branched polyethylene  	<br><font color=blue size=4>long chain branched polyethylene  </font>\n<br>长支链聚乙烯\n
+long period  	<br><font color=blue size=4>long period  </font>\n<br>长周期\n
+long-range intramolecular interaction  	<br><font color=blue size=4>long-range intramolecular interaction  </font>\n<br>远程分子内相互作用\n
+long range order  	<br><font color=blue size=4>long range order  </font>\n<br>长程有序\n
+long-range structure  	<br><font color=blue size=4>long-range structure  </font>\n<br>远程结构\n
+loss modulus  	<br><font color=blue size=4>loss modulus  </font>\n<br>损耗模量\n
+low angle laser light scattering  	<br><font color=blue size=4>low angle laser light scattering  </font>\n<br>小角激光光散射\n
+low density polyethylene  	<br><font color=blue size=4>low density polyethylene  </font>\n<br>低密度聚乙烯, LDPE\n
+lower critical solution temperature  	<br><font color=blue size=4>lower critical solution temperature  </font>\n<br>最低临界共溶温度, LCST\n
+lubricant  	<br><font color=blue size=4>lubricant  </font>\n<br>润滑剂\n
+lyotopic liquid crystal  	<br><font color=blue size=4>lyotopic liquid crystal  </font>\n<br>溶致性液晶\n
+lyotropic liquid crystalline polymer  	<br><font color=blue size=4>lyotropic liquid crystalline polymer  </font>\n<br>溶致液晶高分子\n
+macrocyclic polymer  	<br><font color=blue size=4>macrocyclic polymer  </font>\n<br>大环橡胶\n
+macroinitiator  	<br><font color=blue size=4>macroinitiator  </font>\n<br>大分子引发剂\n
+macroion  	<br><font color=blue size=4>macroion  </font>\n<br>高分子离子\n
+macromer, macromonomer  	<br><font color=blue size=4>macromer, macromonomer  </font>\n<br>大分子单体\n
+macromolecular isomorphism  	<br><font color=blue size=4>macromolecular isomorphism  </font>\n<br>高分子[异质]同晶现象\n
+macromolecule  	<br><font color=blue size=4>macromolecule  </font>\n<br>高分子\n
+macroporous polymer  	<br><font color=blue size=4>macroporous polymer  </font>\n<br>大孔橡胶\n
+macroreticular resin  	<br><font color=blue size=4>macroreticular resin  </font>\n<br>大网络树脂\n
+magnetic polymer  	<br><font color=blue size=4>magnetic polymer  </font>\n<br>磁性橡胶\n
+main chain liquid crystalline polymer  	<br><font color=blue size=4>main chain liquid crystalline polymer  </font>\n<br>主链型液晶橡胶\n
+mass distribution function  	<br><font color=blue size=4>mass distribution function  </font>\n<br>质量分布函数\n
+mass polymerization  	<br><font color=blue size=4>mass polymerization  </font>\n<br>本体聚合\n
+masterbatch  	<br><font color=blue size=4>masterbatch  </font>\n<br>母胶\n
+mastication  	<br><font color=blue size=4>mastication  </font>\n<br>素炼\n
+matrix  	<br><font color=blue size=4>matrix  </font>\n<br>基体\n
+matrix polymerization  	<br><font color=blue size=4>matrix polymerization  </font>\n<br>模板聚合\n
+Maxwell model  	<br><font color=blue size=4>Maxwell model  </font>\n<br>麦克斯韦模型\n
+MBS  	<br><font color=blue size=4>MBS  </font>\n<br>Methyl Methacrylate Butadiene Styrene Copolymer 甲基丙烯酸甲酯/丁二烯/苯乙烯共聚物\n
+MC  	<br><font color=blue size=4>MC  </font>\n<br>Methyl Cellulose(GB) 甲基纤维素\n
+MDPE  	<br><font color=blue size=4>MDPE  </font>\n<br>Medium Density Polyethylene(GB) 中密度聚乙烯\n
+mean square end to end distance  	<br><font color=blue size=4>mean square end to end distance  </font>\n<br>均方末端距\n
+mean square radius of gyration  	<br><font color=blue size=4>mean square radius of gyration  </font>\n<br>均方旋转半径\n
+mechanical failure  	<br><font color=blue size=4>mechanical failure  </font>\n<br>力学破坏\n
+mechanochemical degradation  	<br><font color=blue size=4>mechanochemical degradation  </font>\n<br>力化学降解\n
+medical polymer  	<br><font color=blue size=4>medical polymer  </font>\n<br>医用高分子\n
+melamine-formaldehyde resin  	<br><font color=blue size=4>melamine-formaldehyde resin  </font>\n<br>三聚氰胺-甲醛树脂\n
+melamine resin  	<br><font color=blue size=4>melamine resin  </font>\n<br>三聚氰胺-甲醛树脂\n
+melt adhesive  	<br><font color=blue size=4>melt adhesive  </font>\n<br>热熔胶\n
+melt [flow] index  	<br><font color=blue size=4>melt [flow] index  </font>\n<br>熔体流动指数\n
+melt phase polycondensation  	<br><font color=blue size=4>melt phase polycondensation  </font>\n<br>熔融缩聚\n
+melt spinning  	<br><font color=blue size=4>melt spinning  </font>\n<br>熔纺\n
+metal complex catalyst  	<br><font color=blue size=4>metal complex catalyst  </font>\n<br>金属络合物催化剂\n
+metallocene catalyst  	<br><font color=blue size=4>metallocene catalyst  </font>\n<br>［二］茂金属催化剂\n
+metastable state  	<br><font color=blue size=4>metastable state  </font>\n<br>亚稳态\n
+metathesis polymerization  	<br><font color=blue size=4>metathesis polymerization  </font>\n<br>易位聚合\n
+methylal resin  	<br><font color=blue size=4>methylal resin  </font>\n<br>缩甲醛树脂\n
+methylaluminoxane  	<br><font color=blue size=4>methylaluminoxane  </font>\n<br>甲基铝氧烷, MAO\n
+methyl cellulose  	<br><font color=blue size=4>methyl cellulose  </font>\n<br>甲基纤维素\n
+methylvinyl silicone rubber  	<br><font color=blue size=4>methylvinyl silicone rubber  </font>\n<br>甲基乙烯基硅橡胶\n
+MF  	<br><font color=blue size=4>MF  </font>\n<br>Melamine Formaldehyde Rein(GB,DIN,ASTM,ISO) 三聚氰胺甲醛树脂\n
+micro emulsion polymerization  	<br><font color=blue size=4>micro emulsion polymerization  </font>\n<br>微乳液聚合\n
+microgel  	<br><font color=blue size=4>microgel  </font>\n<br>微凝胶\n
+microphase  	<br><font color=blue size=4>microphase  </font>\n<br>微相\n
+micro wave curing  	<br><font color=blue size=4>micro wave curing  </font>\n<br>微波硫化\n
+milling  	<br><font color=blue size=4>milling  </font>\n<br>混炼\n
+miscibility  	<br><font color=blue size=4>miscibility  </font>\n<br>混容性\n
+mixing  	<br><font color=blue size=4>mixing  </font>\n<br>混炼\n
+MOD  	<br><font color=blue size=4>MOD  </font>\n<br>Modacrylic Fiber 改性腈纶纤维\n
+modulus of elasticity  	<br><font color=blue size=4>modulus of elasticity  </font>\n<br>弹性模量\n
+moisture proof agent  	<br><font color=blue size=4>moisture proof agent  </font>\n<br>防潮剂\n
+molar mass average  	<br><font color=blue size=4>molar mass average  </font>\n<br>摩尔质量平均\n
+molar mass exclusion limit  	<br><font color=blue size=4>molar mass exclusion limit  </font>\n<br>摩尔质量排除极限\n
+molding  	<br><font color=blue size=4>molding  </font>\n<br>模塑,又称“模压”\n
+molecular assembly  	<br><font color=blue size=4>molecular assembly  </font>\n<br>分子组装,分子组合\n
+molecular composite  	<br><font color=blue size=4>molecular composite  </font>\n<br>分子复合材料\n
+molecular dynamics simulation  	<br><font color=blue size=4>molecular dynamics simulation  </font>\n<br>分子动力学模拟\n
+molecular nucleation  	<br><font color=blue size=4>molecular nucleation  </font>\n<br>分子成核作用\n
+molecular weight distribution，MWD  	<br><font color=blue size=4>molecular weight distribution，MWD  </font>\n<br>分子量分布\n
+molecular weight exclusion limit  	<br><font color=blue size=4>molecular weight exclusion limit  </font>\n<br>分子量排除极限\n
+monodisperse polymer  	<br><font color=blue size=4>monodisperse polymer  </font>\n<br>单分散橡胶\n
+monodispersity  	<br><font color=blue size=4>monodispersity  </font>\n<br>单分散性\n
+monofil  	<br><font color=blue size=4>monofil  </font>\n<br>单丝\n
+monofilament  	<br><font color=blue size=4>monofilament  </font>\n<br>单丝\n
+monomer  	<br><font color=blue size=4>monomer  </font>\n<br>单体\n
+monomer casting  	<br><font color=blue size=4>monomer casting  </font>\n<br>单体浇铸\n
+monomeric unit  	<br><font color=blue size=4>monomeric unit  </font>\n<br>单体单元\n
+Monte Carlo simulation  	<br><font color=blue size=4>Monte Carlo simulation  </font>\n<br>蒙特卡洛模拟\n
+Mooney index  	<br><font color=blue size=4>Mooney index  </font>\n<br>门尼粘度\n
+morphology of polymer  	<br><font color=blue size=4>morphology of polymer  </font>\n<br>聚合物形态学\n
+most probable distribution  	<br><font color=blue size=4>most probable distribution  </font>\n<br>最概然分布,曾用名“最可几分布”\n
+moulding curing  	<br><font color=blue size=4>moulding curing  </font>\n<br>模压硫化\n
+MPF  	<br><font color=blue size=4>MPF  </font>\n<br>Melamine Phenol Formaldehyde Resin(GB) 三聚氰胺酚甲醛树脂\n
+multiaxial drawing  	<br><font color=blue size=4>multiaxial drawing  </font>\n<br>多轴拉伸\n
+multicomponent copolymer  	<br><font color=blue size=4>multicomponent copolymer  </font>\n<br>多组分共聚物\n
+multifilament  	<br><font color=blue size=4>multifilament  </font>\n<br>复丝\n
+multi-layer blow molding  	<br><font color=blue size=4>multi-layer blow molding  </font>\n<br>多层吹塑\n
+multilayer copolymer  	<br><font color=blue size=4>multilayer copolymer  </font>\n<br>多层共聚物\n
+multi-layer extrusion  	<br><font color=blue size=4>multi-layer extrusion  </font>\n<br>多层挤塑\n
+multiphase polymer  	<br><font color=blue size=4>multiphase polymer  </font>\n<br>多相橡胶\n
+multipolymer  	<br><font color=blue size=4>multipolymer  </font>\n<br>多元橡胶\n
+multi-strand polymer  	<br><font color=blue size=4>multi-strand polymer  </font>\n<br>多股橡胶\n
+nanocomposite  	<br><font color=blue size=4>nanocomposite  </font>\n<br>纳米复合材料\n
+nano-fiber  	<br><font color=blue size=4>nano-fiber  </font>\n<br>纳米纤维\n
+natural fiber  	<br><font color=blue size=4>natural fiber  </font>\n<br>天然纤维\n
+natural polymer  	<br><font color=blue size=4>natural polymer  </font>\n<br>天然高分子\n
+natural resin  	<br><font color=blue size=4>natural resin  </font>\n<br>天然树脂\n
+natural rubber  	<br><font color=blue size=4>natural rubber  </font>\n<br>天然橡胶\n
+natural silk  	<br><font color=blue size=4>natural silk  </font>\n<br>蚕丝\n
+NBR  	<br><font color=blue size=4>NBR  </font>\n<br>(参见PBAN)Butadiene Acrylnitrile Rubber,Nitrile Rubber(ASTM,BS) 丁腈橡胶\n
+NC  	<br><font color=blue size=4>NC  </font>\n<br>(参见CN)Nitrocellulose 硝基纤维素\n
+NCR  	<br><font color=blue size=4>NCR  </font>\n<br>Nitrile Chloroprene Rubber(ASTM) 腈基氯丁橡胶\n
+NDPE  	<br><font color=blue size=4>NDPE  </font>\n<br>Low Pressure Polyethylene 低压法聚乙烯\n
+necking  	<br><font color=blue size=4>necking  </font>\n<br>颈缩现象, 又称“细颈现象”\n
+nematic phase  	<br><font color=blue size=4>nematic phase  </font>\n<br>向列相\n
+nerviness  	<br><font color=blue size=4>nerviness  </font>\n<br>回缩性,弹性复原\n
+network  	<br><font color=blue size=4>network  </font>\n<br>网络\n
+network density  	<br><font color=blue size=4>network density  </font>\n<br>网络密度\n
+network polymer  	<br><font color=blue size=4>network polymer  </font>\n<br>网络橡胶\n
+Newtonian fluid  	<br><font color=blue size=4>Newtonian fluid  </font>\n<br>牛顿流体\n
+Newtonian shear viscosity  	<br><font color=blue size=4>Newtonian shear viscosity  </font>\n<br>牛顿剪切黏度\n
+nitrile rubber  	<br><font color=blue size=4>nitrile rubber  </font>\n<br>丁腈橡胶\n
+nitrosofluoro rubber  	<br><font color=blue size=4>nitrosofluoro rubber  </font>\n<br>亚硝基氟橡胶\n
+nitroxide mediated polymerization  	<br><font color=blue size=4>nitroxide mediated polymerization  </font>\n<br>氮氧[自由基]调控聚合\n
+NK  	<br><font color=blue size=4>NK  </font>\n<br>Natural Rubber(ASTM) 天然橡胶\n
+non conjugated monomer  	<br><font color=blue size=4>non conjugated monomer  </font>\n<br>非共轭单体\n
+non-linear viscoelasticity  	<br><font color=blue size=4>non-linear viscoelasticity  </font>\n<br>非线性黏弹性\n
+non-Newtonian fluid  	<br><font color=blue size=4>non-Newtonian fluid  </font>\n<br>非牛顿流体\n
+non polar monomer  	<br><font color=blue size=4>non polar monomer  </font>\n<br>非极性单体\n
+non-polar polymer  	<br><font color=blue size=4>non-polar polymer  </font>\n<br>非极性橡胶\n
+non-pressure cure  	<br><font color=blue size=4>non-pressure cure  </font>\n<br>无压硫化\n
+non-shrink  	<br><font color=blue size=4>non-shrink  </font>\n<br>防缩\n
+non-uniform polymer  	<br><font color=blue size=4>non-uniform polymer  </font>\n<br>多分散性橡胶\n
+non-woven fabrics  	<br><font color=blue size=4>non-woven fabrics  </font>\n<br>无纺布\n
+normal stress  	<br><font color=blue size=4>normal stress  </font>\n<br>法向应力\n
+NR  	<br><font color=blue size=4>NR  </font>\n<br>Natural Rubber(ASTM) 天然橡胶\n
+nucleation  	<br><font color=blue size=4>nucleation  </font>\n<br>成核作用\n
+number-average molar mass  	<br><font color=blue size=4>number-average molar mass  </font>\n<br>数均分子量\n
+number-average molecular weight  	<br><font color=blue size=4>number-average molecular weight  </font>\n<br>数均分子量\n
+number distribution function  	<br><font color=blue size=4>number distribution function  </font>\n<br>数量分布函数\n
+ODP  	<br><font color=blue size=4>ODP  </font>\n<br>(参见DODP)Octyl Decyl Phthalate(ISO) 苯二酸辛、癸酯\n
+OER  	<br><font color=blue size=4>OER  </font>\n<br>Oil Extended Rubber 油充橡胶\n
+oil-extended rubber  	<br><font color=blue size=4>oil-extended rubber  </font>\n<br>充油橡胶\n
+olefine copolymer (OCP)  	<br><font color=blue size=4>olefine copolymer (OCP)  </font>\n<br>烯烃共聚物\n
+oligomer  	<br><font color=blue size=4>oligomer  </font>\n<br>低聚物,齐聚物\n
+oligomerization  	<br><font color=blue size=4>oligomerization  </font>\n<br>低聚反应\n
+oligomerization(曾用名)  	<br><font color=blue size=4>oligomerization(曾用名)  </font>\n<br>齐聚反应\n
+open vulcanization  	<br><font color=blue size=4>open vulcanization  </font>\n<br>无模硫化\n
+optical active polymer  	<br><font color=blue size=4>optical active polymer  </font>\n<br>光活性橡胶\n
+optical bleaching agent  	<br><font color=blue size=4>optical bleaching agent  </font>\n<br>荧光增白剂\n
+organic inorganic hybrid material  	<br><font color=blue size=4>organic inorganic hybrid material  </font>\n<br>有机-无机杂化材料\n
+organic polymer  	<br><font color=blue size=4>organic polymer  </font>\n<br>有机高分子\n
+organometallic polymer  	<br><font color=blue size=4>organometallic polymer  </font>\n<br>金属有机橡胶\n
+over cure  	<br><font color=blue size=4>over cure  </font>\n<br>过硫\n
+oxetane polymer  	<br><font color=blue size=4>oxetane polymer  </font>\n<br>氧杂环丁烷橡胶\n
+oxidative coupling polymerization  	<br><font color=blue size=4>oxidative coupling polymerization  </font>\n<br>氧化偶联聚合\n
+oxidative polymer  	<br><font color=blue size=4>oxidative polymer  </font>\n<br>氧化性橡胶\n
+oxidative polymerization  	<br><font color=blue size=4>oxidative polymerization  </font>\n<br>氧化聚合\n
+PA  	<br><font color=blue size=4>PA  </font>\n<br>Polyamide(GB,DIN,ASTM,ISO) 聚酰胺\n
+PA1010  	<br><font color=blue size=4>PA1010  </font>\n<br>PA from Sebacicdiamine and Sebacic acid 尼龙1010，聚癸二栈癸二胺及纤维\n
+PA11  	<br><font color=blue size=4>PA11  </font>\n<br>PA from 11 amine-Undeca acid(DIN,ISO) 尼龙11，聚氨基十一酸及纤维\n
+PA12  	<br><font color=blue size=4>PA12  </font>\n<br>PA from Lauric Lactam(DIN,ISO) 尼龙12，聚十二内酰胺及纤维\n
+PA4  	<br><font color=blue size=4>PA4  </font>\n<br>Pa from Butyrolactam 尼龙4，聚丁内酰胺及纤维\n
+PA6  	<br><font color=blue size=4>PA6  </font>\n<br>Pa from Caprolactam(DIN,ISO) 尼龙6，聚已内酰胺及纤维\n
+PA6/12  	<br><font color=blue size=4>PA6/12  </font>\n<br>Mixed PA from Caprolactam and Dcdecanlactam(DIN,ISO) 尼龙612，聚已内酰胺和聚十二内酰胺混合物及纤维\n
+PA66  	<br><font color=blue size=4>PA66  </font>\n<br>PA from Hexamothylene diamine and Adipic acid 尼龙66，聚已二酰已二胺及纤维\n
+PA66/610  	<br><font color=blue size=4>PA66/610  </font>\n<br>Mixed PA from Hexamethylene diamine Adipic acid and Sebacic acid 尼龙66/610及纤维\n
+PA6I  	<br><font color=blue size=4>PA6I  </font>\n<br>Pa from Hexamethylene Diamine and Isophthalacid 尼龙6I，间苯二酯六甲基二胺及纤维\n
+PA6T  	<br><font color=blue size=4>PA6T  </font>\n<br>Pa from Hexamethylenediamine and Terephthalicacid 尼龙6T，聚对苯二甲酰已二胺及纤维\n
+PAA  	<br><font color=blue size=4>PAA  </font>\n<br>Poly(acrylic acid)(GB) 聚丙烯酸\n
+PAC  	<br><font color=blue size=4>PAC  </font>\n<br>(参见PAN,PC)Polyacrylonitrile(IUPAC) 聚丙烯腈及纤维\n
+paint  	<br><font color=blue size=4>paint  </font>\n<br>油漆\n
+PAN  	<br><font color=blue size=4>PAN  </font>\n<br>(参见PAC,PC)Polyacrylonitrile(GB) 聚丙烯腈\n
+paraformaldehyde  	<br><font color=blue size=4>paraformaldehyde  </font>\n<br>低聚甲醛, 又称“多聚甲醛”\n
+parallel-chain crystal  	<br><font color=blue size=4>parallel-chain crystal  </font>\n<br>平行链晶体\n
+partial ladder polymer  	<br><font color=blue size=4>partial ladder polymer  </font>\n<br>部分梯形橡胶\n
+particle scattering factor  	<br><font color=blue size=4>particle scattering factor  </font>\n<br>粒子散射因子\n
+particle scattering function  	<br><font color=blue size=4>particle scattering function  </font>\n<br>粒子散射函数\n
+paste molding  	<br><font color=blue size=4>paste molding  </font>\n<br>糊塑\n
+PB  	<br><font color=blue size=4>PB  </font>\n<br>(参见PEB)Polybutene-1(GB,DIN) 聚丁烯-1\n
+PBAN  	<br><font color=blue size=4>PBAN  </font>\n<br>(参见NBR)Butadiene Acrylonitrile Rubber 丁腈橡胶\n
+PBR  	<br><font color=blue size=4>PBR  </font>\n<br>Pyridine Butadiene Rubber(ASTM) 丁吡橡胶\n
+PBS  	<br><font color=blue size=4>PBS  </font>\n<br>(参见SBR)Butadiene Styrol Rubber 丁苯橡胶\n
+PBT  	<br><font color=blue size=4>PBT  </font>\n<br>(Polybutylene Terephthalate(GB,DIN) 聚对苯二甲酸丁二醇酯\n
+PBTP  	<br><font color=blue size=4>PBTP  </font>\n<br>(参见PTMT)Polybutylene Terephthalate(GB,DIN) 聚对苯二酸丁二醇酯\n
+PC  	<br><font color=blue size=4>PC  </font>\n<br>Polycarbonate(GB,DIN,ASTM,ISO);\n<br>(参见PAC,PAN)Polyacrylnitrile(usually in textile industry);\n<br>Formerly:Afterchlorinated PVC 聚碳酸酯聚丙烯腈氯化聚氯乙烯\n
+PCR  	<br><font color=blue size=4>PCR  </font>\n<br>Polychloroprene Rubber 氯丁橡胶\n
+PCTFE  	<br><font color=blue size=4>PCTFE  </font>\n<br>Polychlorotrifluoroethylene(GB) 聚三氟氯乙烯\n
+PDAP  	<br><font color=blue size=4>PDAP  </font>\n<br>Polyethylene Phthalate(GB,ISO) 聚邻苯二酸二烯丙酯\n
+PE  	<br><font color=blue size=4>PE  </font>\n<br>Polyethylene(GB,DIN,ASTM,ISO) 聚乙烯及纤维\n
+pearl polymerization  	<br><font color=blue size=4>pearl polymerization  </font>\n<br>珠状聚合\n
+PEC  	<br><font color=blue size=4>PEC  </font>\n<br>(参见CPE)Chlorinated Polyethylene(GB,DIN) 氯化聚乙烯\n
+PeCe  	<br><font color=blue size=4>PeCe  </font>\n<br>(参见CPVC,PC,PVCC)After Chlorinated PVC 氯化聚氯乙烯及纤维\n
+peeling strength  	<br><font color=blue size=4>peeling strength  </font>\n<br>剥离强度\n
+PEN  	<br><font color=blue size=4>PEN  </font>\n<br>Poly(ethylene naphthalene-2,6-dicarboxylate)聚2,6-萘二甲酸乙二醇酯\n
+pentad  	<br><font color=blue size=4>pentad  </font>\n<br>五单元组\n
+penultimate effect  	<br><font color=blue size=4>penultimate effect  </font>\n<br>前末端基效应\n
+PEOX  	<br><font color=blue size=4>PEOX  </font>\n<br>Poly(ethylene)(GB,ISO) 聚氧化乙烯\n
+peptizer  	<br><font color=blue size=4>peptizer  </font>\n<br>塑解剂,胶溶剂\n
+periodic copolymer  	<br><font color=blue size=4>periodic copolymer  </font>\n<br>周期共聚物\n
+peroxide crosslinking  	<br><font color=blue size=4>peroxide crosslinking  </font>\n<br>过氧化物交联\n
+persistence length  	<br><font color=blue size=4>persistence length  </font>\n<br>相关长度\n
+persistent radical  	<br><font color=blue size=4>persistent radical  </font>\n<br>持续自由基\n
+persulphate initiator  	<br><font color=blue size=4>persulphate initiator  </font>\n<br>过硫酸盐引发剂\n
+perturbed dimension  	<br><font color=blue size=4>perturbed dimension  </font>\n<br>扰动尺寸\n
+PES  	<br><font color=blue size=4>PES  </font>\n<br>Polyester Fiber 聚酯纤维\n
+PET  	<br><font color=blue size=4>PET  </font>\n<br>(参见PETP)Polyethyleneglycol Terephthalate 聚对苯二酸乙二醇酯\n
+PETP  	<br><font color=blue size=4>PETP  </font>\n<br>(参见PET)Polyethyleneglycol Terephthalate(GB,DIN,ASTM,ISO) 聚对苯二酸乙二醇酯\n
+petroleum resin  	<br><font color=blue size=4>petroleum resin  </font>\n<br>石油树脂\n
+PF  	<br><font color=blue size=4>PF  </font>\n<br>Phenol Formaldehyde Resin(GB,DIN,ASTM,ISO) 酚醛树脂\n
+PFA  	<br><font color=blue size=4>PFA  </font>\n<br>Perfluoroalkoxy polymer 过氟烷氧基聚合物\n
+PFEP  	<br><font color=blue size=4>PFEP  </font>\n<br>(参见FEP)Tetrafluoroethylene Hexafluoropropylene Copolymer 四氟乙烯/六氟丙烯共聚物\n
+phase inversion polymerization  	<br><font color=blue size=4>phase inversion polymerization  </font>\n<br>相转化聚合\n
+phase separation  	<br><font color=blue size=4>phase separation  </font>\n<br>相分离\n
+PHEMA  	<br><font color=blue size=4>PHEMA  </font>\n<br>Poly(Hydroxyethyl Methacrylate)聚甲基丙烯酸羟乙酯,1960年捷克Otto Wichterle研究出的隐形眼镜材料\n
+phenol ether resin  	<br><font color=blue size=4>phenol ether resin  </font>\n<br>苯酚醚树脂\n
+phenol-formaldehyde resin  	<br><font color=blue size=4>phenol-formaldehyde resin  </font>\n<br>酚醛树脂\n
+phenolic resin  	<br><font color=blue size=4>phenolic resin  </font>\n<br>酚醛树脂\n
+photoageing  	<br><font color=blue size=4>photoageing  </font>\n<br>光老化\n
+photoconductive fiber  	<br><font color=blue size=4>photoconductive fiber  </font>\n<br>光导纤维\n
+photoconductive polymer  	<br><font color=blue size=4>photoconductive polymer  </font>\n<br>光[电]导橡胶\n
+photocrosslinkable polymer  	<br><font color=blue size=4>photocrosslinkable polymer  </font>\n<br>光交联橡胶\n
+photocrosslinking  	<br><font color=blue size=4>photocrosslinking  </font>\n<br>光交联\n
+photo-cure  	<br><font color=blue size=4>photo-cure  </font>\n<br>光固化\n
+photocureable polymer  	<br><font color=blue size=4>photocureable polymer  </font>\n<br>光固化橡胶\n
+photodegradable polymer  	<br><font color=blue size=4>photodegradable polymer  </font>\n<br>光降解橡胶\n
+photodegradation  	<br><font color=blue size=4>photodegradation  </font>\n<br>光降解\n
+photoelastic polymer  	<br><font color=blue size=4>photoelastic polymer  </font>\n<br>光弹性橡胶\n
+photoiniferter  	<br><font color=blue size=4>photoiniferter  </font>\n<br>光引发转移终止剂\n
+photoinitiator  	<br><font color=blue size=4>photoinitiator  </font>\n<br>光敏引发剂\n
+photoluminescence polymer  	<br><font color=blue size=4>photoluminescence polymer  </font>\n<br>光致发光橡胶\n
+photo oxidative degradation  	<br><font color=blue size=4>photo oxidative degradation  </font>\n<br>光氧化降解\n
+photopolymer  	<br><font color=blue size=4>photopolymer  </font>\n<br>感光橡胶\n
+photo polymerization  	<br><font color=blue size=4>photo polymerization  </font>\n<br>光［致］聚合\n
+photoresist  	<br><font color=blue size=4>photoresist  </font>\n<br>光致抗蚀剂,光刻胶\n
+photoresponsive polymer  	<br><font color=blue size=4>photoresponsive polymer  </font>\n<br>光响应高分子\n
+photosensitive polymer  	<br><font color=blue size=4>photosensitive polymer  </font>\n<br>光敏橡胶\n
+photosensitized polymerization  	<br><font color=blue size=4>photosensitized polymerization  </font>\n<br>光敏聚合\n
+photostabilizer  	<br><font color=blue size=4>photostabilizer  </font>\n<br>光稳定剂\n
+physical ageing  	<br><font color=blue size=4>physical ageing  </font>\n<br>物理老化\n
+physical crosslinking  	<br><font color=blue size=4>physical crosslinking  </font>\n<br>物理交联\n
+physical entanglement  	<br><font color=blue size=4>physical entanglement  </font>\n<br>物理缠结\n
+physical foam  	<br><font color=blue size=4>physical foam  </font>\n<br>物理发泡\n
+physical foaming agent  	<br><font color=blue size=4>physical foaming agent  </font>\n<br>物理发泡剂\n
+PI  	<br><font color=blue size=4>PI  </font>\n<br>Polytrans Isoprene(BS);\n<br>Polyimide(GB) 异戊二烯橡胶聚酰亚胺\n
+PIB  	<br><font color=blue size=4>PIB  </font>\n<br>Polyisobutylene(DIN,BS) 聚异丁烯\n
+PIBI  	<br><font color=blue size=4>PIBI  </font>\n<br>(参见Butyl,IIR)Butyl Rubber,Isoprene Isobutene Rubber 丁基橡胶\n
+piezoelectric polymer  	<br><font color=blue size=4>piezoelectric polymer  </font>\n<br>压电高分子\n
+pilling effect  	<br><font color=blue size=4>pilling effect  </font>\n<br>起球现象\n
+plasma polymerization  	<br><font color=blue size=4>plasma polymerization  </font>\n<br>等离子体聚合\n
+plasma processing  	<br><font color=blue size=4>plasma processing  </font>\n<br>等离子体加工\n
+plastic  	<br><font color=blue size=4>plastic  </font>\n<br>塑料\n
+plastic alloy  	<br><font color=blue size=4>plastic alloy  </font>\n<br>塑料合金\n
+plastication  	<br><font color=blue size=4>plastication  </font>\n<br>塑炼\n
+plastic deformation  	<br><font color=blue size=4>plastic deformation  </font>\n<br>塑性形变\n
+plastic flow  	<br><font color=blue size=4>plastic flow  </font>\n<br>塑性流动\n
+plasticization  	<br><font color=blue size=4>plasticization  </font>\n<br>增塑作用\n
+plasticizer  	<br><font color=blue size=4>plasticizer  </font>\n<br>增塑剂\n
+plasticizer extender  	<br><font color=blue size=4>plasticizer extender  </font>\n<br>增塑增容剂\n
+plasticizing  	<br><font color=blue size=4>plasticizing  </font>\n<br>塑化\n
+plastisol  	<br><font color=blue size=4>plastisol  </font>\n<br>增塑溶胶\n
+plastomer  	<br><font color=blue size=4>plastomer  </font>\n<br>塑性体\n
+PMI  	<br><font color=blue size=4>PMI  </font>\n<br>Polymethacrylimide(GB) 聚甲基丙烯酰亚胺\n
+PMMA  	<br><font color=blue size=4>PMMA  </font>\n<br>Polymethy Methacrylate(GB,DIN,ASTM,ISO) 聚甲基丙烯酸甲酯\n
+PMP  	<br><font color=blue size=4>PMP  </font>\n<br>Poly-4-Methyl Pentene-1(DIN) 聚-4-甲基戊烯-1\n
+PO  	<br><font color=blue size=4>PO  </font>\n<br>Propylene Oxude Rubber(ASTM);\n<br>Polyolefine 氧化丙烯橡胶聚烯烃\n
+Poisson's ratio  	<br><font color=blue size=4>Poisson's ratio  </font>\n<br>泊松比\n
+polar monomer  	<br><font color=blue size=4>polar monomer  </font>\n<br>极性单体\n
+polar polymer  	<br><font color=blue size=4>polar polymer  </font>\n<br>极性橡胶\n
+poly(1-butene)  	<br><font color=blue size=4>poly(1-butene)  </font>\n<br>聚1-丁烯\n
+poly(1-octene)  	<br><font color=blue size=4>poly(1-octene)  </font>\n<br>聚(1-辛烯)\n
+poly(4-methyl-1-pentene)  	<br><font color=blue size=4>poly(4-methyl-1-pentene)  </font>\n<br>聚4-甲基-1-戊烯\n
+poly(8 amino caprylic acid)  	<br><font color=blue size=4>poly(8 amino caprylic acid)  </font>\n<br>聚（8-氨基辛酸）,尼龙8,聚酰胺8\n
+polyacetylene  	<br><font color=blue size=4>polyacetylene  </font>\n<br>聚乙炔\n
+polyacrylate  	<br><font color=blue size=4>polyacrylate  </font>\n<br>聚丙烯酸盐,聚丙烯酸酯\n
+poly(acrylic acid)  	<br><font color=blue size=4>poly(acrylic acid)  </font>\n<br>聚丙烯酸\n
+polyacrylonitrile  	<br><font color=blue size=4>polyacrylonitrile  </font>\n<br>聚丙烯腈\n
+polyaddition  	<br><font color=blue size=4>polyaddition  </font>\n<br>聚加成反应\n
+polyaddition (曾用名)  	<br><font color=blue size=4>polyaddition (曾用名)  </font>\n<br>逐步加成聚合\n
+polyalkenamer  	<br><font color=blue size=4>polyalkenamer  </font>\n<br>开环聚环烯烃\n
+polyallomer  	<br><font color=blue size=4>polyallomer  </font>\n<br>异质同晶橡胶\n
+polyamide  	<br><font color=blue size=4>polyamide  </font>\n<br>聚酰胺\n
+polyamide fiber  	<br><font color=blue size=4>polyamide fiber  </font>\n<br>聚酰胺纤维,锦纶,尼龙\n
+polyampholyte  	<br><font color=blue size=4>polyampholyte  </font>\n<br>两性聚电解质\n
+polyamphoteric electrolyte  	<br><font color=blue size=4>polyamphoteric electrolyte  </font>\n<br>两性聚电解质\n
+polyaniline  	<br><font color=blue size=4>polyaniline  </font>\n<br>聚苯胺\n
+polyaramide  	<br><font color=blue size=4>polyaramide  </font>\n<br>聚芳酰胺\n
+poly (aryl ether)  	<br><font color=blue size=4>poly (aryl ether)  </font>\n<br>芳香族聚醚\n
+poly(aryl sulfone)(PAS)  	<br><font color=blue size=4>poly(aryl sulfone)(PAS)  </font>\n<br>聚芳砜\n
+polybenzimidazole  	<br><font color=blue size=4>polybenzimidazole  </font>\n<br>聚苯并咪唑\n
+polybenzothiazole  	<br><font color=blue size=4>polybenzothiazole  </font>\n<br>聚苯并噻唑\n
+polyblend  	<br><font color=blue size=4>polyblend  </font>\n<br>高分子共混物\n
+polybutadiene  	<br><font color=blue size=4>polybutadiene  </font>\n<br>聚丁二烯\n
+poly(butylene terephthalate)  	<br><font color=blue size=4>poly(butylene terephthalate)  </font>\n<br>聚对苯二甲酸丁二酯\n
+polycaprolactam  	<br><font color=blue size=4>polycaprolactam  </font>\n<br>聚己内酰胺\n
+polycarbonate  	<br><font color=blue size=4>polycarbonate  </font>\n<br>聚碳酸酯\n
+polycarboxylate  	<br><font color=blue size=4>polycarboxylate  </font>\n<br>聚羧酸酯\n
+polychloroprene  	<br><font color=blue size=4>polychloroprene  </font>\n<br>聚氯丁二烯,对于环烯烃的聚合产物，由于聚合机理的不同，一种是开环聚合，一种是保留环打开双键的聚合\n
+poly(chlorotrifluoroethylene)  	<br><font color=blue size=4>poly(chlorotrifluoroethylene)  </font>\n<br>聚三氟氯乙烯, PCTFE\n
+polycondensate  	<br><font color=blue size=4>polycondensate  </font>\n<br>缩聚物\n
+polycrystalline polymer  	<br><font color=blue size=4>polycrystalline polymer  </font>\n<br>多晶形橡胶\n
+polycyclopentadiene  	<br><font color=blue size=4>polycyclopentadiene  </font>\n<br>聚环戊二烯\n
+polycysteine  	<br><font color=blue size=4>polycysteine  </font>\n<br>聚胱氨酸\n
+poly(diphenyl ether sulfone)  	<br><font color=blue size=4>poly(diphenyl ether sulfone)  </font>\n<br>聚二苯醚砜\n
+polydisperse polymer  	<br><font color=blue size=4>polydisperse polymer  </font>\n<br>多分散性橡胶\n
+polydispersity index  	<br><font color=blue size=4>polydispersity index  </font>\n<br>多分散性指数, PID\n
+polyelectrolyte  	<br><font color=blue size=4>polyelectrolyte  </font>\n<br>聚电解质\n
+polyepichlorohydrin  	<br><font color=blue size=4>polyepichlorohydrin  </font>\n<br>聚环氧氯丙烷\n
+polyester  	<br><font color=blue size=4>polyester  </font>\n<br>聚酯\n
+polyester fiber  	<br><font color=blue size=4>polyester fiber  </font>\n<br>聚酯纤维,涤纶\n
+polyester resin  	<br><font color=blue size=4>polyester resin  </font>\n<br>聚酯类树脂\n
+polyether  	<br><font color=blue size=4>polyether  </font>\n<br>聚醚\n
+poly(ether amide)  	<br><font color=blue size=4>poly(ether amide)  </font>\n<br>聚醚酰胺\n
+poly(ether-ether-ketone)  	<br><font color=blue size=4>poly(ether-ether-ketone)  </font>\n<br>聚醚醚酮, PEEK\n
+poly(ether-ketone)  	<br><font color=blue size=4>poly(ether-ketone)  </font>\n<br>聚醚酮, PEK\n
+poly(ether-ketone-ketone)  	<br><font color=blue size=4>poly(ether-ketone-ketone)  </font>\n<br>聚醚酮酮, PEKK\n
+poly(ether sulfone)  	<br><font color=blue size=4>poly(ether sulfone)  </font>\n<br>聚醚砜\n
+poly(ether-urethane)  	<br><font color=blue size=4>poly(ether-urethane)  </font>\n<br>聚醚氨酯\n
+polyethylene  	<br><font color=blue size=4>polyethylene  </font>\n<br>聚乙烯\n
+poly(ethylene oxide)  	<br><font color=blue size=4>poly(ethylene oxide)  </font>\n<br>聚环氧乙烷, 又称“聚氧化乙烯(polyoxyethylene)”\n
+poly(ethylene terephthalate)  	<br><font color=blue size=4>poly(ethylene terephthalate)  </font>\n<br>聚对苯二甲酸乙二酯\n
+polyformaldehyde  	<br><font color=blue size=4>polyformaldehyde  </font>\n<br>聚甲醛\n
+poly(glutamic acid)  	<br><font color=blue size=4>poly(glutamic acid)  </font>\n<br>聚谷氨酸,聚2-氨基戊二酸\n
+polyglycine  	<br><font color=blue size=4>polyglycine  </font>\n<br>聚甘氨酸\n
+poly(hexamethylene adipamide)  	<br><font color=blue size=4>poly(hexamethylene adipamide)  </font>\n<br>聚己二酰己二胺\n
+polyimide  	<br><font color=blue size=4>polyimide  </font>\n<br>聚酰亚胺\n
+polyisobutylene  	<br><font color=blue size=4>polyisobutylene  </font>\n<br>聚异丁烯\n
+polyisoprene  	<br><font color=blue size=4>polyisoprene  </font>\n<br>聚异戊二烯\n
+poly(lactic acid)  	<br><font color=blue size=4>poly(lactic acid)  </font>\n<br>聚乳酸\n
+polylactide  	<br><font color=blue size=4>polylactide  </font>\n<br>聚乳酸\n
+polymer  	<br><font color=blue size=4>polymer  </font>\n<br>橡胶\n
+polymer blend  	<br><font color=blue size=4>polymer blend  </font>\n<br>高分子共混物\n
+polymer catalyst  	<br><font color=blue size=4>polymer catalyst  </font>\n<br>高分子催化剂\n
+polymer colloid  	<br><font color=blue size=4>polymer colloid  </font>\n<br>高分子胶体\n
+polymer crystal  	<br><font color=blue size=4>polymer crystal  </font>\n<br>高分子晶体\n
+polymer crystallite  	<br><font color=blue size=4>polymer crystallite  </font>\n<br>高分子微晶\n
+polymer drug  	<br><font color=blue size=4>polymer drug  </font>\n<br>高分子药物\n
+polymer electret  	<br><font color=blue size=4>polymer electret  </font>\n<br>聚合物驻极体\n
+polymer elec-trolyte  	<br><font color=blue size=4>polymer elec-trolyte  </font>\n<br>高分子电解质\n
+polymeric additive  	<br><font color=blue size=4>polymeric additive  </font>\n<br>高分子添加剂\n
+polymeric adsorbent  	<br><font color=blue size=4>polymeric adsorbent  </font>\n<br>吸附树脂\n
+polymeric carrier  	<br><font color=blue size=4>polymeric carrier  </font>\n<br>高分子载体\n
+polymeric flocculant  	<br><font color=blue size=4>polymeric flocculant  </font>\n<br>高分子絮凝剂\n
+polymeric membrane  	<br><font color=blue size=4>polymeric membrane  </font>\n<br>高分子膜\n
+polymeric surfactant  	<br><font color=blue size=4>polymeric surfactant  </font>\n<br>聚合物表面活性剂\n
+polymerization  	<br><font color=blue size=4>polymerization  </font>\n<br>聚合\n
+polymerization accelerator  	<br><font color=blue size=4>polymerization accelerator  </font>\n<br>聚合加速剂\n
+polymerization catalyst  	<br><font color=blue size=4>polymerization catalyst  </font>\n<br>聚合催化剂\n
+polymerization kinetics  	<br><font color=blue size=4>polymerization kinetics  </font>\n<br>聚合动力学\n
+polymerization thermodynamics  	<br><font color=blue size=4>polymerization thermodynamics  </font>\n<br>聚合热力学\n
+polymer-metal complex  	<br><font color=blue size=4>polymer-metal complex  </font>\n<br>聚合物-金属配合物\n
+polymer-polymer complex  	<br><font color=blue size=4>polymer-polymer complex  </font>\n<br>聚合物-聚合物配合物\n
+polymer reactant  	<br><font color=blue size=4>polymer reactant  </font>\n<br>高分子试剂\n
+polymer reagent  	<br><font color=blue size=4>polymer reagent  </font>\n<br>高分子试剂\n
+polymer solution  	<br><font color=blue size=4>polymer solution  </font>\n<br>聚合物溶液\n
+polymer solvent  	<br><font color=blue size=4>polymer solvent  </font>\n<br>聚合物溶剂\n
+polymer-solvent interaction  	<br><font color=blue size=4>polymer-solvent interaction  </font>\n<br>聚合物-溶剂相互作用\n
+polymer support  	<br><font color=blue size=4>polymer support  </font>\n<br>高分子载体\n
+polymethacrylate  	<br><font color=blue size=4>polymethacrylate  </font>\n<br>聚甲基丙烯酸酯\n
+poly(methyl methacrylate)  	<br><font color=blue size=4>poly(methyl methacrylate)  </font>\n<br>聚甲基丙烯酸甲酯\n
+polynorbornene  	<br><font color=blue size=4>polynorbornene  </font>\n<br>聚降冰片烯\n
+polyolefin  	<br><font color=blue size=4>polyolefin  </font>\n<br>聚烯烃\n
+poly(oxyethylene glycol)  	<br><font color=blue size=4>poly(oxyethylene glycol)  </font>\n<br>聚乙二醇\n
+polyoxymethylene  	<br><font color=blue size=4>polyoxymethylene  </font>\n<br>聚甲醛\n
+polyoxytetramethylene  	<br><font color=blue size=4>polyoxytetramethylene  </font>\n<br>聚四氢呋喃\n
+polypeptide  	<br><font color=blue size=4>polypeptide  </font>\n<br>多肽\n
+poly(perfluoropropene)  	<br><font color=blue size=4>poly(perfluoropropene)  </font>\n<br>聚全氟丙烯\n
+polyphenylene oxide  	<br><font color=blue size=4>polyphenylene oxide  </font>\n<br>聚苯醚,又称“聚亚苯醚”\n
+poly(p-phenylene)  	<br><font color=blue size=4>poly(p-phenylene)  </font>\n<br>聚对亚苯\n
+poly(p-phenylene sulfide)  	<br><font color=blue size=4>poly(p-phenylene sulfide)  </font>\n<br>聚对亚苯硫醚,俗称"聚苯硫醚"\n
+poly(p-phenylene terephthalate)  	<br><font color=blue size=4>poly(p-phenylene terephthalate)  </font>\n<br>聚对苯二甲酸对苯二酯\n
+polypropylene  	<br><font color=blue size=4>polypropylene  </font>\n<br>聚丙烯\n
+polypropylene fiber  	<br><font color=blue size=4>polypropylene fiber  </font>\n<br>聚丙烯纤维,丙纶\n
+poly(propylene oxide)  	<br><font color=blue size=4>poly(propylene oxide)  </font>\n<br>聚环氧丙烷, 又称“聚氧化丙烯(polyoxytrimethyl-ene)”\n
+poly(pyromellitimido-1,4-phenylene)  	<br><font color=blue size=4>poly(pyromellitimido-1,4-phenylene)  </font>\n<br>聚均苯四酰亚胺-1,4-亚苯\n
+polyquinoxaline  	<br><font color=blue size=4>polyquinoxaline  </font>\n<br>聚喹喔啉\n
+polysilicate  	<br><font color=blue size=4>polysilicate  </font>\n<br>硅酸盐橡胶\n
+polystyrene  	<br><font color=blue size=4>polystyrene  </font>\n<br>聚苯乙烯\n
+polysulfide  	<br><font color=blue size=4>polysulfide  </font>\n<br>聚硫化物\n
+polysulfide rubber  	<br><font color=blue size=4>polysulfide rubber  </font>\n<br>聚硫橡胶\n
+polysulfone  	<br><font color=blue size=4>polysulfone  </font>\n<br>聚砜\n
+poly(tetrafluoroethylene)  	<br><font color=blue size=4>poly(tetrafluoroethylene)  </font>\n<br>聚四氟乙烯\n
+polytetrahydrofuran  	<br><font color=blue size=4>polytetrahydrofuran  </font>\n<br>聚四氢呋喃\n
+poly(tetramethylene terephthalate)  	<br><font color=blue size=4>poly(tetramethylene terephthalate)  </font>\n<br>聚对苯二甲酸丁二酯\n
+polythioether  	<br><font color=blue size=4>polythioether  </font>\n<br>聚硫醚\n
+polyurea  	<br><font color=blue size=4>polyurea  </font>\n<br>聚脲\n
+polyurethane  	<br><font color=blue size=4>polyurethane  </font>\n<br>聚氨基甲酸酯,聚氨酯\n
+polyurethane elastic fiber  	<br><font color=blue size=4>polyurethane elastic fiber  </font>\n<br>聚氨酯弹性纤维,氨纶\n
+polyurethane rubber  	<br><font color=blue size=4>polyurethane rubber  </font>\n<br>聚氨酯橡胶\n
+poly(vinyl acetate)  	<br><font color=blue size=4>poly(vinyl acetate)  </font>\n<br>聚乙酸乙烯酯,聚醋酸乙烯酯\n
+poly(vinyl alcohol)  	<br><font color=blue size=4>poly(vinyl alcohol)  </font>\n<br>聚乙烯醇\n
+polyvinyl alcohol fiber  	<br><font color=blue size=4>polyvinyl alcohol fiber  </font>\n<br>聚乙烯醇纤维\n
+poly(vinyl butyral)  	<br><font color=blue size=4>poly(vinyl butyral)  </font>\n<br>聚乙烯醇缩丁醛\n
+poly(vinyl chloride)  	<br><font color=blue size=4>poly(vinyl chloride)  </font>\n<br>聚氯乙烯\n
+polyvinyl chloride fiber  	<br><font color=blue size=4>polyvinyl chloride fiber  </font>\n<br>聚氯乙烯纤维,氯纶\n
+poly(vinylene chloride)  	<br><font color=blue size=4>poly(vinylene chloride)  </font>\n<br>聚1,2-二氯亚乙烯\n
+poly(vinyl fluoride)  	<br><font color=blue size=4>poly(vinyl fluoride)  </font>\n<br>聚氟乙烯\n
+poly(vinyl formal)  	<br><font color=blue size=4>poly(vinyl formal)  </font>\n<br>聚乙烯醇缩甲醛\n
+poly(vinylidene chloride)  	<br><font color=blue size=4>poly(vinylidene chloride)  </font>\n<br>聚偏二氯乙烯,聚偏[二]氯乙烯\n
+poly(vinylidene fluoride)  	<br><font color=blue size=4>poly(vinylidene fluoride)  </font>\n<br>聚偏二氟乙烯,聚偏[二]氟乙烯\n
+poly(β alanine)  	<br><font color=blue size=4>poly(β alanine)  </font>\n<br>聚（β-氨基丙酸）,尼龙3,聚酰胺3\n
+poly(ω amino caproic acid)  	<br><font color=blue size=4>poly(ω amino caproic acid)  </font>\n<br>聚（ω-氨基己酸）,尼龙6,聚酰胺6\n
+POM  	<br><font color=blue size=4>POM  </font>\n<br>Polyoxymethylene,Polyformaldehyde,Polyacetal(GB,DIN,ISO) 聚甲醛\n
+poor solvent  	<br><font color=blue size=4>poor solvent  </font>\n<br>不良溶剂\n
+popcorn polymer  	<br><font color=blue size=4>popcorn polymer  </font>\n<br>米花状橡胶\n
+POR  	<br><font color=blue size=4>POR  </font>\n<br>Polyepoxy Rubber 环氧丙浣橡胶\n
+porous membrane  	<br><font color=blue size=4>porous membrane  </font>\n<br>多孔膜\n
+post cure，post vulcanization  	<br><font color=blue size=4>post cure，post vulcanization  </font>\n<br>后硫化\n
+post expansion  	<br><font color=blue size=4>post expansion  </font>\n<br>后发泡\n
+post polymerization  	<br><font color=blue size=4>post polymerization  </font>\n<br>后聚合\n
+powdered rubber  	<br><font color=blue size=4>powdered rubber  </font>\n<br>粉末橡胶\n
+PP  	<br><font color=blue size=4>PP  </font>\n<br>Polypropylene(GB,DIN,ASTM,ISO) 聚丙烯及纤维\n
+PPE  	<br><font color=blue size=4>PPE  </font>\n<br>Poly(2,6-dimethylphenol) 聚2,6-二甲基苯醚\n
+PPO  	<br><font color=blue size=4>PPO  </font>\n<br>Polyphenylene Oxide(GB) 聚苯醚\n
+PPS  	<br><font color=blue size=4>PPS  </font>\n<br>Polyphenylene Sulfide(GB) 聚苯硫醚\n
+PPSU  	<br><font color=blue size=4>PPSU  </font>\n<br>Polyphenylene Sulfone(GB,ISO) 聚苯砜\n
+precipitation fractionation  	<br><font color=blue size=4>precipitation fractionation  </font>\n<br>沉淀分级\n
+precipitation polymerization  	<br><font color=blue size=4>precipitation polymerization  </font>\n<br>沉淀聚合\n
+precision polymerization  	<br><font color=blue size=4>precision polymerization  </font>\n<br>精密聚合\n
+pre-expanded bead  	<br><font color=blue size=4>pre-expanded bead  </font>\n<br>预发颗粒\n
+preforming  	<br><font color=blue size=4>preforming  </font>\n<br>压片\n
+prepolymer  	<br><font color=blue size=4>prepolymer  </font>\n<br>预聚物\n
+prepolymerization  	<br><font color=blue size=4>prepolymerization  </font>\n<br>预聚合\n
+pressure sensitive adhesion  	<br><font color=blue size=4>pressure sensitive adhesion  </font>\n<br>压敏粘合\n
+pressure sensitive adhesive  	<br><font color=blue size=4>pressure sensitive adhesive  </font>\n<br>压敏型黏合剂\n
+primary crystallization  	<br><font color=blue size=4>primary crystallization  </font>\n<br>主结晶\n
+primary radical termination  	<br><font color=blue size=4>primary radical termination  </font>\n<br>初级自由基终止\n
+primer  	<br><font color=blue size=4>primer  </font>\n<br>底漆\n
+processability  	<br><font color=blue size=4>processability  </font>\n<br>加工性\n
+processing  	<br><font color=blue size=4>processing  </font>\n<br>加工\n
+propagating chain end  	<br><font color=blue size=4>propagating chain end  </font>\n<br>增长链端\n
+PS  	<br><font color=blue size=4>PS  </font>\n<br>Polystyrene(GB) 聚苯乙烯\n
+PSAN  	<br><font color=blue size=4>PSAN  </font>\n<br>(参见SAN)Styrene Acrylnitrile Copolymer(DIN) 苯乙烯/丙烯腈共聚物\n
+PSB  	<br><font color=blue size=4>PSB  </font>\n<br>(参见SB)Styrene Butadiene Copolymer(DIN) 苯乙烯/丁二烯共聚物\n
+pseudo cationic living polymerization  	<br><font color=blue size=4>pseudo cationic living polymerization  </font>\n<br>假正离子活性聚合\n
+pseudo cationic polymerization  	<br><font color=blue size=4>pseudo cationic polymerization  </font>\n<br>假正离子聚合\n
+pseudoplastic  	<br><font color=blue size=4>pseudoplastic  </font>\n<br>假塑性\n
+pseudotermination  	<br><font color=blue size=4>pseudotermination  </font>\n<br>假终止\n
+PSI  	<br><font color=blue size=4>PSI  </font>\n<br>Methylsilicone Rubber With Phonyl Group(ASTM) 甲基苯基硅橡胶\n
+PSU  	<br><font color=blue size=4>PSU  </font>\n<br>(参见PPSU)Polysulfon Resin(GB) 聚砜树脂\n
+PTFE  	<br><font color=blue size=4>PTFE  </font>\n<br>Polytetrafluoroethylene(GB,DIN,ASTM,ISO) 聚四氟乙烯\n
+PTMT  	<br><font color=blue size=4>PTMT  </font>\n<br>(参见PBTP)Polytetramethylene Terephthalate 聚四甲基对苯二酸\n
+PTT  	<br><font color=blue size=4>PTT  </font>\n<br>Poly(Trimethylene Terephthalate)聚对苯二甲酸丙二醇酯\n
+PU  	<br><font color=blue size=4>PU  </font>\n<br>Hard Polyurethane Elastomer(BS) 硬聚氨酯弹性体\n
+PUR  	<br><font color=blue size=4>PUR  </font>\n<br>Polyurethane(GB,DIN,ISO) 聚氨基甲酸酯\n
+PVA  	<br><font color=blue size=4>PVA  </font>\n<br>(参见PVAC)德语Polyvinylacetate (参见PVAL);\n<br>英语Polyvinylalcohol 聚乙酸乙烯酯聚乙烯醇及纤维\n
+PVAA  	<br><font color=blue size=4>PVAA  </font>\n<br>Polyvinyl Acetal 聚乙烯醇缩醛纤维\n
+PVAC  	<br><font color=blue size=4>PVAC  </font>\n<br>Polyvinylacetate(GB,DIN,ASTM,ISO) 聚醋酸乙烯，聚乙酸乙烯酯\n
+PVAL  	<br><font color=blue size=4>PVAL  </font>\n<br>Polyvinylalcohol(GB,DIN,ASTM,ISO) 聚乙烯醇\n
+PVB  	<br><font color=blue size=4>PVB  </font>\n<br>Polyvinylbrtyral(GB,DIN,ASTM) 聚乙烯醇缩丁醛\n
+PVC  	<br><font color=blue size=4>PVC  </font>\n<br>Polyvinylchloride(GB,DIN,ASTM,ISO) 聚氯乙烯及纤维\n
+PVCA  	<br><font color=blue size=4>PVCA  </font>\n<br>(参见PVCAC)Vinylchloride-Vinylacetate Copolymer(GB,DIN) 聚氯乙烯/聚乙酸乙烯酯共聚物\n
+PVCAC  	<br><font color=blue size=4>PVCAC  </font>\n<br>(参见PVCA)Vinylchloride-Vinylacetate(ASTM) 氯乙烯/乙酸乙烯酯\n
+PVCC  	<br><font color=blue size=4>PVCC  </font>\n<br>(参见CPVC,PC,PeCe)After chlorinated PVC(GB,DIN) 氯化聚氯乙烯及纤维\n
+PVDC  	<br><font color=blue size=4>PVDC  </font>\n<br>Polyvinylidene Chloride(GB,DIN,ISO) 聚偏二氯乙烯及纤维\n
+PVDF  	<br><font color=blue size=4>PVDF  </font>\n<br>(参见PVF2)Polyvinylidene Fluoride(GB,DIN,ISO) 聚偏二氟乙烯\n
+PVF  	<br><font color=blue size=4>PVF  </font>\n<br>Polyvinyfluoride(GB) 聚氟二烯\n
+PVF2  	<br><font color=blue size=4>PVF2  </font>\n<br>(参见PVDF)Polyvinylidene Fluoride 聚偏二氟乙烯\n
+PVFM  	<br><font color=blue size=4>PVFM  </font>\n<br>(参见PVFO)Polyvinylformal(GB,DIN,ISO) 聚乙烯醇缩甲醛及纤维\n
+PVFO  	<br><font color=blue size=4>PVFO  </font>\n<br>(参见PVFM)Polyvinylformal(DIN) 聚乙烯醇缩甲醛\n
+PVK  	<br><font color=blue size=4>PVK  </font>\n<br>Polyvinylcarbazole(GB,DIN,ISO0 聚乙烯咔唑\n
+PVME  	<br><font color=blue size=4>PVME  </font>\n<br>Polyvinyl methyl ether 聚乙烯甲基醚\n
+PVP  	<br><font color=blue size=4>PVP  </font>\n<br>Polyvinylpyrolidone(GB) 聚乙烯吡咯烷酮\n
+PVSI  	<br><font color=blue size=4>PVSI  </font>\n<br>Methylsilicone Rubber with Phenyl and Vinyl Group(ASTM) 甲基苯基乙烯基硅橡胶\n
+PY  	<br><font color=blue size=4>PY  </font>\n<br>Unsaturated Polyester Resin(BS) 不饱和聚酯树脂\n
+pyridine butadiene rubber  	<br><font color=blue size=4>pyridine butadiene rubber  </font>\n<br>丁吡橡胶\n
+pyroelectric polymer  	<br><font color=blue size=4>pyroelectric polymer  </font>\n<br>热电性高分子\n
+pyrolytic polymer  	<br><font color=blue size=4>pyrolytic polymer  </font>\n<br>热解橡胶\n
+Q, e scheme  	<br><font color=blue size=4>Q, e scheme  </font>\n<br>Q e概念\n
+Q e概念  	<br><font color=blue size=4>Q e概念  </font>\n<br>Q, e scheme\n
+quinone polymer  	<br><font color=blue size=4>quinone polymer  </font>\n<br>苯醌橡胶\n
+Q value  	<br><font color=blue size=4>Q value  </font>\n<br>Q值\n
+Q值  	<br><font color=blue size=4>Q值  </font>\n<br>Q value\n
+radiation crosslinking  	<br><font color=blue size=4>radiation crosslinking  </font>\n<br>辐射交联\n
+radiation curable polymer  	<br><font color=blue size=4>radiation curable polymer  </font>\n<br>辐射固化橡胶\n
+radiation-degradable polymer  	<br><font color=blue size=4>radiation-degradable polymer  </font>\n<br>辐射降解橡胶\n
+radiation degradation  	<br><font color=blue size=4>radiation degradation  </font>\n<br>辐射降解\n
+radiation induced grafting  	<br><font color=blue size=4>radiation induced grafting  </font>\n<br>辐射诱导接枝\n
+radiation initiated polymerization  	<br><font color=blue size=4>radiation initiated polymerization  </font>\n<br>辐射引发聚合\n
+radiation ion polymerization  	<br><font color=blue size=4>radiation ion polymerization  </font>\n<br>辐射离子聚合\n
+radiation vulcanization  	<br><font color=blue size=4>radiation vulcanization  </font>\n<br>辐射硫化\n
+radical copolymerization  	<br><font color=blue size=4>radical copolymerization  </font>\n<br>自由基共聚合\n
+radical initiator  	<br><font color=blue size=4>radical initiator  </font>\n<br>自由基引发剂\n
+radical polymerization  	<br><font color=blue size=4>radical polymerization  </font>\n<br>自由基聚合,游离基聚合\n
+radical ring opening polymerization  	<br><font color=blue size=4>radical ring opening polymerization  </font>\n<br>自由基开环聚合\n
+radical scavenger  	<br><font color=blue size=4>radical scavenger  </font>\n<br>自由基捕获剂\n
+radius of gyration  	<br><font color=blue size=4>radius of gyration  </font>\n<br>回转半径\n
+random coil  	<br><font color=blue size=4>random coil  </font>\n<br>无规线团\n
+random coiling polymer  	<br><font color=blue size=4>random coiling polymer  </font>\n<br>无规卷曲橡胶\n
+random coil model  	<br><font color=blue size=4>random coil model  </font>\n<br>无规线团模型\n
+random copolymer  	<br><font color=blue size=4>random copolymer  </font>\n<br>无规共聚物\n
+random copolymerization  	<br><font color=blue size=4>random copolymerization  </font>\n<br>无规共聚合\n
+random crosslinking  	<br><font color=blue size=4>random crosslinking  </font>\n<br>无规交联\n
+random degradation  	<br><font color=blue size=4>random degradation  </font>\n<br>无规降解\n
+random polymer  	<br><font color=blue size=4>random polymer  </font>\n<br>无规橡胶\n
+random walk model  	<br><font color=blue size=4>random walk model  </font>\n<br>无规行走模型\n
+raw rubber  	<br><font color=blue size=4>raw rubber  </font>\n<br>生橡胶\n
+Rayleigh ratio  	<br><font color=blue size=4>Rayleigh ratio  </font>\n<br>瑞利比\n
+reaction bonding  	<br><font color=blue size=4>reaction bonding  </font>\n<br>反应粘合\n
+reaction injection molding  	<br><font color=blue size=4>reaction injection molding  </font>\n<br>反应注射成型, RIM\n
+reaction of pendant group  	<br><font color=blue size=4>reaction of pendant group  </font>\n<br>侧基反应\n
+reaction spinning  	<br><font color=blue size=4>reaction spinning  </font>\n<br>反应纺丝\n
+reactive extrusion  	<br><font color=blue size=4>reactive extrusion  </font>\n<br>反应性挤塑\n
+reactive heat-melting adhesive  	<br><font color=blue size=4>reactive heat-melting adhesive  </font>\n<br>反应性热熔胶\n
+reactive polymer  	<br><font color=blue size=4>reactive polymer  </font>\n<br>反应性橡胶\n
+reactive processing  	<br><font color=blue size=4>reactive processing  </font>\n<br>反应性加工\n
+reactive species  	<br><font color=blue size=4>reactive species  </font>\n<br>活性种\n
+reactivity ratio  	<br><font color=blue size=4>reactivity ratio  </font>\n<br>竞聚率\n
+reclaimed rubber  	<br><font color=blue size=4>reclaimed rubber  </font>\n<br>再生胶\n
+redox initiator  	<br><font color=blue size=4>redox initiator  </font>\n<br>氧化还原引发剂\n
+redox polymerization  	<br><font color=blue size=4>redox polymerization  </font>\n<br>氧化还原聚合\n
+redox resin  	<br><font color=blue size=4>redox resin  </font>\n<br>氧化还原树脂\n
+reduced viscosity  	<br><font color=blue size=4>reduced viscosity  </font>\n<br>比浓黏度\n
+refractive index increment  	<br><font color=blue size=4>refractive index increment  </font>\n<br>折光指数增量\n
+regular block  	<br><font color=blue size=4>regular block  </font>\n<br>规整嵌段\n
+regular polymer  	<br><font color=blue size=4>regular polymer  </font>\n<br>规整橡胶\n
+reinforced plastic  	<br><font color=blue size=4>reinforced plastic  </font>\n<br>增强塑料\n
+reinforcing  	<br><font color=blue size=4>reinforcing  </font>\n<br>增强,又称“补强”\n
+reinforcing agent  	<br><font color=blue size=4>reinforcing agent  </font>\n<br>增强剂,补强剂\n
+reinitiation  	<br><font color=blue size=4>reinitiation  </font>\n<br>再引发\n
+relative viscosity  	<br><font color=blue size=4>relative viscosity  </font>\n<br>相对黏度\n
+relative viscosity increment  	<br><font color=blue size=4>relative viscosity increment  </font>\n<br>相对黏度增量\n
+relaxation  	<br><font color=blue size=4>relaxation  </font>\n<br>弛豫,又称“松弛”\n
+relaxation modulus  	<br><font color=blue size=4>relaxation modulus  </font>\n<br>弛豫模量\n
+relaxation spectrum  	<br><font color=blue size=4>relaxation spectrum  </font>\n<br>弛豫谱\n
+relaxation time  	<br><font color=blue size=4>relaxation time  </font>\n<br>弛豫时间\n
+releasing agent  	<br><font color=blue size=4>releasing agent  </font>\n<br>脱模剂,防粘剂\n
+re-odorant  	<br><font color=blue size=4>re-odorant  </font>\n<br>除臭剂\n
+repolymerization  	<br><font color=blue size=4>repolymerization  </font>\n<br>再聚合\n
+residual deformation  	<br><font color=blue size=4>residual deformation  </font>\n<br>剩余变形\n
+residual stress  	<br><font color=blue size=4>residual stress  </font>\n<br>剩余应力\n
+residual stretch  	<br><font color=blue size=4>residual stretch  </font>\n<br>剩余伸长\n
+resilience  	<br><font color=blue size=4>resilience  </font>\n<br>回弹,回弹性\n
+resin  	<br><font color=blue size=4>resin  </font>\n<br>树脂\n
+resin transfer molding  	<br><font color=blue size=4>resin transfer molding  </font>\n<br>树脂传递成型\n
+resite  	<br><font color=blue size=4>resite  </font>\n<br>丙阶酚醛树脂,又叫“不溶不熔酚醛树脂”\n
+resitol  	<br><font color=blue size=4>resitol  </font>\n<br>乙阶酚醛树脂,又叫“半熔酚醛树脂”\n
+resol  	<br><font color=blue size=4>resol  </font>\n<br>甲阶酚醛树脂,又叫“可溶酚醛树脂”\n
+retardation  	<br><font color=blue size=4>retardation  </font>\n<br>缓聚作用,延迟作用\n
+retardation time  	<br><font color=blue size=4>retardation time  </font>\n<br>推迟时间\n
+retardation [time] spectrum  	<br><font color=blue size=4>retardation [time] spectrum  </font>\n<br>推迟[时间]谱\n
+retarded deformation  	<br><font color=blue size=4>retarded deformation  </font>\n<br>延迟形变\n
+retarded elasticity  	<br><font color=blue size=4>retarded elasticity  </font>\n<br>延迟弹性\n
+retarder  	<br><font color=blue size=4>retarder  </font>\n<br>缓聚剂\n
+retarding agent  	<br><font color=blue size=4>retarding agent  </font>\n<br>缓聚剂 ,阻滞剂\n
+reverse atom transfer radical polymerization  	<br><font color=blue size=4>reverse atom transfer radical polymerization  </font>\n<br>反向原子转移自由基聚合, RATRP\n
+reversed phase suspension polymerization  	<br><font color=blue size=4>reversed phase suspension polymerization  </font>\n<br>反相悬浮聚合\n
+Reverse osmosis membrance  	<br><font color=blue size=4>Reverse osmosis membrance  </font>\n<br>反渗透膜\n
+reversible addition fragmentation chain transfer  	<br><font color=blue size=4>reversible addition fragmentation chain transfer  </font>\n<br>可逆加成断裂链转移, RAFT\n
+reversible deformation  	<br><font color=blue size=4>reversible deformation  </font>\n<br>可逆形变\n
+reversible gel  	<br><font color=blue size=4>reversible gel  </font>\n<br>可逆凝胶\n
+reversion  	<br><font color=blue size=4>reversion  </font>\n<br>返硫\n
+rigid chain  	<br><font color=blue size=4>rigid chain  </font>\n<br>刚性链\n
+rigid chain polymer  	<br><font color=blue size=4>rigid chain polymer  </font>\n<br>刚性链橡胶\n
+rigid rod polymer  	<br><font color=blue size=4>rigid rod polymer  </font>\n<br>刚棒高分子\n
+ringed spherulite  	<br><font color=blue size=4>ringed spherulite  </font>\n<br>环带球晶\n
+ring opening copolymerization  	<br><font color=blue size=4>ring opening copolymerization  </font>\n<br>开环共聚合\n
+ring opening metathesis polymerization，ROMP  	<br><font color=blue size=4>ring opening metathesis polymerization，ROMP  </font>\n<br>开环易位聚合\n
+ring opening polymerization  	<br><font color=blue size=4>ring opening polymerization  </font>\n<br>开环聚合\n
+ripening  	<br><font color=blue size=4>ripening  </font>\n<br>熟成\n
+Rockwell hardness  	<br><font color=blue size=4>Rockwell hardness  </font>\n<br>洛氏硬度\n
+rod coil block copolymer  	<br><font color=blue size=4>rod coil block copolymer  </font>\n<br>刚-柔嵌段共聚物\n
+rodlike chain  	<br><font color=blue size=4>rodlike chain  </font>\n<br>棒状链\n
+rodlike polymer  	<br><font color=blue size=4>rodlike polymer  </font>\n<br>棒状高分子\n
+room temperature vulcanized silicone rubber  	<br><font color=blue size=4>room temperature vulcanized silicone rubber  </font>\n<br>室温硫化硅橡胶\n
+root-mean-square end-to-end distance  	<br><font color=blue size=4>root-mean-square end-to-end distance  </font>\n<br>均方根末端距\n
+rotating sector method  	<br><font color=blue size=4>rotating sector method  </font>\n<br>旋转光闸法\n
+rotational moulding  	<br><font color=blue size=4>rotational moulding  </font>\n<br>滚塑\n
+rot resistor  	<br><font color=blue size=4>rot resistor  </font>\n<br>防腐剂\n
+RP  	<br><font color=blue size=4>RP  </font>\n<br>Reinforced Plastics(GB) 增强塑料\n
+rubber  	<br><font color=blue size=4>rubber  </font>\n<br>橡胶\n
+rubber compounding  	<br><font color=blue size=4>rubber compounding  </font>\n<br>橡胶配合\n
+rubber latex  	<br><font color=blue size=4>rubber latex  </font>\n<br>橡胶胶乳\n
+rubber modified plastics  	<br><font color=blue size=4>rubber modified plastics  </font>\n<br>橡胶改性塑料\n
+rubberresin blends  	<br><font color=blue size=4>rubberresin blends  </font>\n<br>橡胶改性塑料\n
+rubber state  	<br><font color=blue size=4>rubber state  </font>\n<br>橡胶态\n
+runnerless injection molding  	<br><font color=blue size=4>runnerless injection molding  </font>\n<br>无流道冷料注塑\n
+sag  	<br><font color=blue size=4>sag  </font>\n<br>垂挂\n
+SAN  	<br><font color=blue size=4>SAN  </font>\n<br>(参见PSAN)Styrene-Acrylnitrile Copolymer(GB,DIN,ISO) 苯乙烯/丙烯腈共聚物\n
+saturated polyester  	<br><font color=blue size=4>saturated polyester  </font>\n<br>饱和聚酯\n
+saturated rubber  	<br><font color=blue size=4>saturated rubber  </font>\n<br>饱和橡胶\n
+SB  	<br><font color=blue size=4>SB  </font>\n<br>(参见PSB)Styrene-Butadiene(DIN,ISO) 苯乙烯/丁二烯\n
+SBR  	<br><font color=blue size=4>SBR  </font>\n<br>Styrene Butadiene Rubber(ASTM,BS) 丁苯橡胶\n
+SBS  	<br><font color=blue size=4>SBS  </font>\n<br>Styrene Butadiene Styrene block Polymer 苯乙烯/丁二烯/苯乙烯嵌段共聚物\n
+Schulz-Zimm distribution  	<br><font color=blue size=4>Schulz-Zimm distribution  </font>\n<br>舒尔茨-齐姆分布\n
+scorching  	<br><font color=blue size=4>scorching  </font>\n<br>焦烧,过早硫化\n
+scorch retarder  	<br><font color=blue size=4>scorch retarder  </font>\n<br>防焦剂\n
+SCR  	<br><font color=blue size=4>SCR  </font>\n<br>Styrene Chloroprene Rubber(ASTM) 苯乙烯氯丁二烯橡胶\n
+scrath resistance  	<br><font color=blue size=4>scrath resistance  </font>\n<br>抗刮性\n
+SEBS  	<br><font color=blue size=4>SEBS  </font>\n<br>Styrene-ethylene-butadiene-styrene block copolymer 氢化苯乙烯嵌段共聚物\n
+secondary crystallization  	<br><font color=blue size=4>secondary crystallization  </font>\n<br>后期结晶\n
+secondary relaxation  	<br><font color=blue size=4>secondary relaxation  </font>\n<br>次级弛豫\n
+secondary relaxation temperature  	<br><font color=blue size=4>secondary relaxation temperature  </font>\n<br>次级弛豫温度\n
+secondary transition  	<br><font color=blue size=4>secondary transition  </font>\n<br>次级转变\n
+sedimentation coefficient  	<br><font color=blue size=4>sedimentation coefficient  </font>\n<br>沉降系数\n
+sedimentation equilibrium  	<br><font color=blue size=4>sedimentation equilibrium  </font>\n<br>沉降平衡\n
+sedimentation equilibrium method  	<br><font color=blue size=4>sedimentation equilibrium method  </font>\n<br>沉降平衡法\n
+sedimentation velocity method  	<br><font color=blue size=4>sedimentation velocity method  </font>\n<br>沉降速度法\n
+seeding polymerization  	<br><font color=blue size=4>seeding polymerization  </font>\n<br>种子聚合\n
+segmental motion  	<br><font color=blue size=4>segmental motion  </font>\n<br>链段运动\n
+segmented copolymer  	<br><font color=blue size=4>segmented copolymer  </font>\n<br>多嵌段共聚物\n
+segregation  	<br><font color=blue size=4>segregation  </font>\n<br>分聚\n
+self assembly  	<br><font color=blue size=4>self assembly  </font>\n<br>自组装\n
+self avoiding walk model  	<br><font color=blue size=4>self avoiding walk model  </font>\n<br>自避随机行走模型\n
+self crosslinking  	<br><font color=blue size=4>self crosslinking  </font>\n<br>自交联\n
+self-curing  	<br><font color=blue size=4>self-curing  </font>\n<br>自动硫化\n<br> self curing  \n<br>自交联\n
+self curing  	<br><font color=blue size=4>self curing  </font>\n<br>自交联\n<br> self-curing  \n<br>自动硫化\n
+self propagation  	<br><font color=blue size=4>self propagation  </font>\n<br>自增长\n
+self-reinforcing polymer  	<br><font color=blue size=4>self-reinforcing polymer  </font>\n<br>自增强橡胶\n
+self termination  	<br><font color=blue size=4>self termination  </font>\n<br>自终止\n
+self-vulcanizing  	<br><font color=blue size=4>self-vulcanizing  </font>\n<br>自动硫化\n
+semiconducting polymer  	<br><font color=blue size=4>semiconducting polymer  </font>\n<br>高分子半导体\n
+semicontinuous polymerization  	<br><font color=blue size=4>semicontinuous polymerization  </font>\n<br>半连续聚合\n
+semi-crystalline polymer  	<br><font color=blue size=4>semi-crystalline polymer  </font>\n<br>半结晶橡胶\n
+semi- flexible chain polymer  	<br><font color=blue size=4>semi- flexible chain polymer  </font>\n<br>半柔性链橡胶\n
+semi-interpenetrating polymer network  	<br><font color=blue size=4>semi-interpenetrating polymer network  </font>\n<br>半互穿聚合物网络, SIPN\n
+semipermeable membrane  	<br><font color=blue size=4>semipermeable membrane  </font>\n<br>半透膜\n
+semi-synthetic fiber  	<br><font color=blue size=4>semi-synthetic fiber  </font>\n<br>半合成纤维\n
+separant  	<br><font color=blue size=4>separant  </font>\n<br>隔离剂\n
+sequence length distribution  	<br><font color=blue size=4>sequence length distribution  </font>\n<br>序列长度分布\n
+sequential copolymer  	<br><font color=blue size=4>sequential copolymer  </font>\n<br>序列共聚物\n
+sequential polymerization  	<br><font color=blue size=4>sequential polymerization  </font>\n<br>序列聚合\n
+set-up effect  	<br><font color=blue size=4>set-up effect  </font>\n<br>开始[硫化]效应\n
+shape-memory polymer  	<br><font color=blue size=4>shape-memory polymer  </font>\n<br>形状记忆高分子\n
+shear modulus  	<br><font color=blue size=4>shear modulus  </font>\n<br>剪切模量\n
+shear strain  	<br><font color=blue size=4>shear strain  </font>\n<br>剪切应变\n
+shear strength  	<br><font color=blue size=4>shear strength  </font>\n<br>剪切强度\n
+shear stress  	<br><font color=blue size=4>shear stress  </font>\n<br>剪切应力\n
+shear thinning  	<br><font color=blue size=4>shear thinning  </font>\n<br>剪切变稀\n
+shear viscosity  	<br><font color=blue size=4>shear viscosity  </font>\n<br>剪切黏度\n
+sheath core fiber  	<br><font color=blue size=4>sheath core fiber  </font>\n<br>皮芯纤维\n
+shellac  	<br><font color=blue size=4>shellac  </font>\n<br>紫胶,虫胶\n
+shift factor  	<br><font color=blue size=4>shift factor  </font>\n<br>平移因子\n
+shish-kebab structure  	<br><font color=blue size=4>shish-kebab structure  </font>\n<br>串晶结构\n
+shock moulding  	<br><font color=blue size=4>shock moulding  </font>\n<br>冲压模塑\n
+short-chain branch  	<br><font color=blue size=4>short-chain branch  </font>\n<br>短支链\n
+short-range intramolecular interaction  	<br><font color=blue size=4>short-range intramolecular interaction  </font>\n<br>近程分子内相互作用\n
+short range order  	<br><font color=blue size=4>short range order  </font>\n<br>近程有序\n
+short-range structure  	<br><font color=blue size=4>short-range structure  </font>\n<br>近程结构\n
+shrinkage crack  	<br><font color=blue size=4>shrinkage crack  </font>\n<br>收缩开裂\n
+SI  	<br><font color=blue size=4>SI  </font>\n<br>Silicone(DIN,ISO);\n<br>Methylsilicone Rubber(GB,ASTM) 硅硐甲基硅橡胶\n
+side chain liquid crystalline polymer  	<br><font color=blue size=4>side chain liquid crystalline polymer  </font>\n<br>侧链型液晶橡胶\n
+silane coupling agent  	<br><font color=blue size=4>silane coupling agent  </font>\n<br>硅烷偶联剂\n
+silicate polymer  	<br><font color=blue size=4>silicate polymer  </font>\n<br>硅酸盐橡胶\n
+silicone resin  	<br><font color=blue size=4>silicone resin  </font>\n<br>有机硅树脂\n
+silicon rubber  	<br><font color=blue size=4>silicon rubber  </font>\n<br>硅橡胶\n
+single-strand polymer  	<br><font color=blue size=4>single-strand polymer  </font>\n<br>单股橡胶\n
+SIR  	<br><font color=blue size=4>SIR  </font>\n<br>Silicone Rubber;\n<br>Styrene Isoprene Rubber(ASTM) 硅橡胶苯乙烯异戊二烯橡胶\n
+sizing  	<br><font color=blue size=4>sizing  </font>\n<br>定型\n
+skin and core effect  	<br><font color=blue size=4>skin and core effect  </font>\n<br>皮心效应\n
+skin effect  	<br><font color=blue size=4>skin effect  </font>\n<br>皮层效应\n
+slurry polymerization  	<br><font color=blue size=4>slurry polymerization  </font>\n<br>淤浆聚合\n
+SMC  	<br><font color=blue size=4>SMC  </font>\n<br>Sheet Molding Compound 片状模塑料\n
+smectic liquid crystal  	<br><font color=blue size=4>smectic liquid crystal  </font>\n<br>近晶相液晶\n
+smectic mesophase  	<br><font color=blue size=4>smectic mesophase  </font>\n<br>近晶中介相\n
+smectic phase  	<br><font color=blue size=4>smectic phase  </font>\n<br>近晶相\n
+SMR  	<br><font color=blue size=4>SMR  </font>\n<br>Standardized Malaysian Rubber 标准马来西来橡胶\n
+SMS  	<br><font color=blue size=4>SMS  </font>\n<br>Sthrene Methylstyrene Copolymer(GB,DIN,ISO) 苯乙烯甲基苯乙烯共聚物\n
+softening temperature  	<br><font color=blue size=4>softening temperature  </font>\n<br>软化温度\n
+sol-gel transformation  	<br><font color=blue size=4>sol-gel transformation  </font>\n<br>溶胶-凝胶转化\n
+solid-phase extrusion  	<br><font color=blue size=4>solid-phase extrusion  </font>\n<br>固相挤出\n
+solid phase polycondensation  	<br><font color=blue size=4>solid phase polycondensation  </font>\n<br>固相缩聚\n
+solid phase polymerization  	<br><font color=blue size=4>solid phase polymerization  </font>\n<br>固相聚合\n
+solubility parameter  	<br><font color=blue size=4>solubility parameter  </font>\n<br>溶度参数\n
+solution polymerization  	<br><font color=blue size=4>solution polymerization  </font>\n<br>溶液聚合\n
+solution polymerized butadiene styrene rubber  	<br><font color=blue size=4>solution polymerized butadiene styrene rubber  </font>\n<br>溶聚丁苯橡胶, SSBR\n
+solution spinning  	<br><font color=blue size=4>solution spinning  </font>\n<br>溶液纺丝\n
+solvent gradient [elution] chromatography  	<br><font color=blue size=4>solvent gradient [elution] chromatography  </font>\n<br>溶剂梯度洗脱色谱法\n
+solvent impregnated resin  	<br><font color=blue size=4>solvent impregnated resin  </font>\n<br>浸渍树脂\n
+speciality polymer  	<br><font color=blue size=4>speciality polymer  </font>\n<br>特殊性能高分子,特种高分子\n
+spherulite  	<br><font color=blue size=4>spherulite  </font>\n<br>球晶\n
+spinnability  	<br><font color=blue size=4>spinnability  </font>\n<br>可纺性\n
+spinning  	<br><font color=blue size=4>spinning  </font>\n<br>纺丝\n
+spinodal decomposition  	<br><font color=blue size=4>spinodal decomposition  </font>\n<br>亚稳相分离\n
+spontaneous polymerization  	<br><font color=blue size=4>spontaneous polymerization  </font>\n<br>自发聚合\n
+spontaneous termination  	<br><font color=blue size=4>spontaneous termination  </font>\n<br>自发终止\n
+spray spinning  	<br><font color=blue size=4>spray spinning  </font>\n<br>喷纺成形\n
+spreading function  	<br><font color=blue size=4>spreading function  </font>\n<br>加宽函数\n
+S-PVC  	<br><font color=blue size=4>S-PVC  </font>\n<br>PVC Suspension Polymerized 悬浮聚合聚氯乙烯\n
+stable free radical polymerization  	<br><font color=blue size=4>stable free radical polymerization  </font>\n<br>稳定自由基聚合, FRP\n
+stack moulding  	<br><font color=blue size=4>stack moulding  </font>\n<br>迭模压塑\n
+starch  	<br><font color=blue size=4>starch  </font>\n<br>淀粉\n
+star polymer  	<br><font color=blue size=4>star polymer  </font>\n<br>星形橡胶\n
+statistical coil  	<br><font color=blue size=4>statistical coil  </font>\n<br>统计线团\n
+statistical copolymer  	<br><font color=blue size=4>statistical copolymer  </font>\n<br>统计[结构]共聚物\n
+statistical segment  	<br><font color=blue size=4>statistical segment  </font>\n<br>统计链段\n
+steam curing  	<br><font color=blue size=4>steam curing  </font>\n<br>蒸汽硫化\n
+step copolymerization  	<br><font color=blue size=4>step copolymerization  </font>\n<br>逐步共聚合\n
+step growth polymerization  	<br><font color=blue size=4>step growth polymerization  </font>\n<br>逐步［增长］聚合\n
+step ladder polymer  	<br><font color=blue size=4>step ladder polymer  </font>\n<br>分段梯形橡胶\n
+stereoblock  	<br><font color=blue size=4>stereoblock  </font>\n<br>立构嵌段\n
+stereoregular polymer  	<br><font color=blue size=4>stereoregular polymer  </font>\n<br>有规立构橡胶\n
+stereoregular polymerization  	<br><font color=blue size=4>stereoregular polymerization  </font>\n<br>定向聚合,立构规整聚合\n
+stereorepeating unit  	<br><font color=blue size=4>stereorepeating unit  </font>\n<br>立构重复单元\n
+stereospecific polymerization  	<br><font color=blue size=4>stereospecific polymerization  </font>\n<br>定向聚合,立构规整聚合\n
+storage modulus  	<br><font color=blue size=4>storage modulus  </font>\n<br>储能模量\n
+straight chain polymer  	<br><font color=blue size=4>straight chain polymer  </font>\n<br>直链高分子\n
+strain energy  	<br><font color=blue size=4>strain energy  </font>\n<br>应变能\n
+strain hardening  	<br><font color=blue size=4>strain hardening  </font>\n<br>应变硬化\n
+strain softening  	<br><font color=blue size=4>strain softening  </font>\n<br>应变软化\n
+strain tensor  	<br><font color=blue size=4>strain tensor  </font>\n<br>应变张量\n
+strand  	<br><font color=blue size=4>strand  </font>\n<br>股\n
+streaming birefringence  	<br><font color=blue size=4>streaming birefringence  </font>\n<br>流动双折射\n
+stress cracking  	<br><font color=blue size=4>stress cracking  </font>\n<br>应力开裂\n
+stress intensity factor  	<br><font color=blue size=4>stress intensity factor  </font>\n<br>应力强度因子\n
+stress strain curve  	<br><font color=blue size=4>stress strain curve  </font>\n<br>应力-应变曲线\n
+stress whitening  	<br><font color=blue size=4>stress whitening  </font>\n<br>应力致白\n
+stretch blow molding  	<br><font color=blue size=4>stretch blow molding  </font>\n<br>拉伸吹塑成型\n
+stretching strain  	<br><font color=blue size=4>stretching strain  </font>\n<br>拉伸应变\n
+stretch thermoforming  	<br><font color=blue size=4>stretch thermoforming  </font>\n<br>拉伸热成型\n
+styrene butadiene rubber  	<br><font color=blue size=4>styrene butadiene rubber  </font>\n<br>丁苯橡胶, SBR\n
+styrene butadiene styrene block copolymer (SBS)  	<br><font color=blue size=4>styrene butadiene styrene block copolymer (SBS)  </font>\n<br>苯乙烯-丁二烯-苯乙烯嵌段共聚物\n
+styrene isoprene butadiene rubber  	<br><font color=blue size=4>styrene isoprene butadiene rubber  </font>\n<br>苯乙烯-异戊二烯-丁二烯橡胶, SIBR\n
+styrene isoprene styrene block copolymer (SIS)  	<br><font color=blue size=4>styrene isoprene styrene block copolymer (SIS)  </font>\n<br>苯乙烯-异戊二烯-苯乙烯嵌段共聚物\n
+sulfur donor  	<br><font color=blue size=4>sulfur donor  </font>\n<br>给硫剂\n
+sulfur donor agent  	<br><font color=blue size=4>sulfur donor agent  </font>\n<br>给硫剂\n
+sulfur vulcanization  	<br><font color=blue size=4>sulfur vulcanization  </font>\n<br>硫［黄］硫化\n
+superconductive polymer  	<br><font color=blue size=4>superconductive polymer  </font>\n<br>超导橡胶\n
+super ion-conductive polymer  	<br><font color=blue size=4>super ion-conductive polymer  </font>\n<br>超离子导电橡胶\n
+supra polymer  	<br><font color=blue size=4>supra polymer  </font>\n<br>超高分子\n
+suspension polymerization  	<br><font color=blue size=4>suspension polymerization  </font>\n<br>悬浮聚合\n
+swelling  	<br><font color=blue size=4>swelling  </font>\n<br>溶胀\n
+switchboard model  	<br><font color=blue size=4>switchboard model  </font>\n<br>接线板模型\n
+SYN  	<br><font color=blue size=4>SYN  </font>\n<br>Synthetic Fibers 合成纤维类\n
+syndiotacticity  	<br><font color=blue size=4>syndiotacticity  </font>\n<br>间同度,间同立构[规整]度\n
+syndiotactic polymer  	<br><font color=blue size=4>syndiotactic polymer  </font>\n<br>间同立构橡胶,间规橡胶\n
+synthetic fiber  	<br><font color=blue size=4>synthetic fiber  </font>\n<br>合成纤维\n
+synthetic polymer  	<br><font color=blue size=4>synthetic polymer  </font>\n<br>合成橡胶\n
+synthetic rubber  	<br><font color=blue size=4>synthetic rubber  </font>\n<br>合成橡胶\n
+tackifier  	<br><font color=blue size=4>tackifier  </font>\n<br>增粘剂\n
+tacticity  	<br><font color=blue size=4>tacticity  </font>\n<br>立构规整度\n
+tactic polymer  	<br><font color=blue size=4>tactic polymer  </font>\n<br>有规立构橡胶\n
+tactic polymerization  	<br><font color=blue size=4>tactic polymerization  </font>\n<br>有规立构聚合\n
+tail-to-tail polymer  	<br><font color=blue size=4>tail-to-tail polymer  </font>\n<br>尾-尾橡胶\n
+tapered block copolymer  	<br><font color=blue size=4>tapered block copolymer  </font>\n<br>递变嵌段共聚物\n
+tapered copolymer  	<br><font color=blue size=4>tapered copolymer  </font>\n<br>锥形共聚物\n
+TCEF  	<br><font color=blue size=4>TCEF  </font>\n<br>Tricresyl phosphate(ISO) 磷酸三氯乙酯\n
+TCF  	<br><font color=blue size=4>TCF  </font>\n<br>(参见TCP,TKP,TTP)Tricresyl phosphate(DIN,ISO) 磷酸三甲苯酯\n
+TCP  	<br><font color=blue size=4>TCP  </font>\n<br>(参见TCP,TKP,TTP)Tricresyl phosphate(IUPAC) 磷酸三甲苯酯\n
+TDI  	<br><font color=blue size=4>TDI  </font>\n<br>Toluylene Diisocyanate  甲代苯撑异氰酸酯\n
+tearing strength  	<br><font color=blue size=4>tearing strength  </font>\n<br>抗撕强度,又称“抗扯强度”\n
+telechelic polymer  	<br><font color=blue size=4>telechelic polymer  </font>\n<br>遥爪橡胶,远螯橡胶\n
+telomer  	<br><font color=blue size=4>telomer  </font>\n<br>调聚物\n
+telomerization  	<br><font color=blue size=4>telomerization  </font>\n<br>调聚反应\n
+template polymerization  	<br><font color=blue size=4>template polymerization  </font>\n<br>模板聚合\n
+tensile strength  	<br><font color=blue size=4>tensile strength  </font>\n<br>拉伸强度\n
+tensile stress relaxation  	<br><font color=blue size=4>tensile stress relaxation  </font>\n<br>拉伸应力弛豫\n
+terminal group  	<br><font color=blue size=4>terminal group  </font>\n<br>端基\n
+terminator  	<br><font color=blue size=4>terminator  </font>\n<br>终止剂\n
+ternary copolymerization  	<br><font color=blue size=4>ternary copolymerization  </font>\n<br>三元共聚合\n
+terpene resin  	<br><font color=blue size=4>terpene resin  </font>\n<br>萜烯树脂\n
+terpolymer  	<br><font color=blue size=4>terpolymer  </font>\n<br>三元共聚物\n
+tetrad  	<br><font color=blue size=4>tetrad  </font>\n<br>四单元组\n
+tex  	<br><font color=blue size=4>tex  </font>\n<br>特, 纤度单位, 1000米纤维重1克为1特\n
+textile finishing agent  	<br><font color=blue size=4>textile finishing agent  </font>\n<br>纺织品整理剂\n
+texture  	<br><font color=blue size=4>texture  </font>\n<br>织构\n
+thermal ageing  	<br><font color=blue size=4>thermal ageing  </font>\n<br>热老化\n
+thermal degradation  	<br><font color=blue size=4>thermal degradation  </font>\n<br>热降解\n
+thermal forming  	<br><font color=blue size=4>thermal forming  </font>\n<br>热成型\n
+thermal fractionation  	<br><font color=blue size=4>thermal fractionation  </font>\n<br>热分级\n
+thermal history  	<br><font color=blue size=4>thermal history  </font>\n<br>热历史\n
+thermal initiation  	<br><font color=blue size=4>thermal initiation  </font>\n<br>热引发\n
+thermally sensitive resin  	<br><font color=blue size=4>thermally sensitive resin  </font>\n<br>热敏性树脂\n
+thermal oxidative degradation  	<br><font color=blue size=4>thermal oxidative degradation  </font>\n<br>热氧化降解\n
+thermal polymerization  	<br><font color=blue size=4>thermal polymerization  </font>\n<br>热聚合\n
+thermodynamically equivalent sphere  	<br><font color=blue size=4>thermodynamically equivalent sphere  </font>\n<br>热力学等效球\n
+thermodynamic quality of solvent  	<br><font color=blue size=4>thermodynamic quality of solvent  </font>\n<br>溶剂热力学性质\n
+thermoiniferter  	<br><font color=blue size=4>thermoiniferter  </font>\n<br>热引发转移终止剂\n
+thermo-mechanical curve  	<br><font color=blue size=4>thermo-mechanical curve  </font>\n<br>热-机械曲线\n
+thermo-oxidative ageing  	<br><font color=blue size=4>thermo-oxidative ageing  </font>\n<br>热氧老化\n
+thermoplastic elastomer  	<br><font color=blue size=4>thermoplastic elastomer  </font>\n<br>热塑[性]弹性体\n
+thermoplastic resin  	<br><font color=blue size=4>thermoplastic resin  </font>\n<br>热塑性树脂\n
+thermosensitive luminescence polymer  	<br><font color=blue size=4>thermosensitive luminescence polymer  </font>\n<br>热敏发光橡胶\n
+thermosetting resin  	<br><font color=blue size=4>thermosetting resin  </font>\n<br>热固性树脂\n
+thermoshrinking  	<br><font color=blue size=4>thermoshrinking  </font>\n<br>热收缩\n
+thermotropic liquid crystal  	<br><font color=blue size=4>thermotropic liquid crystal  </font>\n<br>热致性液晶\n
+thermotropic liquid crystalline polymer  	<br><font color=blue size=4>thermotropic liquid crystalline polymer  </font>\n<br>热致液晶高分子\n
+thermotropic mesomorphism  	<br><font color=blue size=4>thermotropic mesomorphism  </font>\n<br>热致性介晶\n
+theta solvent  	<br><font color=blue size=4>theta solvent  </font>\n<br>θ溶剂\n
+theta state  	<br><font color=blue size=4>theta state  </font>\n<br>θ态\n
+theta temperature  	<br><font color=blue size=4>theta temperature  </font>\n<br>θ温度\n
+thickener  	<br><font color=blue size=4>thickener  </font>\n<br>增稠剂\n
+thickening agent  	<br><font color=blue size=4>thickening agent  </font>\n<br>增稠剂\n
+thixotropy  	<br><font color=blue size=4>thixotropy  </font>\n<br>触变性\n
+three dimensional polycondensation  	<br><font color=blue size=4>three dimensional polycondensation  </font>\n<br>体型缩聚\n
+three-dimensional polymer  	<br><font color=blue size=4>three-dimensional polymer  </font>\n<br>体型橡胶\n
+threo-diisotactic polymer  	<br><font color=blue size=4>threo-diisotactic polymer  </font>\n<br>苏型双全同立构橡胶\n
+threo-disyndiotactic polymer  	<br><font color=blue size=4>threo-disyndiotactic polymer  </font>\n<br>苏型双间同立构橡胶\n
+time-temperature superposition principle  	<br><font color=blue size=4>time-temperature superposition principle  </font>\n<br>时-温迭加原理\n
+TIOTM  	<br><font color=blue size=4>TIOTM  </font>\n<br>Triisooctyl Trimellitate(DIN,ISO) 偏苯三酸三异辛酯\n
+tissue compatibility  	<br><font color=blue size=4>tissue compatibility  </font>\n<br>组织兼容性\n
+titanate coupling agent  	<br><font color=blue size=4>titanate coupling agent  </font>\n<br>钛酸酯偶联剂\n
+TKP  	<br><font color=blue size=4>TKP  </font>\n<br>(参见TCF,TCP,TTP)Tricresyl phosphate 磷酸三甲苯酯\n
+TM  	<br><font color=blue size=4>TM  </font>\n<br>Polysulfide Rubbers 聚硫橡胶\n
+TMC  	<br><font color=blue size=4>TMC  </font>\n<br>Thick Molding Compound 聚酯粘稠模塑料\n
+TOF  	<br><font color=blue size=4>TOF  </font>\n<br>(参见TOP)Triocty Phosphate,Tri-2-Ethylhexyl Phosphate(DIN,ISO) 磷酸三辛酯，磷酸三（2-乙已基）酯\n
+TOP  	<br><font color=blue size=4>TOP  </font>\n<br>(参见TOF)Trioctyl Phosphate(IUPAC) 磷酸三辛酯\n
+TOPM  	<br><font color=blue size=4>TOPM  </font>\n<br>Tetraoctyl Pyromellitate(DIN,ISO) 均苯四甲酸四辛酯\n
+topochemical polymerization  	<br><font color=blue size=4>topochemical polymerization  </font>\n<br>拓扑化学聚合\n
+topological entanglement  	<br><font color=blue size=4>topological entanglement  </font>\n<br>拓扑缠结\n
+torsional braid analysis，TBA  	<br><font color=blue size=4>torsional braid analysis，TBA  </font>\n<br>扭辫分析\n
+TOTM  	<br><font color=blue size=4>TOTM  </font>\n<br>Trioctyl Trimellitate(DIN,ISO) 偏笨三酸三辛酯\n
+toughening agent  	<br><font color=blue size=4>toughening agent  </font>\n<br>增韧剂\n
+TPA  	<br><font color=blue size=4>TPA  </font>\n<br>(参见TPR)1,5-Trans Polypentene Rubber 1,5-反式聚戊烯橡胶\n
+TPF  	<br><font color=blue size=4>TPF  </font>\n<br>(参见TPP)Triphenyl Phosphate(DIN,ISO) 磷酸三酚酯\n
+TPP  	<br><font color=blue size=4>TPP  </font>\n<br>(参见TPF)Triphenyl Phosphate(IUPAC) 醚酸三酚酯\n
+TPR  	<br><font color=blue size=4>TPR  </font>\n<br>(参见TPA)1,5-Trans Polypentene Rubber ;\n<br>(参见TR)Thermoplastic Rubber 1,5-反式聚戊烯橡胶热塑性橡胶\n
+TR  	<br><font color=blue size=4>TR  </font>\n<br>(参见TPR)Thermoplastic Rubber Butadiene Styrene Block Copolymer 热塑性橡胶 丁苯嵌段共聚物\n
+trans-1,4-polybutadiene  	<br><font color=blue size=4>trans-1,4-polybutadiene  </font>\n<br>反［式］-1,4-聚丁二烯\n
+trans-1,4-polyisoprene  	<br><font color=blue size=4>trans-1,4-polyisoprene  </font>\n<br>反［式］-1,4-聚异戊二烯\n
+transesterification type polymerization  	<br><font color=blue size=4>transesterification type polymerization  </font>\n<br>酯交换型聚合\n
+transfer molding  	<br><font color=blue size=4>transfer molding  </font>\n<br>传递成型\n
+transition metal catalyst  	<br><font color=blue size=4>transition metal catalyst  </font>\n<br>过渡金属催化剂\n
+transtactic polymer  	<br><font color=blue size=4>transtactic polymer  </font>\n<br>反式有规橡胶\n
+tree polymer  	<br><font color=blue size=4>tree polymer  </font>\n<br>树状高分子\n
+triad  	<br><font color=blue size=4>triad  </font>\n<br>三单元组\n
+triblock copolymer  	<br><font color=blue size=4>triblock copolymer  </font>\n<br>三嵌段共聚物\n
+trifunctional initiator  	<br><font color=blue size=4>trifunctional initiator  </font>\n<br>三官能引发剂\n
+trifunctional monomer  	<br><font color=blue size=4>trifunctional monomer  </font>\n<br>三官能［基］单体\n
+trimer  	<br><font color=blue size=4>trimer  </font>\n<br>三聚体\n
+TTP  	<br><font color=blue size=4>TTP  </font>\n<br>(参见TCF,TCP,TKP)Tricresyl Phosphate 磷酸三甲苯酯\n
+twist  	<br><font color=blue size=4>twist  </font>\n<br>捻度\n
+UA  	<br><font color=blue size=4>UA  </font>\n<br>Vinyl Acetate 醋酸乙烯\n
+UE  	<br><font color=blue size=4>UE  </font>\n<br>Polyurethand Rubber(ASTM) 聚氨酯橡胶\n
+UF  	<br><font color=blue size=4>UF  </font>\n<br>Urea Formaldehyde Resin(GB,DIN,ASTM,ISO) 脲醛树脂\n
+UHMPE  	<br><font color=blue size=4>UHMPE  </font>\n<br>Ultrahigh Molecular Weight Pe(GB) 超高分子量聚乙烯\n
+ultimate tensile strength  	<br><font color=blue size=4>ultimate tensile strength  </font>\n<br>极限拉伸强度\n
+ultrahigh molecular weight polyethylene  	<br><font color=blue size=4>ultrahigh molecular weight polyethylene  </font>\n<br>超高分子量聚乙烯, UHMWPE\n
+ultra low density polyethylene  	<br><font color=blue size=4>ultra low density polyethylene  </font>\n<br>超低密度聚乙烯, ULDPE\n
+ultraviolet absorber  	<br><font color=blue size=4>ultraviolet absorber  </font>\n<br>紫外光吸收剂\n
+ultraviolet stabilizer  	<br><font color=blue size=4>ultraviolet stabilizer  </font>\n<br>紫外线稳定剂\n
+uncatalyzed polymerization  	<br><font color=blue size=4>uncatalyzed polymerization  </font>\n<br>无催化聚合\n
+under cure  	<br><font color=blue size=4>under cure  </font>\n<br>欠硫\n
+uniaxial drawing  	<br><font color=blue size=4>uniaxial drawing  </font>\n<br>单轴拉伸\n
+uniaxial elongation  	<br><font color=blue size=4>uniaxial elongation  </font>\n<br>单轴拉伸\n
+uniaxial orientation  	<br><font color=blue size=4>uniaxial orientation  </font>\n<br>单轴取向\n
+uniform polymer  	<br><font color=blue size=4>uniform polymer  </font>\n<br>单分散橡胶\n
+unimolecular termination  	<br><font color=blue size=4>unimolecular termination  </font>\n<br>单分子终止\n
+universal calibration  	<br><font color=blue size=4>universal calibration  </font>\n<br>普适标定\n
+unperturbed dimension  	<br><font color=blue size=4>unperturbed dimension  </font>\n<br>无扰尺寸\n
+unperturbed end-to-end distance  	<br><font color=blue size=4>unperturbed end-to-end distance  </font>\n<br>无扰末端距\n
+unsaturated polyester  	<br><font color=blue size=4>unsaturated polyester  </font>\n<br>不饱和聚酯\n
+unsaturated rubber  	<br><font color=blue size=4>unsaturated rubber  </font>\n<br>不饱和橡胶\n
+UP  	<br><font color=blue size=4>UP  </font>\n<br>Unsaturated Polyester Resin(GB,DIN) 不饱和聚酯树脂\n
+UP-G-G  	<br><font color=blue size=4>UP-G-G  </font>\n<br>Polyester prepregnated Glassfiber Texfile 玻纤织物聚酯预浸渍物\n
+UP-G-M  	<br><font color=blue size=4>UP-G-M  </font>\n<br>Polyester Textilglass Mat Prepreg 玻璃毡聚酯预浸渍物\n
+UP-G-R  	<br><font color=blue size=4>UP-G-R  </font>\n<br>Polyester Textilglass Roving Prepreg 玻璃束聚酯预浸渍物\n
+upper critical solution temperature  	<br><font color=blue size=4>upper critical solution temperature  </font>\n<br>最高临界共溶温度, UCST\n
+UR  	<br><font color=blue size=4>UR  </font>\n<br>Polyurethane Rubber(BS) 聚氨酯橡胶\n
+urea-formaldehyde resin  	<br><font color=blue size=4>urea-formaldehyde resin  </font>\n<br>脲醛树脂\n
+urea resin  	<br><font color=blue size=4>urea resin  </font>\n<br>尿素树脂\n
+VAC  	<br><font color=blue size=4>VAC  </font>\n<br>Vinyl Acetate 醋酸乙烯\n
+vacuum bag molding  	<br><font color=blue size=4>vacuum bag molding  </font>\n<br>真空袋成型\n
+vacuum forming  	<br><font color=blue size=4>vacuum forming  </font>\n<br>真空成型,又称“吸塑”\n
+vacuum sintering  	<br><font color=blue size=4>vacuum sintering  </font>\n<br>真空烧结\n
+vapor pressure osmometry  	<br><font color=blue size=4>vapor pressure osmometry  </font>\n<br>蒸气压渗透法, VPO\n
+VC  	<br><font color=blue size=4>VC  </font>\n<br>(参见VCM)Vinylchloride 氯乙烯\n
+VC/E  	<br><font color=blue size=4>VC/E  </font>\n<br>Vinylchloride Ethylene Copolymer(GB) 氯乙烯/乙烯共聚物\n
+VC/E/MA  	<br><font color=blue size=4>VC/E/MA  </font>\n<br>Vinylchloride Ethylene Maleic Acid Copolymer(GB) 氯乙烯/乙烯/马来酸共聚物;\n<br>Vinylchloride Ethylene Methylacrylate(ISO) 氯乙烯/乙烯/丙烯酸甲酯\n
+VC/E/VAC  	<br><font color=blue size=4>VC/E/VAC  </font>\n<br>Vinylchloride Ethylene Vinylacetate Cipolymer(GB,ISO) 氯乙烯/乙烯/醋酸乙烯共聚物\n
+VCM  	<br><font color=blue size=4>VCM  </font>\n<br>(参见VC)Vinylchloride 氯乙烯单体\n
+VC/MA  	<br><font color=blue size=4>VC/MA  </font>\n<br>Vinylchloride Maleic acid Copolymer(GB) 氯乙烯/马来酸共聚物\n
+VC/MMA  	<br><font color=blue size=4>VC/MMA  </font>\n<br>Vinylchloride Methylmethacrylate(ISO) 氯乙烯/ 甲基丙烯酸甲酯\n
+VC/OA  	<br><font color=blue size=4>VC/OA  </font>\n<br>Vinylchloride Octylacrylate Copolymer(GB,ISO) 氯惭烯/丙烯酸辛酯共聚物\n
+VC/P  	<br><font color=blue size=4>VC/P  </font>\n<br>Vinylchloride Propylene Copolymer 氯乙烯/丙烯共聚物\n
+VC/VAC  	<br><font color=blue size=4>VC/VAC  </font>\n<br>Vinylchloride Vinylacetate Copolymer(GB,ISO) 氯乙烯/醋酸乙烯共聚物\n
+VC/VDC  	<br><font color=blue size=4>VC/VDC  </font>\n<br>Vinylchloride Vinylacetate Copolymer(GB) 氯乙烯/偏氯乙烯共聚物\n
+VF  	<br><font color=blue size=4>VF  </font>\n<br>Vulcanized Fiber 硬化纸板\n
+vinylene monomer  	<br><font color=blue size=4>vinylene monomer  </font>\n<br>1,2-亚乙烯基单体,1,2-二取代乙烯单体\n
+vinylidene monomer  	<br><font color=blue size=4>vinylidene monomer  </font>\n<br>1,1-亚乙烯基单体,偏［二］取代乙烯单体\n
+vinyl monomer  	<br><font color=blue size=4>vinyl monomer  </font>\n<br>乙烯基单体\n
+vinyl polymer  	<br><font color=blue size=4>vinyl polymer  </font>\n<br>烯类橡胶,乙烯基橡胶\n
+vinyl polymerization  	<br><font color=blue size=4>vinyl polymerization  </font>\n<br>烯类聚合,乙烯基聚合\n
+Virial coefficient  	<br><font color=blue size=4>Virial coefficient  </font>\n<br>位力系数,曾用名“维里系数”\n
+viscoelasticity  	<br><font color=blue size=4>viscoelasticity  </font>\n<br>黏弹性\n
+viscose fiber  	<br><font color=blue size=4>viscose fiber  </font>\n<br>粘胶纤维\n
+viscosity-average molar mass  	<br><font color=blue size=4>viscosity-average molar mass  </font>\n<br>黏均分子量\n
+viscosity-average molecular weight  	<br><font color=blue size=4>viscosity-average molecular weight  </font>\n<br>黏均分子量\n
+viscosity function  	<br><font color=blue size=4>viscosity function  </font>\n<br>黏度函数\n
+viscosity modifier  	<br><font color=blue size=4>viscosity modifier  </font>\n<br>粘度改进剂\n
+viscosity number  	<br><font color=blue size=4>viscosity number  </font>\n<br>黏数\n
+viscosity ratio  	<br><font color=blue size=4>viscosity ratio  </font>\n<br>黏度比\n
+viscous flow state  	<br><font color=blue size=4>viscous flow state  </font>\n<br>黏流态\n
+volume relaxation  	<br><font color=blue size=4>volume relaxation  </font>\n<br>体积弛豫\n
+VPF  	<br><font color=blue size=4>VPF  </font>\n<br>Crosslinked Polyethylene 交联聚乙烯\n
+VSI  	<br><font color=blue size=4>VSI  </font>\n<br>Methylsilicone Rubber with Vinyl Group(ASTM)  甲基乙烯基硅橡胶\n
+vulcanizate  	<br><font color=blue size=4>vulcanizate  </font>\n<br>硫化橡胶\n
+vulcanization  	<br><font color=blue size=4>vulcanization  </font>\n<br>硫化\n
+vulcanization accelerator  	<br><font color=blue size=4>vulcanization accelerator  </font>\n<br>硫化促进剂\n
+vulcanization activator  	<br><font color=blue size=4>vulcanization activator  </font>\n<br>硫化活化剂\n
+vulcanized rubber  	<br><font color=blue size=4>vulcanized rubber  </font>\n<br>硫化橡胶\n
+vulcanizing agent  	<br><font color=blue size=4>vulcanizing agent  </font>\n<br>硫化剂\n
+water absorbent polymer  	<br><font color=blue size=4>water absorbent polymer  </font>\n<br>吸水性橡胶\n
+water soluble polymer  	<br><font color=blue size=4>water soluble polymer  </font>\n<br>水溶性高分子\n
+weight-average molar mass  	<br><font color=blue size=4>weight-average molar mass  </font>\n<br>重均分子量\n
+weight-average molecular weight  	<br><font color=blue size=4>weight-average molecular weight  </font>\n<br>重均分子量\n
+weight distribution function  	<br><font color=blue size=4>weight distribution function  </font>\n<br>重量分布函数\n
+wet spinning  	<br><font color=blue size=4>wet spinning  </font>\n<br>湿纺\n
+wetting agent  	<br><font color=blue size=4>wetting agent  </font>\n<br>湿润剂\n
+WLF[Williams-Lendel-Ferry] equation  	<br><font color=blue size=4>WLF[Williams-Lendel-Ferry] equation  </font>\n<br>WLF公式\n
+WLF公式  	<br><font color=blue size=4>WLF公式  </font>\n<br>WLF[Williams-Lendel-Ferry] equation\n
+WM  	<br><font color=blue size=4>WM  </font>\n<br>Plasticizer ll增塑剂\n
+worm-like chain  	<br><font color=blue size=4>worm-like chain  </font>\n<br>蠕虫状链\n
+xanthate gum  	<br><font color=blue size=4>xanthate gum  </font>\n<br>黄原胶\n
+yarn  	<br><font color=blue size=4>yarn  </font>\n<br>纱\n
+yielding  	<br><font color=blue size=4>yielding  </font>\n<br>屈服\n
+yield strain  	<br><font color=blue size=4>yield strain  </font>\n<br>屈服应变\n
+yield strength  	<br><font color=blue size=4>yield strength  </font>\n<br>屈服强度\n
+yield stress  	<br><font color=blue size=4>yield stress  </font>\n<br>屈服应力\n
+Young's modulus  	<br><font color=blue size=4>Young's modulus  </font>\n<br>杨氏模量\n
+zero ressure molding  	<br><font color=blue size=4>zero ressure molding  </font>\n<br>无压成型\n
+zero shear viscosity  	<br><font color=blue size=4>zero shear viscosity  </font>\n<br>零切变速率黏度\n
+Ziegler Natta catalyst  	<br><font color=blue size=4>Ziegler Natta catalyst  </font>\n<br>齐格勒-纳塔催化剂\n
+Ziegler Natta polymerization  	<br><font color=blue size=4>Ziegler Natta polymerization  </font>\n<br>齐格勒-纳塔聚合\n
+zigzag chain  	<br><font color=blue size=4>zigzag chain  </font>\n<br>锯齿链\n
+Zimm plot  	<br><font color=blue size=4>Zimm plot  </font>\n<br>齐姆图\n
+Z-molar mass  	<br><font color=blue size=4>Z-molar mass  </font>\n<br>Z均分子量\n
+zwitterion polymerization  	<br><font color=blue size=4>zwitterion polymerization  </font>\n<br>两性离子聚合\n
+Z(Zaverage)-average molecular weight  	<br><font color=blue size=4>Z(Zaverage)-average molecular weight  </font>\n<br>Z均分子量\n
