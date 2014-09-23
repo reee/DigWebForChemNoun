@@ -28,17 +28,8 @@ class ZhihuSpider(CrawlSpider):
 
     def parse_data(self, response):
         #Get the data 
-        time_list = response.xpath('//a[@target="_self"]/@href').extract()
-        time = ''.join(time_list)
-        #Zhihu Has two Titles!
-        h_title_list = response.xpath('//h2[@class="headline-title"]/text()').extract()
-        h_title = "".join(h_title_list).strip().encode('utf8')
-        q_title_list = response.xpath('//h2[@class="headline-title"]/text()').extract()
-        q_title = "".join(q_title_list).strip().encode('utf8')
-        if h_title:
-            title = h_title
-        else:
-            title = q_title
+        time = response.xpath('//a[@target="_self"]/@href').extract()[0]
+        title = response.xpath('//h1[@class="headline-title"]/text()').extract()[0]
 
         content_list = response.xpath('//div[@class="content"]//text()').extract()
         content = "".join(content_list).strip().encode('utf8')
