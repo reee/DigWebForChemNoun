@@ -22,11 +22,13 @@ class ifengSpider(CrawlSpider):
     ]
     start_urls = [
         "http://news.ifeng.com",
+        "http://www.ifeng.com/daohang",
     ]
-    
+
     rules = (
         Rule(LinkExtractor(allow=('/a/\d{8}/\w+.shtml')), callback='parse_data', follow=True,),
-        Rule(LinkExtractor(allow=('/\w+/$')), follow=True,),
+        Rule(LinkExtractor(allow=('/\w+/detail\w+/\d{2}/\w+.shtml')), callback='parse_data_older', follow=True,),
+        Rule(LinkExtractor(allow=('/.+')), follow=True,),
     )
 
 

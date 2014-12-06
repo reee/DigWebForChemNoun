@@ -1,0 +1,73 @@
+延迟早期转录可特指病毒
+龟裂俗称
+氧化物中
+虽然在汉语看来像被动语态
+氢氧化难
+琥珀密码子即终止密码子
+环氧煤沥青油漆
+氯醇橡胶参见
+心肝毒素如来自链球菌
+
+编码错误：尸，酌
+符号：[]  ； （
+被氧化为
+
+频率 实验 实验室 图解法 充电电流 假说 假孕 构成 构架 物体 物质波 物质传递 洗涤 系数
+洗衣皂 标记 转化 能量 不稳定性 密度 压力 培养液 香 香味 准确度
+炸弹 常数 容器 回收 化碱【等】 环状 全氟 【水：http://www.guokr.com/article/121/】
+
+富集 微克 空白对照 空白试验 水 粒子 系统误差 饱和 培养皿 炸药 羊毛
+
+2014-08-26 10:59:20+0800 [guokr] INFO: Dumping Scrapy stats:
+        {'downloader/request_bytes': 2516880,
+         'downloader/request_count': 8205,
+         'downloader/request_method_count/GET': 8205,
+         'downloader/response_bytes': 121570091,
+         'downloader/response_count': 8205,
+         'downloader/response_status_count/200': 8119,
+         'downloader/response_status_count/301': 71,
+         'downloader/response_status_count/404': 15,
+         'dupefilter/filtered': 66314,
+         'finish_reason': 'finished',
+         'finish_time': datetime.datetime(2014, 8, 26, 2, 59, 20, 501456),
+         'log_count/DEBUG': 8235,
+         'log_count/ERROR': 10,
+         'log_count/INFO': 76,
+         'offsite/domains': 12,
+         'offsite/filtered': 75,
+         'request_depth_max': 164,
+         'response_received_count': 8134,
+         'scheduler/dequeued': 8205,
+         'scheduler/dequeued/memory': 8205,
+         'scheduler/enqueued': 8205,
+         'scheduler/enqueued/memory': 8205,
+         'spider_exceptions/IOError': 10,
+         'start_time': datetime.datetime(2014, 8, 26, 1, 49, 56, 939332)}
+2014-08-26 10:59:20+0800 [guokr] INFO: Spider closed (finished)
+
+2014-08-26 11:17:30+0800 [songshuhui] INFO: Dumping Scrapy stats:
+        {'downloader/request_bytes': 1976037,
+         'downloader/request_count': 6424,
+         'downloader/request_method_count/GET': 6424,
+         'downloader/response_bytes': 125479975,
+         'downloader/response_count': 6424,
+         'downloader/response_status_count/200': 6402,
+         'downloader/response_status_count/301': 10,
+         'downloader/response_status_count/404': 12,
+         'dupefilter/filtered': 148512,
+         'finish_reason': 'finished',
+         'finish_time': datetime.datetime(2014, 8, 26, 3, 17, 30, 592655),
+         'log_count/DEBUG': 6480,
+         'log_count/ERROR': 21,
+         'log_count/INFO': 68,
+         'offsite/domains': 41,
+         'offsite/filtered': 220,
+         'request_depth_max': 147,
+         'response_received_count': 6414,
+         'scheduler/dequeued': 6424,
+         'scheduler/dequeued/memory': 6424,
+         'scheduler/enqueued': 6424,
+         'scheduler/enqueued/memory': 6424,
+         'spider_exceptions/IOError': 21,
+         'start_time': datetime.datetime(2014, 8, 26, 2, 16, 14, 909747)}
+2014-08-26 11:17:30+0800 [songshuhui] INFO: Spider closed (finished)
