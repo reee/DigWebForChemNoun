@@ -8,7 +8,7 @@ import os
 site_name = "guokr"
 
 # Define where we put the files
-base_dir = '/data/site_data/'
+base_dir = '/Data/site_data/'
 data_dir = base_dir + site_name
 
 class GuokrSpider(CrawlSpider):
@@ -18,7 +18,7 @@ class GuokrSpider(CrawlSpider):
         "http://www.guokr.com/scientific/subject/chemistry",
         "http://www.guokr.com/scientific"
     ]
-    
+
     rules = (
         Rule(LinkExtractor(allow=('/article/\d+/?$')), callback='parse_data', follow=True,),
     )
@@ -30,7 +30,7 @@ class GuokrSpider(CrawlSpider):
         time = "".join(time_list).encode("utf8")
         year = time[0:4]
         month = time[5:7]
-        path = data_dir + '/' + year + '/' + month 
+        path = data_dir + '/' + year + '/' + month
         if not os.path.exists(path):
             os.makedirs(path)
         # get the title
