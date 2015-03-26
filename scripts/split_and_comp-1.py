@@ -63,8 +63,6 @@ f = file(keywords_file).decode('utf-8')
 key_list = f.readlines()
 f.close()
 
-# we put all the result in a delicated file for review:
-r = file(result_file, 'a')
 # We put one years's data into one file
 # And we make it compatible with Graphwiz's dot file
 for year in os.listdir(source_dir):
@@ -79,16 +77,14 @@ for year in os.listdir(source_dir):
         for file_name in files:
             source_file = os.path.join(root, file_name)
             source_article = open(source_file).read().decode('utf-8')
+            # ry.write("The Title of the Content is %s : \n" % file_name)
             sentence_list = split_to_sentence(source_article)
-            # We need to know where are the keywords from:
-            r.write("The Title of the Content is %s : \n" % file_name)
                 for sentence in sentence_list:
                     words_list = list(jieba.cut(sentence, cut_all=False))
-                    chemnoun_list = get_chemnoun(words_list, key_list)
+                    result = get_chemnoun(words_list, key_list)
                     if result:
                         result = ' -- '.join(result) + ';' + '\n'
                         ry.writelines(result)
                         r.writelines(result)
     ry.write(file_root)
     ry.close()
-r.close()
