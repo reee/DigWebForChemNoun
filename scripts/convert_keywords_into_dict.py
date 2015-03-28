@@ -6,7 +6,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-keywords_file = "/data/paper/keywords/keywords.txt"
+keywords_file = "/data/paper/keywords/keywords-checked.txt"
 dict_file = "/data/paper/keywords/user_dict.txt"
 
 dict_list = []

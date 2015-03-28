@@ -3,6 +3,7 @@
 import os
 import sys
 import jieba
+import jieba.posseg as posseg
 
 from langconv import *
 
@@ -29,15 +30,16 @@ def split_to_sentence(content):
         sentence_list.append(content[start:])
     return sentence_list
 
-def get_chemnoun(word_list, key_list):
+def get_chemnoun(sentence, key_list):
+    word_list = posseg.cut(sentence)
     chemnoun_list = []
-    for word in word_list:
-        word = word.strip()
-        for key in key_list:
-            key = key.strip()
-            if key in word:
-                chemnoun_list.append(word)
-                break
+    for w in word_list:
+        if 'n' in w.flag:
+            for key in key_list:
+                key = key.strip()
+                if key in w.word:
+                    chemnoun_list.append(w.word)
+                    break
     return chemnoun_list
 
 reload(sys)
@@ -59,7 +61,7 @@ result_file = result_dir + "/" + "result.txt"
 jieba.load_userdict(user_dict)
 
 # load the keywords file as a list
-f = file(keywords_file).decode('utf-8')
+f = file(keywords_file)
 key_list = f.readlines()
 f.close()
 
@@ -76,15 +78,13 @@ for year in os.listdir(source_dir):
     for root, dirs, files in os.walk(source_year):
         for file_name in files:
             source_file = os.path.join(root, file_name)
-            source_article = open(source_file).read().decode('utf-8')
+            source_article = open(source_file).read()
             # ry.write("The Title of the Content is %s : \n" % file_name)
             sentence_list = split_to_sentence(source_article)
-                for sentence in sentence_list:
-                    words_list = list(jieba.cut(sentence, cut_all=False))
-                    result = get_chemnoun(words_list, key_list)
-                    if result:
-                        result = ' -- '.join(result) + ';' + '\n'
-                        ry.writelines(result)
-                        r.writelines(result)
+            for sentence in sentence_list:
+                result = get_chemnoun(sentence, key_list)
+                if result:
+                    result = ' -- '.join(result) + ';' + '\n'
+                    ry.writelines(result)
     ry.write(file_root)
     ry.close()
