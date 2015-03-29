@@ -36,7 +36,7 @@ def get_chemnoun(sentence, key_list):
     for w in word_list:
         if 'n' in w.flag:
             for key in key_list:
-                key = key.strip()
+                key = key.decode('utf8').strip()
                 if key in w.word:
                     chemnoun_list.append(w.word)
                     break
@@ -50,7 +50,7 @@ site_name = raw_input('Please Input the site name: ')
 
 # Define where we put the files:
 source_dir = "/data/site_data/" + site_name
-keywords_file = "/data/paper/keywords/keywords.txt"
+keywords_file = "/data/paper/keywords/key.txt"
 user_dict = "/data/paper/keywords/user_dict.txt"
 result_dir = "/data/paper/result/" + site_name
 if not os.path.exists(result_dir):
@@ -70,7 +70,7 @@ f.close()
 for year in os.listdir(source_dir):
     source_year = source_dir + '/' + year + '/'
     result_year = result_dir + '/result-' + site_name + '-' + year + '.dot'
-    ry = open(result_year, "a")
+    ry = open(result_year, "w")
     file_head = "graph " + site_name + "-" + year + " {" + "\n"
     file_root = "}"
     ry.write(file_head)
@@ -79,7 +79,7 @@ for year in os.listdir(source_dir):
         for file_name in files:
             source_file = os.path.join(root, file_name)
             source_article = open(source_file).read()
-            # ry.write("The Title of the Content is %s : \n" % file_name)
+            ry.write("# The Title of the Content is %s : \n" % file_name)
             sentence_list = split_to_sentence(source_article)
             for sentence in sentence_list:
                 result = get_chemnoun(sentence, key_list)

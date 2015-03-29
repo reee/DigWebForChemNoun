@@ -8,7 +8,7 @@ import os
 site_name = "guokr"
 
 # Define where we put the files
-base_dir = '/Data/site_data/'
+base_dir = '/data/site_data/'
 data_dir = base_dir + site_name
 
 class GuokrSpider(CrawlSpider):
