@@ -79,7 +79,7 @@ for year in os.listdir(source_dir):
         for file_name in files:
             source_file = os.path.join(root, file_name)
             source_article = open(source_file).read()
-            ry.write("# The Title of the Content is %s : \n" % file_name)
+            ry.write("# 本文标题是 %s : \n" % file_name)
             sentence_list = split_to_sentence(source_article)
             for sentence in sentence_list:
                 result = get_chemnoun(sentence, key_list)
