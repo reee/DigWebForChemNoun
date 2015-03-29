@@ -71,3 +71,6 @@
          'spider_exceptions/IOError': 21,
          'start_time': datetime.datetime(2014, 8, 26, 2, 16, 14, 909747)}
 2014-08-26 11:17:30+0800 [songshuhui] INFO: Spider closed (finished)
+
+合并类似词：
+例如丁达尔效应/丁达尔现象 粘度/黏度
