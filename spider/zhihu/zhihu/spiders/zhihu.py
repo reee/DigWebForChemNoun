@@ -15,15 +15,16 @@ data_dir = base_dir + site_name
 class ZhihuSpider(CrawlSpider):
     name = site_name
     allowed_domains = [
-        "www.zhihudaily.net",
+        "http://zhihudaily.ahorn.me",
+        "http://daily.zhihu.com"
     ]
     start_urls = [
-        "http://www.zhihudaily.net",
+        "http://zhihudaily.ahorn.me",
     ]
 
     rules = (
-        Rule(LinkExtractor(allow=('/story/\d+/?$')), callback='parse_data', follow=True),
-        Rule(LinkExtractor(allow=('/day/\d{8}/?$')), follow=True)
+        Rule(LinkExtractor(allow=('/story/\d+$')), callback='parse_data', follow=True),
+        Rule(LinkExtractor(allow=('/page/.+$')), follow=True)
     )
 
     def parse_data(self, response):

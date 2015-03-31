@@ -33,6 +33,7 @@ def split_to_sentence(content):
     return sentence_list
 
 def get_chemnoun(sentence, key_list, black_list):
+    sentence = sentence.decode('utf-8')
     word_list = posseg.cut(sentence)
     chemnoun_list = []
     for w in word_list:
@@ -91,11 +92,12 @@ for year in os.listdir(source_dir):
     for root, dirs, files in os.walk(source_year):
         for file_name in files:
             source_file = os.path.join(root, file_name)
-            source_article = open(source_file).read()
+            para_list = open(source_file).readlines()
             y.write("# 本文标题是 %s : \n" % file_name)
-            sentence_list = split_to_sentence(source_article)
-            for sentence in sentence_list:
-                result = get_chemnoun(sentence, key_list, black_list)
+            # sentence_list = split_to_sentence(source_article)
+            # for sentence in sentence_list:
+            for para in para_list:
+                result = get_chemnoun(para, key_list, black_list)
                 if result:
                     result = ' -- '.join(result) + ';' + '\n'
                     y.writelines(result)
