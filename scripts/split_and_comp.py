@@ -25,25 +25,18 @@ result_file = result_dir + "/" + "result.txt"
 jieba.load_userdict(user_dict)
 
 # Convert the Keywords file into a list
-keywords_list = []
-f = file(keywords_file)
-while True:
-    line = f.readline().strip().decode('utf-8')
-    if len(line) == 0:
-        break
-    keywords_list.append(line)
+keywords_list = open(keywords_file).readlines()
+keywords_list = [key.decode('utf-8').strip() for key in keywords_list]
 
-#We put all the result in a delicated file for review:
-r = open(result_file, "a")
 # We put one years's data into one file
 # And it is compatible with Graphwiz's dot file
 for year in os.listdir(source_dir):
     source_year = source_dir + "/" + year + "/"
     result_year = result_dir + "/result-" + site_name + "-" + year + ".dot"
-    ry = open(result_year, "a")
-    file_head = "graph " + site_name + "-" + year + " {" + "\n"
+    r = open(result_year, "a")
+    file_head = "graph " + site_name + "-" + year + " {\n"
     file_root = "}"
-    ry.write(file_head)
+    r.write(file_head)
     # Get all the txt files in the dictionary:
     for root, dirs, files in os.walk(source_year):
         for file_name in files:
@@ -53,14 +46,7 @@ for year in os.listdir(source_dir):
             result = list(set(words_list) & set(keywords_list))
             # If the result is not empty, put into the file:
             if result:
-                ry.write(' -- '.join(result))
-                ry.write(";")
-                ry.write("\n")
-                # We need to know where are the keywords from:
-                r.write("The Title of the Content is %s :" % file_name)
-                r.write("\n")
-                r.write(';'.join(result))
-                r.write("\n")
-    ry.write(file_root)
-    ry.close()
-r.close()
+                r.write("# 本文标题为：%s \n " % file_name)
+                r.write(' -- '.join(result) + ";\n")
+    r.write(file_root)
+    r.close()

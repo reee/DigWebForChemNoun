@@ -8,3 +8,6 @@ sed -e 's/.*\\n<br>\(.*\)\\n/\1/g'
 sed -e 's/.*n\.\([^\\n]*\)\\n/\1/g' 6-t.txt 
 
 grep -oP 'n\..*\\n' 6-t.txt | sed 's/n\.//g' | sed 's/\\n/\n/g' | sort | uniq -u
+
+È¥³ıÖØ¸´Ïî
+awk ' !x[$0]++'
