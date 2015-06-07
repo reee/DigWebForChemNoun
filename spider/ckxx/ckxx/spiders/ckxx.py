@@ -32,12 +32,7 @@ data_dir = base_dir + site_name
 class zqbSpider(CrawlSpider):
     name = site_name
     allowed_domains = [
-        "www.cankaoxiaoxi.com",
-        "china.cankaoxiaoxi.com",
-        "world.cankaoxiaoxi.com",
-        "tw.cankaoxiaoxi.com",
-        "mil.cankaoxiaoxi.com",
-        "finance.cankaoxiaoxi.com"
+        "cankaoxiaoxi.com",
     ]
     start_urls = url_list
     

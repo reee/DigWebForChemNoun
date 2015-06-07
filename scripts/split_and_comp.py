@@ -46,7 +46,7 @@ for year in os.listdir(source_dir):
             result = list(set(words_list) & set(keywords_list))
             # If the result is not empty, put into the file:
             if result:
-                r.write("# 本文标题为：%s \n " % file_name)
+                #r.write("# 本文标题为：%s \n " % file_name)
                 r.write(' -- '.join(result) + ";\n")
     r.write(file_root)
     r.close()

@@ -33,12 +33,6 @@ jieba.load_userdict(user_dict)
 # Convert the Keywords file into a list
 keywords_list = open(keywords_file).readlines()
 keywords_list = [key.decode('utf-8').strip() for key in keywords_list]
-#f = file(keywords_file)
-#while True:
-#    line = f.readline().strip().decode('utf-8')
-#    if len(line) == 0:
-#        break
-#    keywords_list.append(line)
 
 #We put all the result in a delicated file for review:
 r = open(result_file, "a")
