@@ -24,7 +24,7 @@ class engadgetSpider(CrawlSpider):
     ]
     
     rules = (
-        Rule(LinkExtractor(allow=('/\d{4}/\d{2}/\d{2}/.+/$')),callback='parse_data', follow=True,),
+        Rule(LinkExtractor(allow=('/\d{4}/\d{2}/\d{2}/.+/$')),callback='parse_data'),
         Rule(LinkExtractor(allow=('/page/\d+/$')), follow=True)
     )
 

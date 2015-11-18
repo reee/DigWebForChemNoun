@@ -15,12 +15,12 @@ class GuokrSpider(CrawlSpider):
     name = "guokr"
     allowed_domains = ["www.guokr.com"]
     start_urls = [
-        "http://www.guokr.com/scientific/subject/chemistry",
-        "http://www.guokr.com/scientific"
+            "http://www.guokr.com/scientific/all/archive/"
     ]
 
     rules = (
-        Rule(LinkExtractor(allow=('/article/\d+/?$')), callback='parse_data', follow=True,),
+        Rule(LinkExtractor(allow=('/article/\d+/?$')), callback='parse_data'),
+        Rule(LinkExtractor(allow=('/all/archive/\?.+')), follow=True)
     )
 
 
