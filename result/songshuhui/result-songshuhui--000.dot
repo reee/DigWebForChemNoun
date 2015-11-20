@@ -1,5 +1,3 @@
 graph songshuhui--000 {
 太阳能 -- 电池 -- 光电效应;
-}graph songshuhui--000 {
-太阳能 -- 电池 -- 光电效应;
 }
