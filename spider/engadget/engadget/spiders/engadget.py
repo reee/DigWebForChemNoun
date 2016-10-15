@@ -1,10 +1,14 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-from scrapy.contrib.spiders import CrawlSpider, Rule
-from scrapy.contrib.linkextractors import LinkExtractor
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
 from scrapy.selector import Selector
 import os
+
+import uuid
+import re
+from boilerpipe.extract import Extractor
 
 # Define the site we are going to crawl
 site_name = "engadget"
@@ -22,23 +26,24 @@ class engadgetSpider(CrawlSpider):
     start_urls = [
         "http://cn.engadget.com/"
     ]
-    
+
     rules = (
-        Rule(LinkExtractor(allow=('/\d{4}/\d{2}/\d{2}/.+/$')),callback='parse_data'),
-        Rule(LinkExtractor(allow=('/page/\d+/$')), follow=True)
+        Rule(LinkExtractor(allow=('/\d{4}/\d{2}/\d{2}/(\w+-?)+/$')),callback='parse_data'),
+        Rule(LinkExtractor(allow=('/page/(\d|\d{2}|\d{3}|2\d{3})/$')), follow=True)
     )
 
     def parse_data(self, response):
         # get the publish time and store the fils by year/month
-        year = response.url.split('/')[3]
-        month = response.url.split('/')[4]
-        path = data_dir + '/' + year + '/' + month 
+        time = re.findall("/\d{4}/\d{2}/\d{2}/", response.url)[0]
+        year = time[1:5]
+        month = time[6:8]
+        path = data_dir + '/' + year + '/' + month
         if not os.path.exists(path):
             os.makedirs(path)
         # Get the title
         title = response.xpath('//h1/text()').extract()[0].strip()
         # get the content
-        content_list = response.xpath('//*[@id="body"]/div[1]/div[1]/div//text()').extract()
+        content_list = response.xpath('//*[@id="body"]/div[1]//text()').extract()
         content = "".join(content_list).strip().encode("utf-8")
         # If the time or the content is empty,Means we get the wrong page
         # Do not create the file

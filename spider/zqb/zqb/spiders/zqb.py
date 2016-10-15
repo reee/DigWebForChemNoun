@@ -36,7 +36,7 @@ class zqbSpider(CrawlSpider):
         "zqb.cyol.com",
     ]
     start_urls = url_list
-    
+
     rules = (
         Rule(LinkExtractor(allow=('/html/\d{4}-\d{2}/\d{2}/nw\.D110000zgqnb_\d{8}_\d{1,2}-\d{1,2}\.htm')), \
         callback='parse_data', follow=True,),
@@ -49,11 +49,11 @@ class zqbSpider(CrawlSpider):
         time = response.url.split('/')[4]
         year = time[0:4]
         month = time[5:7]
-        path = data_dir + '/' + year + '/' + month 
+        path = data_dir + '/' + year + '/' + month
         if not os.path.exists(path):
             os.makedirs(path)
         # Get the title
-        title = response.xpath('/html/body/div[3]/div[2]/div[5]/div/h1/text()').extract()[0].strip()
+        title = response.xpath('/html/body/div[3]/div[2]/div[5]/div/h1/text()').extract()[0].strip().encode('utf-8')
         # get the content
         content_list = response.xpath('//*[@id="ozoom"]//p/text()').extract()
         content = "".join(content_list).strip().encode("utf-8")

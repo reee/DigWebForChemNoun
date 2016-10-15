@@ -36,7 +36,7 @@ class cqrbSpider(CrawlSpider):
         "cqrbepaper.cqnews.net",
     ]
     start_urls = url_list
-    
+
     rules = (
         Rule(LinkExtractor(allow=('/cqrb/html/\d{4}-\d{2}/\d{2}/content.+$')), \
         callback='parse_data', follow=True,),
@@ -47,11 +47,11 @@ class cqrbSpider(CrawlSpider):
         time = response.url.split('/')[5]
         year = time[0:4]
         month = time[5:7]
-        path = data_dir + '/' + year + '/' + month 
+        path = data_dir + '/' + year + '/' + month
         if not os.path.exists(path):
             os.makedirs(path)
         # Get the title
-        title = response.xpath('//tr/td/strong/text()').extract()[1].strip()
+        title = response.xpath('//tr/td/strong/text()').extract()[1].strip().encode('utf-8')
         # get the content
         content_list = response.xpath('//*[@id="ozoom"]/founder-content//text()').extract()
         content = "".join(content_list).strip().encode("utf-8")
