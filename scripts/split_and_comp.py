@@ -5,8 +5,8 @@ import os
 import sys
 import jieba
 import jieba.posseg as posseg
+import opencc
 
-from langconv import *
 from replace_dict import pattern_dict
 
 def replace_str(input_list, pattern_dict):
@@ -17,7 +17,7 @@ def get_allnoun(content):
     #Decode the text data to ascii
     content = content.decode('utf8')
     #Convert chinese traditional to chinese simplified
-    content = Converter('zh-hans').convert(content)
+    # content = opencc.convert(content, config='t2s.json')
     word_list = posseg.cut(content)
     allnoun_list = []
     for w in word_list:
