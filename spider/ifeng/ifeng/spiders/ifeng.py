@@ -18,13 +18,13 @@ class GuokrSpider(CrawlSpider):
     name = "ifeng"
     allowed_domains = ["news.ifeng.com"]
     start_urls = [
-            "http://news.ifeng.com/listpage/11502/20110101/1/rtlist.shtml"
+            "http://news.ifeng.com/listpage/11502/20120101/1/rtlist.shtml"
     ]
 
     rules = (
-        Rule(LinkExtractor(allow=('.+/detail_201[0-6]_\d{2}/\d{2}/\d+_\d.shtml')), callback='parse_data_old'),
-        Rule(LinkExtractor(allow=('/a/201[0-6]\d{4}/\d+_\d.shtml')), callback='parse_data_new'),
-        Rule(LinkExtractor(allow=('/listpage/11502/201[0-6]\d{4}/\d+/rtlist.shtml$')), follow=True)
+        Rule(LinkExtractor(allow=('.+/detail_2012_\d{2}/\d{2}/\d+_\d.shtml')), callback='parse_data_old'),
+        Rule(LinkExtractor(allow=('/a/2012\d{4}/\d+_\d.shtml')), callback='parse_data_new'),
+        Rule(LinkExtractor(allow=('/listpage/11502/2012\d{4}/\d+/rtlist.shtml$')), follow=True)
     )
 
     def parse_data_old(self, response):
@@ -38,10 +38,7 @@ class GuokrSpider(CrawlSpider):
         # We use boilerpipe to auto extact body from html
         extractor = Extractor(extractor='ArticleExtractor', html=response.body)
         content = extractor.getText().encode('utf-8')
-        #content_list = response.xpath('//*[@id="artical_real"]//text()').extract()
-        #content = "".join(content_list).strip().encode("utf8")
 
-        #filename = path + '/' +  title + '.txt'
         filename = path + '/' + str(uuid.uuid4()) + '.txt'
         with open(filename, 'wb') as f:
                 f.write(content)

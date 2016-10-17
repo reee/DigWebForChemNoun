@@ -3,6 +3,8 @@ from scrapy.contrib.linkextractors import LinkExtractor
 from scrapy.selector import Selector
 
 import os
+import uuid
+from boilerpipe.extract import Extractor
 
 # Define the site we are going to crawl
 site_name = "guokr"
@@ -33,13 +35,9 @@ class GuokrSpider(CrawlSpider):
         path = data_dir + '/' + year + '/' + month
         if not os.path.exists(path):
             os.makedirs(path)
-        # get the title
-        title_list = response.xpath('//h1[@id="articleTitle"]/text()').extract()
-        title = "".join(title_list).strip().encode("utf8")
-        # get the content
-        content_list = response.xpath('//div[@class="document"]/div//text()').extract()
-        content = "".join(content_list).strip().encode("utf8")
+        extractor = Extractor(extractor='ArticleExtractor', html=response.body)
+        content = extractor.getText().encode('utf-8')
 
-        filename = path + '/' +  title + '.txt'
+        filename = path + '/' +  str(uuid.uuid4()) + '.txt'
         with open(filename, 'wb') as f:
                 f.write(content)
