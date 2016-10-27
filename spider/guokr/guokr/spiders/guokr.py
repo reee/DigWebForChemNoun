@@ -17,12 +17,12 @@ class GuokrSpider(CrawlSpider):
     name = "guokr"
     allowed_domains = ["www.guokr.com"]
     start_urls = [
-            "http://www.guokr.com/scientific/all/archive/"
+            "http://www.guokr.com/scientific/all/archive/201610/"
     ]
 
     rules = (
         Rule(LinkExtractor(allow=('/article/\d+/?$')), callback='parse_data'),
-        Rule(LinkExtractor(allow=('/all/archive/\?.+')), follow=True)
+        Rule(LinkExtractor(allow=('/all/archive/201[0-6][0-1][0-9]/(\?page=\d+)?$')), follow=True),
     )
 
 
