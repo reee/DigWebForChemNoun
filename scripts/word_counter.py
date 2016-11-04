@@ -31,6 +31,7 @@ for site in sites:
                 percent = str(round(float(count)/float(count_all), 4))
                 output_content.append("%s,%s,%s \n" % (word, percent, count))
             with open(output_path, 'w') as o:
+                o.truncate()
                 o.writelines(output_content)
 
 
