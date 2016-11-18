@@ -24,8 +24,8 @@ for site in sites:
             count_all = sum(c.values())
             output_content.append("Total Word is %s \n" % count_all)
             output_content.append("Word,Percent,Count \n")
-            top_20 = c.most_common(20)
-            for i in top_20:
+            top_50 = c.most_common(50)
+            for i in top_50:
                 word = i[0]
                 count = i[1]
                 percent = str(round(float(count)/float(count_all), 4))

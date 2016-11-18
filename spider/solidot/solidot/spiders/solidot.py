@@ -11,7 +11,7 @@ import os
 from dateutil.rrule import *
 from datetime import *
 
-date_list = list(rrule(DAILY, dtstart=datetime(2008,1,1), \
+date_list = list(rrule(DAILY, dtstart=datetime(2015,1,1), \
                     until=datetime.today()))
 date_list = [d.strftime('%Y%m%d') for d in date_list]
 

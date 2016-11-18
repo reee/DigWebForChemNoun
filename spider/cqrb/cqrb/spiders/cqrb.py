@@ -10,7 +10,7 @@ import os
 # for cqrb the first available day is 2007,12,16
 from dateutil.rrule import *
 from datetime import *
-date_list = list(rrule(DAILY, dtstart=datetime(2007,12,16), \
+date_list = list(rrule(DAILY, dtstart=datetime(2015,01,01), \
             until=datetime.today()))
 date_list = [str(date) for date in date_list]
 url_list = []

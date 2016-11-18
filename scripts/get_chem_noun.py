@@ -5,7 +5,7 @@ import os
 import sys
 import jieba
 import jieba.posseg as posseg
-import opencc
+# import opencc
 
 from replace_dict import pattern_dict
 from multiprocessing import Pool
