@@ -1,5 +1,5 @@
-from scrapy.contrib.spiders import CrawlSpider, Rule
-from scrapy.contrib.linkextractors import LinkExtractor
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
 from scrapy.selector import Selector
 
 import os
@@ -17,7 +17,7 @@ class GuokrSpider(CrawlSpider):
     name = "guokr"
     allowed_domains = ["www.guokr.com"]
     start_urls = [
-            "http://www.guokr.com/scientific/all/archive/201610/"
+            "http://www.guokr.com/scientific/all/archive/201702/"
     ]
 
     rules = (

@@ -23,9 +23,10 @@ class engadgetSpider(CrawlSpider):
     allowed_domains = [
         "cn.engadget.com",
     ]
-    start_urls = [
-        "http://cn.engadget.com/"
-    ]
+    site_url = "http://cn.engadget.com/page/"
+    start_url1 = [site_url + str(i) + '/' for i in range(610,639)]
+    start_url2 = [site_url + str(i) + '/' for i in range(641,1666)]
+    start_urls = start_url1 + start_url2
 
     rules = (
         Rule(LinkExtractor(allow=('/\d{4}/\d{2}/\d{2}/(\w+-?)+/$')),callback='parse_data'),
@@ -40,14 +41,10 @@ class engadgetSpider(CrawlSpider):
         path = data_dir + '/' + year + '/' + month
         if not os.path.exists(path):
             os.makedirs(path)
-        # Get the title
-        title = response.xpath('//h1/text()').extract()[0].strip()
-        # get the content
-        content_list = response.xpath('//*[@id="body"]/div[1]//text()').extract()
-        content = "".join(content_list).strip().encode("utf-8")
-        # If the time or the content is empty,Means we get the wrong page
-        # Do not create the file
-        if title and content:
-            filename = path + '/' +  title + '.txt'
+        extractor = Extractor(extractor='ArticleExtractor', html=response.body)
+        content = extractor.getText().encode('utf-8')
+        if content:
+            filename = path + '/' + str(uuid.uuid4()) + '.txt'
             with open(filename, 'wb') as f:
                 f.write(content)
+

@@ -5,7 +5,6 @@ import os
 import sys
 import jieba
 import jieba.posseg as posseg
-# import opencc
 
 from replace_dict import pattern_dict
 from multiprocessing import Pool
@@ -32,8 +31,6 @@ def replace_str(input_list, pattern_dict):
 def get_allnoun(content):
     #Decode the text data to ascii
     content = content.decode('utf8')
-    #Convert chinese traditional to chinese simplified
-    # content = opencc.convert(content, config='t2s.json')
     word_list = posseg.cut(content)
     allnoun_list = []
     for w in word_list:
@@ -77,6 +74,9 @@ jieba.load_userdict(user_dict)
 
 # We put one years's data into one file
 # And we make it compatible with Graphwiz's dot file
+# We use multithreading to speed up the work
+# set num in the Pool() 
+# the num equal to the num of logical core the CPU have
 p = Pool(4)
 for year in os.listdir(source_dir):
     source_path = os.path.join(source_dir, year)
