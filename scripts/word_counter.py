@@ -9,7 +9,8 @@ from collections import Counter
 sites = os.listdir(result_dir)
 for site in sites:
     site_dir = os.path.join(result_dir, site)
-    files = os.listdir(site_dir)
+    all_files = os.listdir(site_dir)
+    files = [f for f in all_files if f.endswith('dot')]
     for f in files:
         input_path = os.path.join(site_dir, f)
         year = f.split(".")[0].split("-")[1]

@@ -1,0 +1,3 @@
+Total Word is 1 
+Word,Percent,Count 
+蛋白质,1.0,1 

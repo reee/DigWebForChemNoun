@@ -1,0 +1,5 @@
+Total Word is 3 
+Word,Percent,Count 
+爱因斯坦,0.3333,1 
+核聚变,0.3333,1 
+量子力学,0.3333,1 
